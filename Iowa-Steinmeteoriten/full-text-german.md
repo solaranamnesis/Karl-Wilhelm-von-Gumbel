@@ -26,7 +26,7 @@ Der Meteorit von Iowa gehört zu der Klasse jener am häufigsten vorkommenden St
 
 Der ziemlich scharfkantige, spitzwinkelige, unregelmässig tetraëderishe Stein ist mit einer schwarzen Schmelzrinde rings bedeckt, und im Innern licht graulich weiss, it zahlreichen kleinen schwarzen Knöllchen und Körnchen von Meteor- und Schwefeleisen, und zerstreut vorkommenden kleinen Rostflecken versehen. Der Stein ist ziemlich hart und lässt sich nicht mit der Hand zerreiben. Er gleicht dem allgemeinen Character nach sehr dem Steinmeteoriten von Pultusk, indem er wie dieser, abgesehen von Meteor- und Schwefeleisen, aus einer weisslichen und gelblichen Hauptmasse besteht, in welcher einzelne glasglänzende Olivinkörnchen und theils dunklere, theils hellere, zuweilen opake Kügelchen (Sphaerochondren) sich abheben. Daubrée* vergleicht ihn mit den Steinmeteoriten von Vouillé (13. Mai 1831) und von Aumale in Algier (25. August 1865). Es wird durch diesen Fall die bereits über alle andern Arten von Meteorsteinen weit überwiegende Zahl der Chondrite wiederum um eine vergrössert und der Eindruck des einheitlichen Ursprungs aller dieser Fragmente von einem einst zusammengehörigen Ganzen, den auch neulich Meunier* so stark betont, wesentlich verstärkt.
 
-
+Die äussere, ziemlich scharfkantige und eckige Form der Steine dieses Falls, welche durch die dünne, oberflächliche Schmelzrinde nur wenig verwischt wird, deutet unzweifelhaft auf Bruchstücke einer zersplitterten grösseren Steinmasse hin, welche durch Zertrümmerung einer bereits vollständig fertigen festen Substanz entstanden sind.
 
 *) Comptes rendus d. s. de l'Acad. d. sc. 1875. 1175.
 

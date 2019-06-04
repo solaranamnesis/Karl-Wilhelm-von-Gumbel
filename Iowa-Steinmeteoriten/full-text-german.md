@@ -66,3 +66,5 @@ _fc_ mit strahliger Structur,
 _kc_ mit körniger Structur  
 _oc_ aus Olivin bestehend,  
 _dc_ opake feinkörnige Kügelchen.  
+
+Eine der merkwürdigsten Erscheinungen bei fast sämmtlichen Gemengtheilen, die metallischen abgerechnet, zeigt sich darin, dass die einzelnen Stückchen von einer erstaunlichen Menge feiner und feinster Risse durchzogen sind. Bei manchen Gemengtheilen zeigt sich in der Richtung dieser endlosen Zerklüftung eine gewisse Regelmässigkeit durch einen parallelen Verlauf der Risse, welche vermuthlich im Zusammenhang mit der Spaltungsrichtung der betreffenden Mineralien steht. Aber gleichzeitig treten neben diesen mehr regelmässig verlaufenden andere Risse hervor, die jene rechtwinklig oder schief durchkreuzen und ein wahres Netzwerk von Rissen erzeugen, so dass selbst sonst helle Mineraltheilchen dadurch getrübt erscheinen. Sie müssen als ein Zeichen erlittener Zertrümmerung durch Stoss, Druck oder raschen Temperaturwechsel angesehen werden.

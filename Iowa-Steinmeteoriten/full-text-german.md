@@ -51,18 +51,18 @@ Die ziemlich harte, zwischen den Fingern nicht zerreibliche Hauptmasse des Stein
 Das Bild auf der beigegebenen lithographirten Tafel zeigt die Art der Vertheilung dieser Gemengtheile in einem Dünnschliffe in 25 maliger Vergrösserung.
 
 Erklärung der Randbezeichnungen der Lithographie  
-o Olivin,  
-a Augitische Theile,  
-f Meteoreisen,  
-s Schwefeleisen,  
-ch Chromeisen,  
-k Theile mit krystallartigem Umrisse,  
-io Olivinkörnchen im Meteoreisen,  
-g röthliche granatähnliche Einschlüsse,  
-c Sphärochondren und zwar:  
-  cc mit concentrischer Structur,  
-  sc mit fasriger Structur,  
-  fc mit strahliger Structur,  
-  kc mit körniger Structur  
-  oc aus Olivin bestehend,  
-  dc opake feinkörnige Kügelchen.  
+_o_ Olivin,  
+_a_ Augitische Theile,  
+_f_ Meteoreisen,  
+_s_ Schwefeleisen,  
+_ch_ Chromeisen,  
+_k_ Theile mit krystallartigem Umrisse,  
+_io_ Olivinkörnchen im Meteoreisen,  
+_g_ röthliche granatähnliche Einschlüsse,  
+_c_ Sphärochondren und zwar:  
+_cc_ mit concentrischer Structur,  
+_sc_ mit fasriger Structur,  
+_fc_ mit strahliger Structur,  
+_kc_ mit körniger Structur  
+_oc_ aus Olivin bestehend,  
+_dc_ opake feinkörnige Kügelchen.  

@@ -96,3 +96,19 @@ Dass das Gestein Wasser enthält, bedarf nicht erst eines Nachweises, da diess d
 Auch verschiedene Gasarten sind bereits durch Wriht* in diesem Meteorite von Iowa nachgewiesen. Die vorläufigen Versuche Wriht's ergaben einen Gehalt an Gas, welches fast zur Hälfte aus Kohlensäure und Kohlenoxyd (CO2 = 35; CO = 14), im Uebrigen hauptsächlich aus Wasserstoff besteht.
 
 Das specifische Gewicht des Steins in der inneren Masse beträgt = 3,75; das eines Rindenstückes = 3,55 bei 20° C.
+
+*) The Americ. Journ. o. sc. a. arts. J. Dana a. Silliman May 1875. Vol. IX. Nr. 54. p. 459; auch Ann. d. Phys. u. Chem. Ergänz. Bd. VII Stück 2.
+
+Chemische Analyse.
+
+Zur Vornahme einer chemischen Analyse stand mir etwas über 1,5 Gramm Substanz zur Verfügung. Aus dem fein zerriebenen Pulver wurde zuerst mit aller Sorgfalt das Meteoreisen mit dem Magnet ausgezogen und diess durch wiederholtes Verfahren möglichst von allen anhaftenden Gesteinstheilen befreit, alsdann besonders analysirt. Ein Theil diente zur Schwefelbestimmung, das übrige wurde zuerst mit kochender Salzsäure behandelt, der auf diese Weise zersetzte Antheil und ebenso der unzersetzte mittelst Barythydrat aufgeschlossene weiter analysirt.
+
+Er ergab sich hierbei folgendes Resultat:
+
+Das Gestein besteht aus
+
+Meteoreisen 12,32  
+Troïlit 5,25  
+in Salzsäure zersetzbarem Theil 48,11  
+in Salzsäure unzersetzbarem Theil 34,32  
+

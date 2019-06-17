@@ -112,3 +112,32 @@ Troïlit 5,25
 in Salzsäure zersetzbarem Theil 48,11  
 in Salzsäure unzersetzbarem Theil 34,32  
 
+Das Nickeleisen besteht ausser Spuren von Kupfer und Schwefel, letzterer wahrscheinlich von etwas anhängenden Troïlit abstammend, aus
+
+Eisen 83,38  
+Nickel (etwas cobalthaltig mit Schwefel und Phosphor) 16,62  
+also annähernd Fe<sub>5</sub>Ni
+
+Der in Salzsäure zersetzbare Theil* (ohne Meteor-und Schwefeleisen berechnet) aus
+
+Kieselsäure 38,38 Sauerstoff: 19,76  
+Eisenoxydul 28,58 Sauerstoff: 6,33  
+Manganoxydul 0,53 Sauerstoff: 0,12  
+Bittererde 31,49 Sauerstoff: 12,59  
+Thonerde 1,01 Sauerstoff: 0,47  
+Kalkerde, Alkalien, Wasser Spuren  
+
+Der in Salzsäure unzersetzte Rest besteht aus*
+
+Kieselerde 53,96 Sauerstoff: 28,74  
+Thonerde 2,01 Sauerstoff: 0,94  
+Eisenoxydul 25,18 Sauerstoff: 5,57  
+Bittererde 8,91 Sauerstoff: 3,56  
+Kalkerde 4,04 Sauerstoff: 1,16  
+Manganoxydul Spuren  
+Chromoxyd 1,42 Sauerstoff: 1,16  
+Natron 2,39 Sauerstoff: 0,59  
+Kali 1,67 Sauerstoff: 0,29  
+
+*) Diese Analysen wurden von Hrn. Assistent Ad. Schwager ausgeführt. (1875. 3. math.-phys. Cl.)
+

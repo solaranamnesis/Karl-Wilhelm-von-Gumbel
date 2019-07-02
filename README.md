@@ -14,5 +14,5 @@ German - PDF
 
 English - Plain Text  
 English - PDF  
-German - Plain Text  
+[German - Plain Text](Iowa-Steinmeteoriten/full-text-german.md)  
 German - PDF  

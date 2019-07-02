@@ -171,3 +171,6 @@ Nickeleisen 12,54
 
 Dabei haben die runden Kügelchen keine weitere Berücksichtigung gefunden, was gewiss nicht naturgemäss erscheint, da sich diese Kügelchen nicht ohne Weiters als aus Augit bestehend ansehen lassen.
 
+Unter den bisher analysirten Chondriten ist nur jener von Tadjera von einer ähnlichen Zusammensetzung*, jedoch kiesel.. und kalkreichen.
+
+Fasst man die  

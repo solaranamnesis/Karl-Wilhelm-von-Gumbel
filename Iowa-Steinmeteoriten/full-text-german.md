@@ -171,6 +171,9 @@ Nickeleisen 12,54
 
 Dabei haben die runden Kügelchen keine weitere Berücksichtigung gefunden, was gewiss nicht naturgemäss erscheint, da sich diese Kügelchen nicht ohne Weiters als aus Augit bestehend ansehen lassen.
 
-Unter den bisher analysirten Chondriten ist nur jener von Tadjera von einer ähnlichen Zusammensetzung*, jedoch kiesel.. und kalkreichen.
+Unter den bisher analysirten Chondriten ist nur jener von Tadjera von einer ähnlichen Zusammensetzung*, jedoch kieselsäureärmer und kalkreichen.
 
-Fasst man die  
+Fasst man die  Ergebnisse der Untersuchung des Steinmeteoriten von Iowa zusammen. so berechtigen sie zu folgenden Steinlüsrem:
+
+
+

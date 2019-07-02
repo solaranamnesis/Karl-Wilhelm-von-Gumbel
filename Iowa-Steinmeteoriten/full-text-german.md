@@ -177,5 +177,7 @@ Fasst man die  Ergebnisse der Untersuchung des Steinmeteoriten von Iowa zusammen
 
 1) Die Steinmasse besteht aus unregelmässigen Mineralsplitterchen von Olivin und einer augitähnlichen Substanz, welche von einem zertrümmerten Gestein hergenommen scheinen. Denselben sind einzelne aus verschiedenen Mineralien zusammengeseszte Stückchen beigemengt. Auch scheint eine feldspathige Substanz in geringer Menge vorhanden zu sein. Fein zerribene Theilchen dieser Mineralien schienen das Kittmittel abaugeben.
 
-2) 
+2) Die rundlichen Kügelchen namechen nehem dem erwähnten Mineraltheilchen einen weseamlichen Theil der Substanz des Steins aus. Sie gehören theils dem Olivin an, theils stellen sie lamellare Verwachsungen von Mineralien dar oder bestehen aus strahlig fassriger Masse. ein Theil derselben seheint aus feldspathiger Substanz zu bestehen. Ihre Form verdanken sie einer mechanischem Abrundung.
+
+3) D
 

@@ -145,29 +145,29 @@ Was das Meteoreisen und das einfache Schwefeleisen anbelangt, so bedarf es hier�
 
 Der ganze Stein besteht aus:
 
-Steinige Masse 81,64
-Troïlit 5,82
-Nickeleisen 12,54
+Steinige Masse 81,64  
+Troïlit 5,82  
+Nickeleisen 12,54  
 
 Der steinige Antheil enthält:
 
-A) 54,15 in Säuren zersetzbare,
-B) 45,85 in Säuren unzersetzbare Substanzen.
+A) 54,15 in Säuren zersetzbare,  
+B) 45,85 in Säuren unzersetzbare Substanzen.  
 
 Diese bestehen nun weiter
 
-Kieselsäure 35,61    55,02
-Eisenoxydul 27,20    27,41
-Magnesia 33,45    13,12
-Thonerde 0,71    0,84
-Alkalien, Eisen etc. 1,45    2,01
+Kieselsäure 35,61    55,02  
+Eisenoxydul 27,20    27,41  
+Magnesia 33,45    13,12  
+Thonerde 0,71    0,84  
+Alkalien, Eisen etc. 1,45    2,01  
 
 Darnach berechnet Smith die Zusammensetzung des Meteoriten aus:
 
-Olivin 44,09
-Pyroxen 37,55
-Troïlit 5,82
-Nickeleisen 12,54
+Olivin 44,09  
+Pyroxen 37,55  
+Troïlit 5,82  
+Nickeleisen 12,54  
 
 Dabei haben die runden Kügelchen keine weitere Berücksichtigung gefunden, was gewiss nicht naturgemäss erscheint, da sich diese Kügelchen nicht ohne Weiters als aus Augit bestehend ansehen lassen.
 

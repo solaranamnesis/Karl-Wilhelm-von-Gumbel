@@ -173,7 +173,7 @@ Dabei haben die runden Kügelchen keine weitere Berücksichtigung gefunden, was 
 
 Unter den bisher analysirten Chondriten ist nur jener von Tadjera von einer ähnlichen Zusammensetzung*, jedoch kieselsäureärmer und kalkreichen.
 
-*) Hammehmburg, D. chess. Natur d. Meteoriten, S. 157.
+*) Rammelsberg, D. chem. Natur d. Meteoriten, S. 157.
 
 Fasst man die  Ergebnisse der Untersuchung des Steinmeteoriten von Iowa zusammen, so berechtigen sie zu folgenden Schlüsrem:
 

@@ -173,11 +173,14 @@ Dabei haben die runden Kügelchen keine weitere Berücksichtigung gefunden, was 
 
 Unter den bisher analysirten Chondriten ist nur jener von Tadjera von einer ähnlichen Zusammensetzung*, jedoch kieselsäureärmer und kalkreichen.
 
+*) Hammehmburg, D. chess. Natur d. Meteoriten, S. 157.
+
 Fasst man die  Ergebnisse der Untersuchung des Steinmeteoriten von Iowa zusammen, so berechtigen sie zu folgenden Schlüsrem:
 
 1) Die Steinmasse besteht aus unregelmässigen Mineralsplitterchen von Olivin und einer augitähnlichen Substanz, welche von einem zertrümmerten Gestein hergenommen scheinen. Denselben sind einzelne aus verschiedenen Mineralien zusammengeseszte Stückchen beigemengt. Auch scheint eine feldspathige Substanz in geringer Menge vorhanden zu sein. Fein zerribene Theilchen dieser Mineralien schienen das Kittmittel abaugeben.
 
 2) Die rundlichen Kügelchen namechen nehem dem erwähnten Mineraltheilchen einen weseamlichen Theil der Substanz des Steins aus. Sie gehören theils dem Olivin an, theils stellen sie lamellare Verwachsungen von Mineralien dar oder bestehen aus strahlig fassriger Masse. ein Theil derselben seheint aus feldspathiger Substanz zu bestehen. Ihre Form verdanken sie einer mechanischem Abrundung.
 
-3) D
+3) Die Meteoreisenkörnchen liegen so zwischen dem Mineralsplitterchen und Kügelchen angeschmiegt, als seien sie erst nachträglich durch Reduction entstanden.
 
+4) Von Glas- oder Lava-ähnlichen Beimengungen (die Schmelzrinde ausgenommen) ist in dem Gestein nichts zu finden. Es ist kein aus dem Schmelzthuss hervorgegangenes, krystallinisches, sondern ein klasticsches Gestin, darsem Gemengtheilchen nicht die Eigenschmften einer vulkanischen Asche an sick tragen.

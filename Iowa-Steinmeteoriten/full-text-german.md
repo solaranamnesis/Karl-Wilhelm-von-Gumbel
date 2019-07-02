@@ -173,7 +173,9 @@ Dabei haben die runden Kügelchen keine weitere Berücksichtigung gefunden, was 
 
 Unter den bisher analysirten Chondriten ist nur jener von Tadjera von einer ähnlichen Zusammensetzung*, jedoch kieselsäureärmer und kalkreichen.
 
-Fasst man die  Ergebnisse der Untersuchung des Steinmeteoriten von Iowa zusammen. so berechtigen sie zu folgenden Steinlüsrem:
+Fasst man die  Ergebnisse der Untersuchung des Steinmeteoriten von Iowa zusammen, so berechtigen sie zu folgenden Schlüsrem:
 
+1) Die Steinmasse besteht aus unregelmässigen Mineralsplitterchen von Olivin und einer augitähnlichen Substanz, welche von einem zertrümmerten Gestein hergenommen scheinen. Denselben sind einzelne aus verschiedenen Mineralien zusammengeseszte Stückchen beigemengt. Auch scheint eine feldspathige Substanz in geringer Menge vorhanden zu sein. Fein zerribene Theilchen dieser Mineralien schienen das Kittmittel abaugeben.
 
+2) 
 

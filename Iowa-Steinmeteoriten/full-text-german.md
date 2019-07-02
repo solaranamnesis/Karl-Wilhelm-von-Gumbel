@@ -142,3 +142,32 @@ Kali 1,67 Sauerstoff: 0,29
 *) Diese Analysen wurden von Hrn. Assistent Ad. Schwager ausgeführt. (1875. 3. math.-phys. Cl.)
 
 Was das Meteoreisen und das einfache Schwefeleisen anbelangt, so bedarf es hierüber keiner weitern Erörterungen. In dem durch Salzsäure zersetzbaren Antheil stellt sich ein Sauerstoffverhältniss der Basen und Säure nahezu wie 1:1 heraus und es bedarf auch hier wohl kaum einer weiteren Ausführung, dass dieser Antheil von einem eisenoxydulreichem Olivin weit vorherrschend herstammt. Weit schwieriger ist die Deutung des in Salzsäure nicht zersetzbaren Bestes, dessen Bestandtheile und ihre Sauerstoffverhältniss zu keinem bestimmten Minerale passen. Diess stimmt auch vollständig mit der optischen Analyse überein, bei welcher nach Entfernung der in Salzsäure löslichen Antheile neben den Sphärochondren in ihrer sehr verschiedenartigen Beschaffenheit noch ein helles rissiges Mineral und kleine schwarze Körnchen nachgewiesen wurden. Dass die letzteren aus Chromeisen bestehen, ist nach den Resultaten der Analyse jetzt kaum mehr zu bezweifeln. Das helle, rissige Mineral gehört wohl sicher der Augitgruppe an. Ganz aussergewöhnlich ist der hohe Eisenoxydulgehalt, auch wenn man einen entsprechenden Theil als am Chromoxyd zu Chromeisen verbunden in Abzug bringt, wogegen die Armuth an Bittererde und Kalkerde auf der andern Seite auffallend ist. Der hohe Gehalt an Alkali scheint weiter mehr Bezug auf die Zusammensetzung der Kügelchen zu haben und auf deren feldspathige Zusammensetzung hinzudeuten. Gehört die Thonerde, wie wahrscheinlich, diesem Gemengtheile mit der entsprechenden Menge Kieselsäure an, so könnte schliesslich sich eine, - aber immer nur beiläufig entsprechende Zusammensetzung eines eisenreichen Augits, wie solcher in den Eukriten, z. B. dem von Juvinas gefunden wird, herausstellen. Immerhin scheint die nähere Natur dieses augitischen Gemengtheiles schwierig ermittelt werden zu können. Obwohl die Analyse, welche J. L. Smith* von dem Iowa-Meteoriten mittheilt, nicht genau mit der obigen stimmt, so wird doch auch in dieser ein ungewöhnlich hoher Eisenoxydulgehalt in dem in Säuren unlöslichen Antheil nämlich 27,41% angegeben. Des Vergleichs wegen folgen hier die Smith'schen Angaben:
+
+Der ganze Stein besteht aus:
+
+Steinige Masse 81,64
+Troïlit 5,82
+Nickeleisen 12,54
+
+Der steinige Antheil enthält:
+
+A) 54,15 in Säuren zersetzbare,
+B) 45,85 in Säuren unzersetzbare Substanzen.
+
+Diese bestehen nun weiter
+
+Kieselsäure 35,61    55,02
+Eisenoxydul 27,20    27,41
+Magnesia 33,45    13,12
+Thonerde 0,71    0,84
+Alkalien, Eisen etc. 1,45    2,01
+
+Darnach berechnet Smith die Zusammensetzung des Meteoriten aus:
+
+Olivin 44,09
+Pyroxen 37,55
+Troïlit 5,82
+Nickeleisen 12,54
+
+Dabei haben die runden Kügelchen keine weitere Berücksichtigung gefunden, was gewiss nicht naturgemäss erscheint, da sich diese Kügelchen nicht ohne Weiters als aus Augit bestehend ansehen lassen.
+

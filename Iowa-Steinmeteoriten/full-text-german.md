@@ -46,24 +46,24 @@ Ich glaube jedoch nicht, dass die oben erwähnten feinen Äderchen eine geschmol
 
 ## Gesteinsmasse.
 
-Die ziemlich harte, zwischen den Fingern nicht zerreibliche Hauptmasse des Steins besteht aus einer Zusammenhäufung von Trümmertheilchen, die ohne jede Zwischensubstanz aneinander agglutinirt sind, da sich weder ein glasartiges, noch überhaupt ein ausgesprochenes Bindemittel zwischen den einzelnen Körnchen beobachten lässt. In grösster Anzahl finden sich in der Hauptmasse kleine Splitterchen von Mineralien mit völlig unregelmässigen Umrissen, wie sie durch Zertrümmerung von Krystallen oder krystallinischen Massen entstehen. Nur höchst selten sieht man - im Dünnschliffe - solche Stückchen, welche von regelmässigen geraden Linien begrenzt, als Kryställchen oder regelmässige Spaltungskörperchen gelten können (_k_ der [lithogr. Tafel](https://cdn.solaranamnesis.com/Gumbel/Iowa/Fig-1.png)). Dazu gesellen sich unregelmässige eckige Körnchen, die an ihrem Glasglanz und an ihrer Farbe ziemlich sicher als Olivin zu bestimmen sind (_o_), weissliche Putzen einer opaken Substanz, kleine Körnchen von bleigrauem metallglänzendem Meteoreisen (_f_), tombackgelbe vielfach durchbrochene Häufchen von Schwefeleisen (_s_), deren feine Körnchen selten geschlossene Massen ausmachen und endlich jene kleinen abgerundeten bald dunkel-, bald hellfarbigen Kügelchen (Sphärochondren _c_), welche dem Stein den Charakter der Chondrite Rose's aufdrücken. Zerstreut oder zu kleinen Gruppen vereinigt stellen sich weiter noch äusserst feine schwarze, nicht metallischglänzende Staubtheilchen (_ch_) ein, die entweder Chromeisen oder einer kohligen Substanz angehören, da sie jeder Einwirkung von Säuren Widerstand leisten.
+Die ziemlich harte, zwischen den Fingern nicht zerreibliche Hauptmasse des Steins besteht aus einer Zusammenhäufung von Trümmerteilchen, die ohne jede Zwischensubstanz aneinander agglutiniert sind, da sich weder ein glasartiges, noch überhaupt ein ausgesprochenes Bindemittel zwischen den einzelnen Körnchen beobachten lässt. In größter Anzahl finden sich in der Hauptmasse kleine Splitterchen von Mineralien mit völlig unregelmäßigen Umrissen, wie sie durch Zertrümmerung von Kristallen oder kristallinischen Massen entstehen. Nur höchst selten sieht man - im Dünnschliffe - solche Stückchen, welche von regelmäßigen geraden Linien begrenzt, als Kriställchen oder regelmäßige Spaltungskörperchen gelten können (_k_ der [lithogr. Tafel](https://cdn.solaranamnesis.com/Gumbel/Iowa/Fig-1.png)). Dazu gesellen sich unregelmäßige eckige Körnchen, die an ihrem Glasglanz und an ihrer Farbe ziemlich sicher als Olivin zu bestimmen sind (_o_), weißliche Putzen einer opaken Substanz, kleine Körnchen von bleigrauem metallglänzendem Meteoreisen (_f_), tombakgelbe vielfach durchbrochene Häufchen von Schwefeleisen (_s_), deren feine Körnchen selten geschlossene Massen ausmachen und endlich jene kleinen abgerundeten bald dunkel-, bald hellfarbigen Kügelchen (Sphärochondren _c_), welche dem Stein den Charakter der Chondrite Rose's aufdrücken. Zerstreut oder zu kleinen Gruppen vereinigt stellen sich weiter noch äußerst feine schwarze, nicht metallischglänzende Staubtheilchen (_ch_) ein, die entweder Chromeisen oder einer kohligen Substanz angehören, da sie jeder Einwirkung von Säuren Widerstand leisten.
 
-[Das Bild auf der beigegebenen lithographirten Tafel](https://cdn.solaranamnesis.com/Gumbel/Iowa/Fig-1.png) zeigt die Art der Vertheilung dieser Gemengtheile in einem Dünnschliffe in 25 maliger Vergrösserung.
+[Das Bild auf der beigegebenen lithographirten Tafel](https://cdn.solaranamnesis.com/Gumbel/Iowa/Fig-1.png) zeigt die Art der Verteilung dieser Gemengteile in einem Dünnschliffe in 25 maliger Vergrößerung.
 
 Erklärung der Randbezeichnungen der Lithographie  
 _o_ Olivin,  
-_a_ Augitische Theile,  
+_a_ Augitische Teile,  
 _f_ Meteoreisen,  
 _s_ Schwefeleisen,  
 _ch_ Chromeisen,  
-_k_ Theile mit krystallartigem Umrisse,  
+_k_ Teile mit kristallartigem Umrisse,  
 _io_ Olivinkörnchen im Meteoreisen,  
-_g_ röthliche granatähnliche Einschlüsse,  
+_g_ rötliche granatähnliche Einschlüsse,  
 _c_ Sphärochondren und zwar:  
-_cc_ mit concentrischer Structur,  
-_sc_ mit fasriger Structur,  
-_fc_ mit strahliger Structur,  
-_kc_ mit körniger Structur  
+_cc_ mit konzentrischer Struktur,  
+_sc_ mit fasriger Struktur,  
+_fc_ mit strahliger Struktur,  
+_kc_ mit körniger Struktur  
 _oc_ aus Olivin bestehend,  
 _dc_ opake feinkörnige Kügelchen.  
 

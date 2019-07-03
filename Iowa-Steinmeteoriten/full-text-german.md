@@ -16,7 +16,7 @@
 
 Am 12. Februar dieses Jahres ereignete sich in der Grafschaft Iowa in Nordamerika nach den Angaben von John Lawrence Smith* Abends um 10 1/2 Uhr bei leicht bewölktem Himmel unter starkem Knall* der Fall eines weithin sichtbaren Meteors, welcher eine große Anzahl von Steine lieferte. Smith berichtet, dass bis dahin ungefähr 150 Kilogramm Steine gesammelt wurden, von denen 25 Kilogramm Prof. Hinrichs zukamen. Seiner Güte verdankt die Akademie ein ungefähr 1500 Gramm schweres prächtiges Stück, welches die Veranlassung zu der nach folgenden näheren Beschreibung der Beschaffenheit dieses höchst merkwürdigen Meteorsteins gab.
 
-Der Meteorit von Iowa gehört zu der Klasse jener am häufigsten vorkommenden Steine, welche man als Chondrite zu bezeichnen pflegt, oder nach [Gabriel Auguste] Daubrée in die Abteilung der Sporadosiderite und in die Gruppe der Oligosiderite, einreiht wie bereits Prof. Hinrichs* in dem Begleitbriefe zu einem der Pariser Akademie über-schickten Stück dieses Meteorsteins ganz richtig bemerkt hatte und Daubrée selbst bestätigte.
+Der Meteorit von Iowa [Homestead] gehört zu der Klasse jener am häufigsten vorkommenden Steine, welche man als Chondrite zu bezeichnen pflegt, oder nach [Gabriel Auguste] Daubrée in die Abteilung der Sporadosiderite und in die Gruppe der Oligosiderite, einreiht wie bereits Prof. Hinrichs* in dem Begleitbriefe zu einem der Pariser Akademie über-schickten Stück dieses Meteorsteins ganz richtig bemerkt hatte und Daubrée selbst bestätigte.
 
 *) Comptes rendus d. seance de l'Academie d. sc. à Paris. T. LXXX. Nr. 23. 1875. p. 1451.
 

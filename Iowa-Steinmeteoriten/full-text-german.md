@@ -1,6 +1,6 @@
 # Sitzungsberichte der mathematisch-physikalischen Klasse der königlich bayerischen Akademie der Wissenschaften zu München.
 
-## Band V. Jahrgang 1875.
+## Band Volumen Jahrgang 1875.
 
 ### München.
 

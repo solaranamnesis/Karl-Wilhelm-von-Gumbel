@@ -60,12 +60,12 @@ _k_ Teile mit kristallartigem Umrisse,
 _io_ Olivinkörnchen im Meteoreisen,  
 _g_ rötliche granatähnliche Einschlüsse,  
 _c_ Sphärochondren und zwar:  
- _cc_ mit konzentrischer Struktur,  
- _sc_ mit fasriger Struktur,  
- _fc_ mit strahliger Struktur,  
- _kc_ mit körniger Struktur  
- _oc_ aus Olivin bestehend,  
- _dc_ opake feinkörnige Kügelchen.  
+_cc_ mit konzentrischer Struktur,  
+_sc_ mit fasriger Struktur,  
+_fc_ mit strahliger Struktur,  
+_kc_ mit körniger Struktur  
+_oc_ aus Olivin bestehend,  
+_dc_ opake feinkörnige Kügelchen.  
 
 Eine der merkwürdigsten Erscheinungen bei fast sämtlichen Gemengteilen, die metallischen abgerechnet, zeigt sich darin, dass die einzelnen Stückchen von einer erstaunlichen Menge feiner und feinster Risse durchzogen sind. Bei manchen Gemengteilen zeigt sich in der Richtung dieser endlosen Zerklüftung eine gewisse Regelmäßigkeit durch einen parallelen Verlauf der Risse, welche vermutlich im Zusammenhang mit der Spaltungsrichtung der betreffenden Mineralien steht. Aber gleichzeitig treten neben diesen mehr regelmäßig verlaufenden andere Risse hervor, die jene rechtwinklig oder schief durchkreuzen und ein wahres Netzwerk von Rissen erzeugen, so dass selbst sonst helle Mineralteilchen dadurch getrübt erscheinen. Sie müssen als ein Zeichen erlittener Zertrümmerung durch Stoß, Druck oder raschen Temperaturwechsel angesehen werden.
 

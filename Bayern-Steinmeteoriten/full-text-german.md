@@ -1,4 +1,4 @@
-# Sitzungsberichte der mathematisch-physikalischen Classe der k. b. Akademie der Wissenschaften zu München.
+# Sitzungsberichte der mathematisch-physikalischen Classe der königlich bayerischen Akademie der Wissenschaften zu München.
 
 ## Band VIII. Jahrgang 1878.
 

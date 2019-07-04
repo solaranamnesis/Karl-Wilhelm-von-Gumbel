@@ -1,4 +1,4 @@
-# Sitzungsberichte der mathematisch-physikalischen Klasse der k. b. Akademie der Wissenschaften zu München.
+# Sitzungsberichte der mathematisch-physikalischen Klasse der königlich bayerischen Akademie der Wissenschaften zu München.
 
 ## Band V. Jahrgang 1875.
 
@@ -10,7 +10,7 @@
 
 #### In Kommission bei G. Franz.
 
-#### Herr C. W. Gümbel hält einen Vortrag:
+#### Herr Karl Wilhelm von Gümbel hält einen Vortrag:
 
 #### „Über die Beschaffenheit des Steinmeteoriten vom Fall am 12. Februar 1875 in der Grafschaft Iowa Nordamerika“
 

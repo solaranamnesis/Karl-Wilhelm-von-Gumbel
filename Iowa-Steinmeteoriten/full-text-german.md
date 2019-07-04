@@ -81,27 +81,27 @@ Behandelt man massig feines Pulver längere Zeit mit Salzsäure in der Wärme, s
 
 Ändert man den Versuch in der Weise ab, dass man ein nicht zu dünngeschliffenes, jedoch gut durchsichtiges Blättchen des Gesteins erst in Salzsäure kocht, so behält dasselbe noch seinen Zusammenhalt. Auf eine Glasplatte aufgenommen und nun mit kaustischer Kalilauge sorgfältig behandelt, um die freigewordene Kieselsäure zu beseitigen, stellt dasselbe ein löcheriges Präparat dar, aus dem der Olivin, Meteoreisen und Schwefeleisen verschwunden sind, während das weiße Mineral und die meisten Kügelchen unverändert sich erhalten haben. Versucht man das auf diese Weise erhaltene Präparat mittelst Kanadabalsam unter einem Deckgläschen zu konservieren, so zerteilt sich bei dem geringen Druck, den das Auflegen des Deckgläschens verursacht, die Masse in einzelne Häufchen des weißen Minerals, in einzelne Flocken und in die runden Kügelchen, welche oft ganz frei hervortreten und eine unebene rauhe Oberfläche erkennen lassen. Außerdem machen sich äußerst spärlich kleine, lichtgranatrote, ziemlich regelmäßig 5-6 seitige Körperchen bemerkbar, die ich auch im Dünnschliffe (_g_) beobachtete. Sie erinnern an Granaten, erweisen sich aber als doppelt brechend. Die Farbe lässt auch an Noseau denken. Doch stimmt auch damit die optische Eigenschaft derselben nicht.
 
-Ueber die Natur der in Salzsäure unzersetzten, hellen Mineraltheilchen, die wahrscheinlich der Gruppe des Augits angehören, vermag nur die chemische Analyse Aufschluss zu geben. Aber auch hierbei stellt sich eine gewisse Unsicherheit wegen der Anwesenheit der zahlreichen, gleichfalls in Salzsäure unzersetzten Kügelchen (abgesehen von den Olivinkörnchen) ein, die weder mit dem hellen Mineral identisch zusammengesetzt sind, noch überhaupt einem einfachen Mineral entsprechen. Manche dieser Kügelchen nähern sich in ihrem physikalischen Verhalten dem weissen Mineral, zeigen aber doch eine eigenthümliche Art der Zerklüftung. Andere bestehen deutlich aus Lamellen verschiedener verwachsener Mineralien und noch andere sind wenig durchsichtig weiss, pulvrig körnig und zeigen häufig eine concentrische Structur mit dunkleren und helleren Zonen, oft auch mit einer rindenartigen dunklen Umhüllung oder einem theils dunklen, theils hellen Centrum. Schwarze staubartige Körnchen, die in denselben vorkommen, sind meist gleichfalls concentrisch oder radical geordnet. Doch sind diese Kügelchen nicht amorph, da der Lichtschimmer in p. L. deutlich gefärbt erscheint. Ihnen schliesst sich endlich die merkwürdigste Art dieser Kügelchen an, welche äusserst fein radialgestreift und feingekörnelt, schwach durchscheinend, weisslich gefärbt erscheinen. Die strahligen Streifchen sind excentrisch und stehen in keinen Zusammenhang mit der äusseren Form der Kügelchen. Oft treten in einem Kügelchen mehrere Systeme von Streifchen felderweise neben einander auf. Im p. L. erscheinen trotz der geringen Durchsichtigkeit deutlich büschelförmige Farben, welche entfernt an die bekannte Erscheinung bei vielen Variolithknöllchen erinnert, ohne ihr jedoch ganz gleich zu kommen. Von der lamellaren Verwachsung olivinartiger Streifchen mit einer ähnlich fasrigen weissen Substanz ist schon früher berichtet worden.
+Über die Natur der in Salzsäure unzersetzten, hellen Mineraltheilchen, die wahrscheinlich der Gruppe des Augits angehören, vermag nur die chemische Analyse Aufschluss zu geben. Aber auch hierbei stellt sich eine gewisse Unsicherheit wegen der Anwesenheit der zahlreichen, gleichfalls in Salzsäure unzersetzten Kügelchen (abgesehen von den Olivinkörnchen) ein, die weder mit dem hellen Mineral identisch zusammengesetzt sind, noch überhaupt einem einfachen Mineral entsprechen. Manche dieser Kügelchen nähern sich in ihrem physikalischen Verhalten dem weißen Mineral, zeigen aber doch eine eigentümliche Art der Zerklüftung. Andere bestehen deutlich aus Lamellen verschiedener verwachsener Mineralien und noch andere sind wenig durchsichtig weiß, pulvrig körnig und zeigen häufig eine konzentrische Struktur mit dunkleren und helleren Zonen, oft auch mit einer rindenartigen dunklen Umhüllung oder einem teils dunklen, teils hellen Zentrum. Schwarze staubartige Körnchen, die in denselben vorkommen, sind meist gleichfalls konzentrisch oder radikal geordnet. Doch sind diese Kügelchen nicht amorph, da der Lichtschimmer in p. L. deutlich gefärbt erscheint. Ihnen schließt sich endlich die merkwürdigste Art dieser Kügelchen an, welche äußerst fein radialgestreift und feingekörnelt, schwach durchscheinend, weißlich gefärbt erscheinen. Die strahligen Streifchen sind exzentrisch und stehen in keinen Zusammenhang mit der äußeren Form der Kügelchen. Oft treten in einem Kügelchen mehrere Systeme von Streifchen felderweise neben einander auf. Im p. L. erscheinen trotz der geringen Durchsichtigkeit deutlich büschelförmige Farben, welche entfernt an die bekannte Erscheinung bei vielen Variolitknöllchen erinnert, ohne ihr jedoch ganz gleich zu kommen. Von der lamellaren Verwachsung olivinartiger Streifchen mit einer ähnlich fasrigen weißen Substanz ist schon früher berichtet worden.
 
-Was nun die Entstehung dieser merkwürdigsten unter den Gemengtheilen der Meteorsteine anbelangt, so nimmt Daubrée* an, dass sie durch ein Festwerden während eines wirbelnden Flugs durch Gase sich gebildet hätten, während Tschermak* sich für eine Entstehung in Folge einer Abrollung bereits fester Trümmer durch eine anhaltende Bewegung, wie sie durch vulkanische Explosion erzeugt wird, unter Hinweis auf ähnliche runde Kügelchen im trachytischen Tuff von Gleichenberg etc. ausspricht. Durch die letztere Annahme erklärt sich die bei vielen Kügelchen wahrgenommene Eigenthümlichkeit, dass ihre innere Fasenstruktur ohne alle Beziehung steht mit der äusseren Kugelform. Selbst bei den Kügelchen mit deutlich concentrischer Struktur dürfte an dieser Art der Entstehung festzuhalten sein, wenn man annimmt, dass, wie sehr wahrscheinlich ist, die concentrischen Streifchen und schaligen Absonderungen nur als sekundäre Erscheinungen, als Folgen mechanischer und chemischer Veränderungen, welche das abgerundete Korn erst nach der Abrollung erlitten habe, aufzufassen sind.
+Was nun die Entstehung dieser merkwürdigsten unter den Gemengteilen der Meteorsteine anbelangt, so nimmt Daubrée* an, dass sie durch ein Festwerden während eines wirbelnden Flugs durch Gase sich gebildet hätten, während Tschermak* sich für eine Entstehung in Folge einer Abrollung bereits fester Trümmer durch eine anhaltende Bewegung, wie sie durch vulkanische Explosion erzeugt wird, unter Hinweis auf ähnliche runde Kügelchen im trachytischen Tuff von Gleichenberg etc. ausspricht. Durch die letztere Annahme erklärt sich die bei vielen Kügelchen wahrgenommene Eigentümlichkeit, dass ihre innere Fasenstruktur ohne alle Beziehung steht mit der äußeren Kugelform. Selbst bei den Kügelchen mit deutlich konzentrischer Struktur dürfte an dieser Art der Entstehung festzuhalten sein, wenn man annimmt, dass, wie sehr wahrscheinlich ist, die konzentrischen Streifchen und schaligen Absonderungen nur als sekundäre Erscheinungen, als Folgen mechanischer und chemischer Veränderungen, welche das abgerundete Korn erst nach der Abrollung erlitten habe, aufzufassen sind.
 
 *) Journ. d. savants. 1870. p. 38.
 
 *) Sitz. d. k. Ac. d. Wiss. Wien. Bd. LXXI. 2. Abth. 1875. Aprilheft S. 9 u. 10.
 
-Einen wesentlichen Antheil an der Zusammensetzung des Steins von Iowa nimmt das Schwefeleisen. Es erscheint auf kleine, unregelmässig umgrenzte Flecke vertheilt zwischen die übrigen Gemengtheile gleichsam eingezwängt. Bei dem Behandeln des Gesteinspulvers mit Salzsäure entwickelt sich Schwefelwasserstoff, ohne dass sich Schwefel ausscheidet. Es dürfte daher dieses Schwefeleisen als Troïlit zu bezeichnen sein. Noch häufiger erscheinen die aus Meteoreisen bestehenden Körnchen der Gesteinsmasse in meist zackigen, winkelig gebogenen, oft in feine Spitzen auslaufenden Klümpchen beigemengt, welche so innig an die nicht metallischen Theile sich anschmiegen, als ob das Eisen erst zuletzt etwa durch Reduction an der Stelle ausgeschieden worden wäre, wo es sich vorfindet. Dieses Meteoreisen ist nickel- und etwas phosphorhaltig, sehr dehnbar, indem es sich mit dem Hammer leicht in dünne Blättchen ausschlagen lässt und activ, wie sich zeigt, wenn man ein geschliffenes Stückchen in Kupfervitriol taucht, wobei die Eisenfläche sich rasch mit einem Kupferniederschlag bedeckt. Ob durch Anätzen die Widmanstätten’schen Linien zum Vorschein kommen, konnte ich bei der Kleinheit der Eisenkörnchen nicht deutlich erkennen. Doch zeigten sich hellere und dunklere Flecke.
+Einen wesentlichen Anteil an der Zusammensetzung des Steins von Iowa nimmt das Schwefeleisen. Es erscheint auf kleine, unregelmäßig umgrenzte Flecke verteilt zwischen die übrigen Gemengteile gleichsam eingezwängt. Bei dem Behandeln des Gesteinspulvers mit Salzsäure entwickelt sich Schwefelwasserstoff, ohne dass sich Schwefel ausscheidet. Es dürfte daher dieses Schwefeleisen als Troïlit zu bezeichnen sein. Noch häufiger erscheinen die aus Meteoreisen bestehenden Körnchen der Gesteinsmasse in meist zackigen, winkelig gebogenen, oft in feine Spitzen auslaufenden Klümpchen beigemengt, welche so innig an die nicht metallischen Teile sich anschmiegen, als ob das Eisen erst zuletzt etwa durch Reduktion an der Stelle ausgeschieden worden wäre, wo es sich vorfindet. Dieses Meteoreisen ist nickel- und etwas phosphorhaltig, sehr dehnbar, indem es sich mit dem Hammer leicht in dünne Blättchen ausschlagen lässt und aktiv, wie sich zeigt, wenn man ein geschliffenes Stückchen in Kupfervitriol taucht, wobei die Eisenfläche sich rasch mit einem Kupferniederschlag bedeckt. Ob durch Anätzen die Widmanstätten’schen Linien zum Vorschein kommen, konnte ich bei der Kleinheit der Eisenkörnchen nicht deutlich erkennen. Doch zeigten sich hellere und dunklere Flecke.
 
-Dass das Gestein Wasser enthält, bedarf nicht erst eines Nachweises, da diess die nicht seltenen Rostflecke - Eisenoxydhydrat - zum Voraus verrathen.
+Dass das Gestein Wasser enthält, bedarf nicht erst eines Nachweises, da dies die nicht seltenen Rostflecke - Eisenoxydhydrat - zum Voraus verraten.
 
-Auch verschiedene Gasarten sind bereits durch Wriht* in diesem Meteorite von Iowa nachgewiesen. Die vorläufigen Versuche Wriht's ergaben einen Gehalt an Gas, welches fast zur Hälfte aus Kohlensäure und Kohlenoxyd (CO2 = 35; CO = 14), im Uebrigen hauptsächlich aus Wasserstoff besteht.
+Auch verschiedene Gasarten sind bereits durch Wriht* in diesem Meteorite von Iowa nachgewiesen. Die vorläufigen Versuche Wriht's ergaben einen Gehalt an Gas, welches fast zur Hälfte aus Kohlensäure und Kohlenoxyd (CO2 = 35; CO = 14), im Übrigen hauptsächlich aus Wasserstoff besteht.
 
-Das specifische Gewicht des Steins in der inneren Masse beträgt = 3,75; das eines Rindenstückes = 3,55 bei 20° C.
+Das spezifische Gewicht des Steins in der inneren Masse beträgt = 3,75; das eines Rindenstückes = 3,55 bei 20° C.
 
 *) The Americ. Journ. o. sc. a. arts. J. Dana a. Silliman May 1875. Vol. IX. Nr. 54. p. 459; auch Ann. d. Phys. u. Chem. Ergänz. Bd. VII Stück 2.
 
 Chemische Analyse.
 
-Zur Vornahme einer chemischen Analyse stand mir etwas über 1,5 Gramm Substanz zur Verfügung. Aus dem fein zerriebenen Pulver wurde zuerst mit aller Sorgfalt das Meteoreisen mit dem Magnet ausgezogen und diess durch wiederholtes Verfahren möglichst von allen anhaftenden Gesteinstheilen befreit, alsdann besonders analysirt. Ein Theil diente zur Schwefelbestimmung, das übrige wurde zuerst mit kochender Salzsäure behandelt, der auf diese Weise zersetzte Antheil und ebenso der unzersetzte mittelst Barythydrat aufgeschlossene weiter analysirt.
+Zur Vornahme einer chemischen Analyse stand mir etwas über 1,5 Gramm Substanz zur Verfügung. Aus dem fein zerriebenen Pulver wurde zuerst mit aller Sorgfalt das Meteoreisen mit dem Magnet ausgezogen und dies durch wiederholtes Verfahren möglichst von allen anhaftenden Gesteinsteilen befreit, alsdann besonders analysiert. Ein Teil diente zur Schwefelbestimmung, das übrige wurde zuerst mit kochender Salzsäure behandelt, der auf diese Weise zersetzte Anteil und ebenso der unzersetzte mittelst Barythydrat aufgeschlossene weiter analysiert.
 
 Er ergab sich hierbei folgendes Resultat:
 
@@ -109,28 +109,28 @@ Das Gestein besteht aus
 
 Meteoreisen 12,32  
 Troïlit 5,25  
-in Salzsäure zersetzbarem Theil 48,11  
-in Salzsäure unzersetzbarem Theil 34,32  
+in Salzsäure zersetzbarem Teil 48,11  
+in Salzsäure unzersetzbarem Teil 34,32  
 
-Das Nickeleisen besteht ausser Spuren von Kupfer und Schwefel, letzterer wahrscheinlich von etwas anhängenden Troïlit abstammend, aus
+Das Nickeleisen besteht außer Spuren von Kupfer und Schwefel, letzterer wahrscheinlich von etwas anhängenden Troïlit abstammend, aus
 
 Eisen 83,38  
 Nickel (etwas cobalthaltig mit Schwefel und Phosphor) 16,62  
 also annähernd Fe<sub>5</sub>Ni
 
-Der in Salzsäure zersetzbare Theil* (ohne Meteor-und Schwefeleisen berechnet) aus
+Der in Salzsäure zersetzbare Teil* (ohne Meteor-und Schwefeleisen berechnet) aus
 
 Kieselsäure 38,38 Sauerstoff: 19,76  
 Eisenoxydul 28,58 Sauerstoff: 6,33  
 Manganoxydul 0,53 Sauerstoff: 0,12  
 Bittererde 31,49 Sauerstoff: 12,59  
-Thonerde 1,01 Sauerstoff: 0,47  
+Tonerde 1,01 Sauerstoff: 0,47  
 Kalkerde, Alkalien, Wasser Spuren  
 
 Der in Salzsäure unzersetzte Rest besteht aus*
 
 Kieselerde 53,96 Sauerstoff: 28,74  
-Thonerde 2,01 Sauerstoff: 0,94  
+Tonerde 2,01 Sauerstoff: 0,94  
 Eisenoxydul 25,18 Sauerstoff: 5,57  
 Bittererde 8,91 Sauerstoff: 3,56  
 Kalkerde 4,04 Sauerstoff: 1,16  
@@ -141,7 +141,7 @@ Kali 1,67 Sauerstoff: 0,29
 
 *) Diese Analysen wurden von Hrn. Assistent Ad. Schwager ausgeführt. (1875. 3. math.-phys. Cl.)
 
-Was das Meteoreisen und das einfache Schwefeleisen anbelangt, so bedarf es hierüber keiner weitern Erörterungen. In dem durch Salzsäure zersetzbaren Antheil stellt sich ein Sauerstoffverhältniss der Basen und Säure nahezu wie 1:1 heraus und es bedarf auch hier wohl kaum einer weiteren Ausführung, dass dieser Antheil von einem eisenoxydulreichem Olivin weit vorherrschend herstammt. Weit schwieriger ist die Deutung des in Salzsäure nicht zersetzbaren Bestes, dessen Bestandtheile und ihre Sauerstoffverhältniss zu keinem bestimmten Minerale passen. Diess stimmt auch vollständig mit der optischen Analyse überein, bei welcher nach Entfernung der in Salzsäure löslichen Antheile neben den Sphärochondren in ihrer sehr verschiedenartigen Beschaffenheit noch ein helles rissiges Mineral und kleine schwarze Körnchen nachgewiesen wurden. Dass die letzteren aus Chromeisen bestehen, ist nach den Resultaten der Analyse jetzt kaum mehr zu bezweifeln. Das helle, rissige Mineral gehört wohl sicher der Augitgruppe an. Ganz aussergewöhnlich ist der hohe Eisenoxydulgehalt, auch wenn man einen entsprechenden Theil als am Chromoxyd zu Chromeisen verbunden in Abzug bringt, wogegen die Armuth an Bittererde und Kalkerde auf der andern Seite auffallend ist. Der hohe Gehalt an Alkali scheint weiter mehr Bezug auf die Zusammensetzung der Kügelchen zu haben und auf deren feldspathige Zusammensetzung hinzudeuten. Gehört die Thonerde, wie wahrscheinlich, diesem Gemengtheile mit der entsprechenden Menge Kieselsäure an, so könnte schliesslich sich eine, - aber immer nur beiläufig entsprechende Zusammensetzung eines eisenreichen Augits, wie solcher in den Eukriten, z. B. dem von Juvinas gefunden wird, herausstellen. Immerhin scheint die nähere Natur dieses augitischen Gemengtheiles schwierig ermittelt werden zu können. Obwohl die Analyse, welche J. L. Smith* von dem Iowa-Meteoriten mittheilt, nicht genau mit der obigen stimmt, so wird doch auch in dieser ein ungewöhnlich hoher Eisenoxydulgehalt in dem in Säuren unlöslichen Antheil nämlich 27,41% angegeben. Des Vergleichs wegen folgen hier die Smith'schen Angaben:
+Was das Meteoreisen und das einfache Schwefeleisen anbelangt, so bedarf es hierüber keiner weitern Erörterungen. In dem durch Salzsäure zersetzbaren Anteil stellt sich ein Sauerstoffverhältniss der Basen und Säure nahezu wie 1:1 heraus und es bedarf auch hier wohl kaum einer weiteren Ausführung, dass dieser Anteil von einem eisenoxydulreichem Olivin weit vorherrschend herstammt. Weit schwieriger ist die Deutung des in Salzsäure nicht zersetzbaren Bestes, dessen Bestandteile und ihre Sauerstoffverhältniss zu keinem bestimmten Minerale passen. Dies stimmt auch vollständig mit der optischen Analyse überein, bei welcher nach Entfernung der in Salzsäure löslichen Anteile neben den Sphärochondren in ihrer sehr verschiedenartigen Beschaffenheit noch ein helles rissiges Mineral und kleine schwarze Körnchen nachgewiesen wurden. Dass die letzteren aus Chromeisen bestehen, ist nach den Resultaten der Analyse jetzt kaum mehr zu bezweifeln. Das helle, rissige Mineral gehört wohl sicher der Augitgruppe an. Ganz aussergewöhnlich ist der hohe Eisenoxydulgehalt, auch wenn man einen entsprechenden Teil als am Chromoxyd zu Chromeisen verbunden in Abzug bringt, wogegen die Armut an Bittererde und Kalkerde auf der andern Seite auffallend ist. Der hohe Gehalt an Alkali scheint weiter mehr Bezug auf die Zusammensetzung der Kügelchen zu haben und auf deren feldspathige Zusammensetzung hinzudeuten. Gehört die Tonerde, wie wahrscheinlich, diesem Gemengteile mit der entsprechenden Menge Kieselsäure an, so könnte schliesslich sich eine, - aber immer nur beiläufig entsprechende Zusammensetzung eines eisenreichen Augits, wie solcher in den Eukriten, z. B. dem von Juvinas gefunden wird, herausstellen. Immerhin scheint die nähere Natur dieses augitischen Gemengteiles schwierig ermittelt werden zu können. Obwohl die Analyse, welche J. L. Smith* von dem Iowa-Meteoriten mitteilt, nicht genau mit der obigen stimmt, so wird doch auch in dieser ein ungewöhnlich hoher Eisenoxydulgehalt in dem in Säuren unlöslichen Anteil nämlich 27,41% angegeben. Des Vergleichs wegen folgen hier die Smith'schen Angaben:
 
 Der ganze Stein besteht aus:
 
@@ -149,7 +149,7 @@ Steinige Masse 81,64
 Troïlit 5,82  
 Nickeleisen 12,54  
 
-Der steinige Antheil enthält:
+Der steinige Anteil enthält:
 
 A) 54,15 in Säuren zersetzbare,  
 B) 45,85 in Säuren unzersetzbare Substanzen.  
@@ -159,7 +159,7 @@ Diese bestehen nun weiter
 Kieselsäure 35,61    55,02  
 Eisenoxydul 27,20    27,41  
 Magnesia 33,45    13,12  
-Thonerde 0,71    0,84  
+Tonerde 0,71    0,84  
 Alkalien, Eisen etc. 1,45    2,01  
 
 Darnach berechnet Smith die Zusammensetzung des Meteoriten aus:

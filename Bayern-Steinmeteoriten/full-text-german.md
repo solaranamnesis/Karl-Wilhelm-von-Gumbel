@@ -28,4 +28,9 @@ Diese 5 Steinmeteorite sind:
 
 3) Der Stein von Massing bei Altötting in Südbayern vom Fall am 13. Dezember 1803 zwischen 10-11 Uhr Vormittags.
 
-4) Der Stein von Sch
+4) Der Stein von Schönenberg bei Burgau und Schwaben, gefallen am 25. Dez. 1846 Nachmittags 2 Uhr und
+
+5) Der Stein von Krähenberg bei Homburg in der Rheinpfalz vom Fall am 5. Mai 1869 Abends 6 1/2 Uhr.
+
+Vom einem 6. Meteorstein fand ich eine erste Nachricht in Gilbert's Annalen der Physic Bd. XV. S. 317, wo angeführt wird, dass Casp. Schott in s. Physica curiosa l. XI Cap. XIX berichtet: „hac in urbe nostra Herbipolensi osservatur in templo D. Jacobi trans Moenum, in monasterio Scotorum* catenulae columna templi suspensus... durissimus est et ad ferream vergit naturam.“ Daraus geht hervor, dass es wahrscheinlich ein Eisenmeteorit war. Ich habe mich um den Spuren dieses Steines nachzuforschen an Herrn Prof. Sandberger in Würzburg gewendet, der so freundlich war, die gründlichsten Nachforschungen anzustellen. Der Stein ist verschwunden. Der gütigen Mittheilung Sandberger's verdank eich die weitere Nachricht, welche Schnurrer in s. Seuchengeschichte Bd. II. giebt: „Im Jahre 1103 (oder 1104) fiel in Würzburg ein so grosser Meteorstein, dass vier Männer den vierten Theil desselben kaum tragen konnten.“
+

@@ -69,7 +69,9 @@ Neben den Chondren lassen sich in der pulverigen Hauptmasse eingebettet noch zah
 
 Nach dem Behandeln des fein zerdrückten (nicht zerriebenen) Materials mit Salpetersalzsäure und Kalilösung sind — abgesehen von den metallischen Gemengtheilen — die gelblichen Splitterchen (Olivin) verschwunden und der Rückstand besteht nur aus weissen und bräunlichen Stücken, die unter dem Mikroscop sich leicht unterscheiden lassen. Die bräunlichen Fragmente sind stark rissig, selten mit Spuren von dunklen Parallelstreifchen versehen, durchsichtig und i. p. L. lebhaft buntfleckig gefärbt. Es sind zweifelsohne Theilchen eines Minerals aus der Augitgruppe. Die weissen Splitterchen dagegen sind vielfach nur durchscheinend, theilweise durch die Säuren angegriffen und zeigen i. p. L. nur matte fleckige Farbentöne, welche hier und da an eine streifige Anordnung erinnern. Dass diese Splitterchen als Feldspath-artige Gemengtheile gedeutet werden müssen, beweist auch die chemische Analyse des Restantheils nach der Einwirkung der Säuren. Kleinste schwarze Theilchen sind als Chromeisen anzusprechen. Es besteht demnach der Stein aus Olivin, einem Feldspath-artigen, augitischen Mineral, aus Meteor-, Schwefel- und Chromeisen.
 
-Damit stimmt nun auch im Allgemeinen die chemische Analyse, welche von Hrn. Assistent Ad. Schwager unter gleichzeitig controllirenden eigenen Untersuchungen durchgeführt wurde. Die Bestimmung des Meteoreisens und Schwefeleisens geschah durch eigene Versuche1). Die Analysen ergaben:
+Damit stimmt nun auch im Allgemeinen die chemische Analyse, welche von Hrn. Assistent Ad. Schwager unter gleichzeitig controllirenden eigenen Untersuchungen durchgeführt wurde. Die Bestimmung des Meteoreisens und Schwefeleisens geschah durch eigene Versuche*. Die Analysen ergaben:
+
+*) Es wurde aus dem zerdrückten Pulver durch den Magnet alles Ausziehbare herausgenommen, und diese Meteoreisen haltigen Bestandteile unter Anwendung von Kupfervitriol und Kupferchlorid besonders analysirt.
 
 Stoffe: | Bauschanalyse 65,45% durch Salzsäure zersetzbarer Antheil | 34,55% Restbestandtheil
 
@@ -86,5 +88,11 @@ Kali | 0,48 | Sp. | 1,40
 Natron | 1,00 | Sp. | 2,91  
 Summe | 100,75 | 100,86 | 101.18  
 
-*) Es wurde aus dem zerdrückten Pulver durch den Magnet alles Ausziehbare herausgenommen, und diese Meteoreisen haltigen Bestandteile unter Anwendung von Kupfervitriol und Kupferchlorid besonders analysirt.
+Es schliesst sich demnach der Steinmeteorit von Mauerkirchen der Anfangsreihe der an Kieselsäure ärmsten Chondriten, wie jenen von Seres, Buchhof, Ensisheim und Chateau-Renard an. Es lässt sich daraus der Gehalt berechnen, nämlich an:
 
+Meteoreisen 2,81%  
+Schwefeleisen 5,72  
+Chromeisen 0,75  
+Silikate 90,72  
+
+Was die Interpretation der Silikate anbelangt, so haben wir zunächst den durch Salzsäure zersetzbaren Bestaudtheil in's Auge zu fassen. Hierin ist der relativ geringe Kieselsäuregehalt besonders auffallend. Doch wiederholt sich ein ähnliches Verhältnis« mehrfach wie z. B. bei den Meteorsteinen von Seres, Tjabé (Java 19. Sept. 1869), Khettre (Indien) u. A. Ziehen wir den Gehalt an Meteoreisen und Schwefeleisen ab, so erhalten wir für diesen Bestandtheil:

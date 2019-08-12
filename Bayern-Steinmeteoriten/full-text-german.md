@@ -34,6 +34,8 @@ Diese 5 Steinmeteorite sind:
 
 Vom einem 6. Meteorstein fand ich eine erste Nachricht in Gilbert's Annalen der Physic Bd. XV. S. 317, wo angeführt wird, dass Casp. Schott in s. Physica curiosa l. XI Cap. XIX berichtet: „hac in urbe nostra Herbipolensi osservatur in templo D. Jacobi trans Moenum, in monasterio Scotorum* catenulae columna templi suspensus... durissimus est et ad ferream vergit naturam.“ Daraus geht hervor, dass es wahrscheinlich ein Eisenmeteorit war. Ich habe mich um den Spuren dieses Steines nachzuforschen an Herrn Prof. Sandberger in Würzburg gewendet, der so freundlich war, die gründlichsten Nachforschungen anzustellen. Der Stein ist verschwunden. Der gütigen Mittheilung Sandberger's verdank eich die weitere Nachricht, welche Schnurrer in s. Seuchengeschichte Bd. II. giebt: „Im Jahre 1103 (oder 1104) fiel in Würzburg ein so grosser Meteorstein, dass vier Männer den vierten Theil desselben kaum tragen konnten.“
 
+*) Das Schottenkloster war de 1140 gegründet, 1803 saecul. 1819 wurde ein Theil der Kirche zum Gottesdienst wieder hergerichtet und zwar der Chor, das Uebrige dient als Militärdepot. Ausf. Beschreibung u. Geschichte von W i eland im Archiv des hist. Vereins v. Unterfranken u. Asch. XVI. Bd.
+
 #### Der Meteorstein von Mauerkirchen.
 
 (Beiliegende Tafel Figur I.)
@@ -66,3 +68,23 @@ Aus der äusserst feinbröcklichen, fast staubartigen Grundmasse heben sich ziem
 Neben den Chondren lassen sich in der pulverigen Hauptmasse eingebettet noch zahlreiche meist kleine eckige längliche Splitterchen eines weissen, auf der Spaltflächen deutlich spiegelnden, hier und da undeutlich parallel gestreiften Minerals und mehr rundlich eckige, unregelmässig rissige, selten parallelstreifende Körnchen von gelblichem oder bräunlichem Farbenton und von glasartigem Glanze unterscheiden. Dazu gesellen sich metallisch glänzende, relativ kleine traubig eckige Klümpchen von Meteoreisen, ferner selten solche von messinggelbem Schwefeleisen und von nicht metallisch glänzenden tiefschwarzen Chromeisenstäbchen. An abgeriebenen Stellen des Steins stehen die härteren Körnchen hervor und lassen den Charakter des Chondriten deutlicher wahrnehmen, als auf dem Querbruche, auf dem man nur bei grösserer Aufmerksamkeit die kugeligen Einlagerungen beobachtet. Die feinsten Staubtheilchen, welche als das durch eine fortschreitende Zerkleinerung der grösseren Splitter entstandene verbindende Material betrachtet werden müssen, sind theils wasserhell, theils opak, durchscheinend, und erweisen sich bis ins Kleinste i. p. L. durch wenn auch matte bunte Farben als doppelt brechende krystallinische Bruchstücke. Yon einer glasartigen Zwischenmasse ist nicht eine Spur zu entdecken.
 
 Nach dem Behandeln des fein zerdrückten (nicht zerriebenen) Materials mit Salpetersalzsäure und Kalilösung sind — abgesehen von den metallischen Gemengtheilen — die gelblichen Splitterchen (Olivin) verschwunden und der Rückstand besteht nur aus weissen und bräunlichen Stücken, die unter dem Mikroscop sich leicht unterscheiden lassen. Die bräunlichen Fragmente sind stark rissig, selten mit Spuren von dunklen Parallelstreifchen versehen, durchsichtig und i. p. L. lebhaft buntfleckig gefärbt. Es sind zweifelsohne Theilchen eines Minerals aus der Augitgruppe. Die weissen Splitterchen dagegen sind vielfach nur durchscheinend, theilweise durch die Säuren angegriffen und zeigen i. p. L. nur matte fleckige Farbentöne, welche hier und da an eine streifige Anordnung erinnern. Dass diese Splitterchen als Feldspath-artige Gemengtheile gedeutet werden müssen, beweist auch die chemische Analyse des Restantheils nach der Einwirkung der Säuren. Kleinste schwarze Theilchen sind als Chromeisen anzusprechen. Es besteht demnach der Stein aus Olivin, einem Feldspath-artigen, augitischen Mineral, aus Meteor-, Schwefel- und Chromeisen.
+
+Damit stimmt nun auch im Allgemeinen die chemische Analyse, welche von Hrn. Assistent Ad. Schwager unter gleichzeitig controllirenden eigenen Untersuchungen durchgeführt wurde. Die Bestimmung des Meteoreisens und Schwefeleisens geschah durch eigene Versuche1). Die Analysen ergaben:
+
+Stoffe: | Bauschanalyse 65,45% durch Salzsäure zersetzbarer Antheil | 34,55% Restbestandtheil
+
+Kieselsäure | 38,14 | 23,23 | 61,39  
+Thonerde | 2,51 | 1,20 | 5,00  
+Eisenoxydul | 25,70 | 32,72 | 17,59  
+Eisen & Nickel | 6,30 | 9,65 | -,-  
+Schwefel | 2,09 | 3,20 | -,-  
+Phosphor | 0,14 | 0,22 | -,-  
+Chromoxyd | 0,39 | -,- | 0,84  
+Kalkerde | 2,27 | 1,51 | 4,35  
+Bittererde | 21,73 | 29,13 | 7,70  
+Kali | 0,48 | Sp. | 1,40  
+Natron | 1,00 | Sp. | 2,91  
+Summe | 100,75 | 100,86 | 101.18  
+
+*) Es wurde aus dem zerdrückten Pulver durch den Magnet alles Ausziehbare herausgenommen, und diese Meteoreisen haltigen Bestandteile unter Anwendung von Kupfervitriol und Kupferchlorid besonders analysirt.
+

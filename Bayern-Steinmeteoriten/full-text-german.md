@@ -41,3 +41,22 @@ Vom einem 6. Meteorstein fand ich eine erste Nachricht in Gilbert's Annalen der 
 Ueber diesen Fall berichtete zuerst ein kleines Schriftchen: Nachricht und Abhandlung von einem in Bayern unfern Maurkirchen d. 20. Nov. 1768 aus der Luft gefallenen Steine (Straubingen 1769). Aus demselben theilt Chladni in seinem chronologischen Verzeichnisse der mit einem Feuermeteor niedergefallenen Stein- und Eisenmassen (Gilberts Ann. d. Phys. 1803 Bd. XV. S. 316) mit, dass an dem geuannten Tage Abends nach 4 Uhr bei einem gegen Occident merklich verfinsterten Himmel verschiedene ehrliche Leute zu Maurkirchen, welche darüber eidlich vernommen wurden, ein ungewöhnliches Brausen und gewaltiges Krachen in der Luft gleich einem Donner und Schiessen mit Stücken hörten. Unter diesem Luftgetümmel sei ein Stein aus der Luft gefallen und habe nach obrigkeitlichem Augenschein eine Grube 2 1/2 Schuh tief in die Erde gemacht. Der Stein halte nicht gar einen Schuh in die Länge, sei 6 Zoll breit und wiege 38 bayer. Pfunde Er sei von so weicher Materie, dass er sich mit Fingern zerreiben lasse, von Farbe bläulich mit einem weissen Fluss oder Fliesserlein vermengt, ausserdem mit einer schwarzen Rinde überzogen n. s. w.
 
 Professor Imhof vervollständigte diesen Bericht (Kurpfalzbaier. Wochenblatt. 1804. St. 4) durch folgende Angaben: „Man fand den gefallenen Stein am Tage, nachdem man das Getöse vernommen hatte, in dem sog. Schinperpoint in einem schräg einwärts gehenden 2 1/2 Schuh tiefen Loche.“ Imhof bestimmte das spec. Gewicht zu 3,452 und beschreibt die graulich schwarze 1/4 Linie dicke Rinde als am Stahl funkengebend, ferner als Gemengtheile
+
+1) regulinisches Eisen, das in kleinen Körnern und Zacken am meisten mit der äusseren Rinde verwachsen, sehr geschmeidig nnd zähe ist und einen weissen stark glänzenden Feilenstrich giebt,
+
+2) Schwefelkies,
+
+3) kleine plattgedrückte, eckige Körner, welche sich durch schwarzgraue Farbe, muschlichten Bruch, glänzendes Ansehen und grösserer Härte von den ändern unterscheiden,
+
+4) noch andere kleine Körner von weisser und gelblicher Farbe, die durchscheinend und schimmernd sind. Nach seiner Analyse besteht der Meteorstein aus:
+
+Kieselsäure 25,40  
+Eisenoxyd 40,24  
+Eisen 2,33  
+Nickel 1,20  
+Bittererde 28,75  
+Schwefel und Verlust 2,08  
+
+(Vergl. O. Büchner die Meteoriten in Sammlungen 1863 S. 9.)
+
+Die nähere Untersuchung des Steines ergab mir nun weiter, dass die mattschwarze, fleckenweis etwas glänzende

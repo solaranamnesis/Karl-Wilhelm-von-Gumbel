@@ -96,3 +96,14 @@ Chromeisen 0,75
 Silikate 90,72  
 
 Was die Interpretation der Silikate anbelangt, so haben wir zunächst den durch Salzsäure zersetzbaren Bestaudtheil in's Auge zu fassen. Hierin ist der relativ geringe Kieselsäuregehalt besonders auffallend. Doch wiederholt sich ein ähnliches Verhältnis« mehrfach wie z. B. bei den Meteorsteinen von Seres, Tjabé (Java 19. Sept. 1869), Khettre (Indien) u. A. Ziehen wir den Gehalt an Meteoreisen und Schwefeleisen ab, so erhalten wir für diesen Bestandtheil:
+
+SiO₂ 26,45  
+Al₂O₃ 1,35  
+FeO 37,30  
+CaO 1,70  
+MgO 33,20  
+
+worin, wenn die Thonerde und Kalkerde als wahrscheinlich zu einem zersetzten Feldspath gerechnet und ein Theil des Eisenoxyduls als noch von Meteoreisen abstammend in Abzug gebracht wird, der durch Säuren zersetzte Bestandtheil nicht anders, als zu Olivin gehörig sich auslegen lässt. Dass ein Theil des Eisens oxydirt ist und dadurch der Gehalt an Basen etwas gesteigert erscheint, darauf weisen schon die Rostflecken hin, welche sich manchmal selbst in der Masse ziemlich verbreitet zeigen.
+
+Was das oder die Silikate des Restbestandtheils angeht, so giebt der verhältuissm&ssig hohe Kieselsäure- und Thonerdegehalt, neben den Alkalien wohl der Vermuthang Raum, dass neben einem Augit-Mineral auch noch ein feldspathtiges vorhanden sei. Gleichwohl aber bleibt auch bei dieser Annahme noch ein starker Ueberschuss an Eieselsäure, von dem man wohl nicht voraussetzen darf, dass er in Form eines ausgeschiedenen Quarzminerals auftrete, weil bei Untersuchung des Dünnschliffs im reflectirten Lichte keine Spur einer Beimengung von durch den starken Glanz sonst erkennbarem Quarze sich bemerken lässt. Dieses Verhalten ist vorläufig noch unaufgeklärt.
+

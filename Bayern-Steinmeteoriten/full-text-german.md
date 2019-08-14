@@ -109,6 +109,8 @@ Was das oder die Silikate des Restbestandtheils angeht, so giebt der verhältuis
 
 Derselbe Meteorstein ist bereits in neuester Zeit auch noch einer chemischen Analyse von anderer Seite unterworfen worden. Rammelsberg führt (D. chem. Nat. d. Meteoriten Abh. d. Acad. d. Wiss. in Berlin für 1870 S. 148 u. ff.) als das Resultat der von Crook* ausgeführten Untersuchung an: Zusammensetzung:
 
+*) On the ehem. constit. of meteor. stones. Göttingen Dissert. (Mir nicht zugänglich).
+
 3,52% Meteoreisen  
 1,92% Schwefeleisen  
 0,72% Chromeisen  
@@ -117,4 +119,12 @@ Derselbe Meteorstein ist bereits in neuester Zeit auch noch einer chemischen Ana
 das Silikat bestehend als:  
 
 Stoffe: | im Ganzen Bauschanalyse | in dem 61% durch Säuren zersetzbar. Antheil. | in dem 39% in Säuren unzersetzb. Antheil.
+
+Kieselsäure | 44,81 | 32,68 | 3,94  
+Thonerde | 1,24 | 9,36 | 4,17  
+Eisenoxydul | 24,55 | 28,91 | 17,71  
+Bittererde | 26,10 | 37,44 | 8,20  
+Kalkerde | 2,28 | 0,61 | 4,91  
+Natron | 0,26 | - | 0,67  
+Kali | 0,16 | - | 0,40  
 

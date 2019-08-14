@@ -107,3 +107,14 @@ worin, wenn die Thonerde und Kalkerde als wahrscheinlich zu einem zersetzten Fel
 
 Was das oder die Silikate des Restbestandtheils angeht, so giebt der verhältuissm&ssig hohe Kieselsäure- und Thonerdegehalt, neben den Alkalien wohl der Vermuthang Raum, dass neben einem Augit-Mineral auch noch ein feldspathtiges vorhanden sei. Gleichwohl aber bleibt auch bei dieser Annahme noch ein starker Ueberschuss an Eieselsäure, von dem man wohl nicht voraussetzen darf, dass er in Form eines ausgeschiedenen Quarzminerals auftrete, weil bei Untersuchung des Dünnschliffs im reflectirten Lichte keine Spur einer Beimengung von durch den starken Glanz sonst erkennbarem Quarze sich bemerken lässt. Dieses Verhalten ist vorläufig noch unaufgeklärt.
 
+Derselbe Meteorstein ist bereits in neuester Zeit auch noch einer chemischen Analyse von anderer Seite unterworfen worden. Rammelsberg führt (D. chem. Nat. d. Meteoriten Abh. d. Acad. d. Wiss. in Berlin für 1870 S. 148 u. ff.) als das Resultat der von Crook* ausgeführten Untersuchung an: Zusammensetzung:
+
+3,52% Meteoreisen  
+1,92% Schwefeleisen  
+0,72% Chromeisen  
+92,68% Silikat  
+100,00 und zwar:  
+das Silikat bestehend als:  
+
+Stoffe: | im Ganzen Bauschanalyse | in dem 61% durch Säuren zersetzbar. Antheil. | in dem 39% in Säuren unzersetzb. Antheil.
+

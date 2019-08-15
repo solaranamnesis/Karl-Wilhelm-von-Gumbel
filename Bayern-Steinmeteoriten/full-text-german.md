@@ -227,3 +227,22 @@ II. In Salzäure unzersetzbar 45,42
 
 Als Zusammensetzung der Silikate I und II ergab sich ferner
 
+ | I | II  
+Kieselsäure | 26,26 mit 14,22 O | 53,21 mit 28,38 O  
+Eisenoxydul | 30,09 mit 6,67 O | 14,86 mit 3,30 O  
+Bittererde | 31,53 mit 12,60 O | 26,42 mit 10,56 O  
+Thonerde | 2,70 mit 1,26 O | - -  
+Kalkerde | 1,00 mit 0,29 O | 3,67 mit 1,05 O  
+Alkalien | 8,00 mit 1,70 O | - -  
+ | 99,98 | 98,16  
+
+Es ist zunächst hervorzuheben, dass, wie auch schon von anderer Seite bemerkt wurde, die Zusammensetzung der Chondren nahezn die nämliche ist, wie die der ganzen Masse nnd sich durch die Behandlung mit Säuren in zwei ähnliche Theile scheiden lässt.
+
+Der in Salzsäure zerlegbare Theil, abgesehen von Resten eines Gehaltes an Meteoreisen und Schwefeleisen, schliesst sich am engsten an Olivin an. Aber es mangelt auch hier, wie in zahlreichen Fällen bei analysirten Chondriten an Kieselsäure. Ich möchte vermuthen, dass diess hier von einem Ueberchass an Eisenoxydul herrührt, das, anstatt von zersetzem Olivin, von fein beigemengtem Meteoreisen abstammt. Thonerde, Kalkerde und Alkalien weisen auf eine Beimengung feldspathartiger Theilchen, wie bei der Hauptmasse der Chondriten hin. Doch bietet die Interpretation dieses Theils immerhin Schwierigkeiten, die bis jetzt noch nicht beseitigt sind.
+
+Der in Salzsäure unzersetzte Rest fügt sich viel besser in das Maass eines Bisilikates; wenn es auch hierbei um etwas weniges an Kieselsäure fehlt, so kann diess wohl bei der geringen, zur Analyse verwendete Menge als Folge des Verlustes bei der Analyse selbst angesehen werden.
+
+#### Der Meteorstein von Massing.
+
+(Figur III.)
+

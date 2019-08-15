@@ -184,3 +184,15 @@ Natron | 1,04 | 1,31 | 1,62
 
 Der Gehalt der durch Salzsäure zersetzbaren Gemengtheile an Alkalien weist ausser Olivin noch auf einen Feldspath hin. Wir haben aber darin:
 
+SiO₂ 34,45 mit 18,37 O  
+Al₂O₃ 0,86 mit 0,40  
+FeO 24,52 mit 5,45  
+MgO 37,31 mit 14,90  
+CaO 0,68 mit 0,19  
+Ka₂O 0,68 mit 0,11  
+Na₂O 1,31 mit 0,34  
+
+Daraus ersieht man, dass, wenn wir ein Singulosilikat ausscheiden, die vorhandene Sauerstoffmenge noch nicht einmal vollständig ausreioht, den Bedarf ganz zu decken, dass mithin die Analyse uns keinen Aufschluss über die Natur des etwa noch ausser Olivin vorhandenen Silikats weiter giebt.
+
+In dem von Säuren nicht zersetzbaren Best endlich stellen sich die Verhältnisse folgender Maassen:
+

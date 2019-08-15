@@ -196,3 +196,25 @@ Daraus ersieht man, dass, wenn wir ein Singulosilikat ausscheiden, die vorhanden
 
 In dem von Säuren nicht zersetzbaren Best endlich stellen sich die Verhältnisse folgender Maassen:
 
+Kieselerde 55,53 mit 29,62 O = 22,6 + 7  
+Eisenoxydul 16,66 mit 3,70 O = 3,58 + 0,12  
+Bittererde 19,34 mit 7,73 O  
+Chromoxyd 0,73 mit 0,23 O  
+Thonerde 5,13 mit 2,39 O = 2,33 + 0.06  
+Kalkerde 1,13 mit 0,32 O  
+Kali 0,56 mit 0,10 O  
+Natron 1,62 mit 0,42 O  
+
+Daraus berechnet sich ein Bisilikat, Chromeisen (von der Zusammensetzung des von L’Aigle) und ein Andesin-artiger Felspath ungefähr in dem Verhältniss wie 79 : 1 : 21.
+
+Im Ganzen besteht also der Eichstädter Meteorstein ungefähr aus:
+
+Meteoreisen 22,98  
+Schwefeleisen 3,82  
+Chromeisen 0,40  
+Olivin 31,00  
+Mineral der Augitgruppe 31,90  
+Andesin-artiger Feldspath 8,46  
+Feldspathartiges Mineral 1,54  
+
+Das häufige Vorkommen und die relative Grösse der Chondren luden zu einer besonderen Analyse dieser Kügelchen ein. Um sicher zu sein, mit einem von anhaftenden kleinsten Mineralsplitterchen freien Material za verarbeiten, wurden die Chondren so lange auf einer mattgeschliffenen Glasplatte hin- und hergerieben, bis ihre Oberfläche völlig glatt und glänzend geworden war. Leider war die so mir zur Verfügung stehende Menge eine nur sehr geringe (0,12 Gr.) und es kann daher an die Analyse der Anspruch grösser Genauigkeit nicht gemacht werden. Durch Vorversuche war bereits festgestellt worden, dass auch die Substanz der Chondren sich theilt in eine von Salzsäure zersetzbare und in eine unzersetzbare Masse. Die erstere enthält noch Schwefeleisen, welches, wie die Untersuchung an Dünnschliffen lehrt, in kleinen Körnchen fest mit den Kügelchen verwachsen und in dieselbe gleichsam eingesenkt vorkommt.

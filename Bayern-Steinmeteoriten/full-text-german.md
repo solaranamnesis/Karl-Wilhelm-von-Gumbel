@@ -218,3 +218,12 @@ Andesin-artiger Feldspath 8,46
 Feldspathartiges Mineral 1,54  
 
 Das häufige Vorkommen und die relative Grösse der Chondren luden zu einer besonderen Analyse dieser Kügelchen ein. Um sicher zu sein, mit einem von anhaftenden kleinsten Mineralsplitterchen freien Material za verarbeiten, wurden die Chondren so lange auf einer mattgeschliffenen Glasplatte hin- und hergerieben, bis ihre Oberfläche völlig glatt und glänzend geworden war. Leider war die so mir zur Verfügung stehende Menge eine nur sehr geringe (0,12 Gr.) und es kann daher an die Analyse der Anspruch grösser Genauigkeit nicht gemacht werden. Durch Vorversuche war bereits festgestellt worden, dass auch die Substanz der Chondren sich theilt in eine von Salzsäure zersetzbare und in eine unzersetzbare Masse. Die erstere enthält noch Schwefeleisen, welches, wie die Untersuchung an Dünnschliffen lehrt, in kleinen Körnchen fest mit den Kügelchen verwachsen und in dieselbe gleichsam eingesenkt vorkommt.
+
+Ich fand die Zusammensetzung:
+
+Schwefeleisen 1,53  
+I. In Salzäure zersetzbar 53,05  
+II. In Salzäure unzersetzbar 45,42  
+
+Als Zusammensetzung der Silikate I und II ergab sich ferner
+

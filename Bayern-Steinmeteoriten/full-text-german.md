@@ -293,3 +293,19 @@ Diese sämmtlichen grösseren, vorwaltend rundlich unregelmässig eckigen, (nich
 
 Die Analyse A. Schwager’s ergab:
 
+Stoffe: | Bauschanalyse | 21,33% in Salzsäure zersetzbar | 78,67% in Salzsäure nicht zersetzbar  
+Kieselsäure | 52,115 | 39,59 | 56,71  
+Thonerde | 8,204 | 29,51 | 2,54  
+Eisenoxydul | 19,138 | 2,83 | 23,46  
+Eisen | 0,523 | 2,49 | -  
+Nickel | Spuren | Spuren | -  
+Chromoxyd | 0,979 | - | 1,24  
+Kalkerde | 5,786 | 15,70 | 3,15  
+Bittererde | 8,485 | 3,33 | 10,74  
+Kali | 1,188 | 4,78 | 0,85  
+Natron | 1,928 | 4,78 | 1,17  
+Schwefel | 0,374 | 1,78 | -  
+ | 99,720 | 100,06 | 99,86  
+ 
+ Der durch Salzsäure zersetzbare Antheil zu 21,33% lässt sich nach dem Gehalt an Schwefel, Bittererde und Thonerde berechnet ansehen als ungefähr zusammengesetzt aus:
+ 

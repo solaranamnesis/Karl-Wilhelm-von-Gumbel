@@ -264,5 +264,15 @@ Ueber die näheren Umstände des Falls dieses Meteoriten theilt Prof. Imhof (Kur
 
 6) unter dem Mikroscop sieht man auch ein weissgraues, ins Gelbe spielendes Metall, das dem Magnete folgsam und wahrscheinlich metallisches Nickel ist.
 
+Nach der Analyse dieses Forschers besteht der Stein in 100 Theilen, aus:
 
+regulinischem Eisen 1,80  
+regulinischem Nickel 1,35  
+braunem Eisenoxyd 32,54  
+Magnesia 23,25  
+Kieselerde 31,00  
+Verlust an Schwefel u. Nickel 10,06  
 
+Ammler giebt (O. Büchner a. a. O. S. 17) das spec. Gewicht zu 3,3636 an.
+
+Prof. v. Schafhäutl beschreibt (a. a. O. S. 558) diesen Stein „vom Aussehen des Bimssteinporphyrs, in dem die einzelnen Silikate in so grossen Aggregaten auftreten, dass man sie leicht mit freiem Auge unterscheiden könne. Das Gestein bestehe aus milchweissen Körnern von blättrig strahliger Struktur, aus olivinartigen körnigen Massen von Erbsengrösse, und aus z. Th. matten basaltartigen Fragmenten, die jedoch öfter auf den augitartigen Blätterdurchgängen auch glasglänzend erscheinen. Sparsam finden sich rissiges irisirendes Schwefeleisen eingesprengt und kleine Körnchen von Chromeisen. Der Stein wirkt nicht auf die Magnetnadel. Vor dem Löthrohr sei er ziemlich leicht schmelzbar und ebenso mit einer glasig glänzenden Rinde überzogen, wie der Aerolith von Stannern.“

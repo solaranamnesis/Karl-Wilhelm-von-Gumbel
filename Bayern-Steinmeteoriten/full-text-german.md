@@ -246,3 +246,23 @@ Der in Salzsäure unzersetzte Rest fügt sich viel besser in das Maass eines Bis
 
 (Figur III.)
 
+Ueber die näheren Umstände des Falls dieses Meteoriten theilt Prof. Imhof (Kurpfalzbaier. Wochenblatt 1804 St. 3 u. f.)* mit:
+
+*) Gilberts Ann. d. Phys. XVIII. 330.
+
+„Nach den gerichtlichen Anzeigen an jdie kurf. Landesdirektion hörten mehrere der Landleute, die um den Marktflecken MassingI(Massing) Ldger. Eggenfelden wohnen, am 13. Dez. 1803 Vormittag zwischen 10 und 11 Uhr neun bis zehn Mal einen Knall, wie Kanonenschüsse. Ein Bauer zu St Nicolas, der bei diesem Getöse aus seinem Hofe trat und in die Höhe sah, erblickte etwas, das sehr hoch unter beständigem Sausen in der Luft daher kam und endlich auf das Dach seiner Wagenhütte fiel, etliche Schindeln zerschlug und in dieselbe eindrang. Er ging auf die Hütte zu und fand in ihr einen Stein, der nach Pulver roch, ganz schwarz und so heiss war, als ein Stein zu sein pflegt, der auf einem Ofen lag. Er sagte, er habe das vermeintliche Schiessen von Alten-Oetting (d. h. von Osten) her gehört, der Stein sei aber über Heiligenstadt (d. h. von Westen) gekommen. Der Stein wog über 1 1/2 Kilogramm, hat ein spec. Gew. von 3,365, eine dunkelschwarze, etwas dickere Binde, als der Mauerkirchner und ist im Bruche viel grobkörniger. Als Gemengtheile enthält er nach Imhof:
+
+1) regulinisches Eisen, das wie dünne Eisenfeile sichtbar eingewachsen und glänzend erscheint,
+
+2) Schwefelkies, der unter der Loupe krystallisirt erscheint und gerieben ein schwarzes Pulver giebt,
+
+3) grössere und kleinere plattgedrückte, eckige Massen, einige von dunkelbrauner, andere von schwarzer Farbe, die sich durch ein schimmerndes Ansehen und grössere Härte von jenen unterscheiden,
+
+4) hier und da bemerkt man noch kubische Körnchen und Blättchen von gelblicher Farbe durchscheinend und mit Glasglanz, wie Quarz aussehend, die jedoch nicht die Härte des Quarzes haben,
+
+5) auch sind weisse Körner von unregelmässiger Form eingesprengt, von denen einige über 3 Linien dick sind,
+
+6) unter dem Mikroscop sieht man auch ein weissgraues, ins Gelbe spielendes Metall, das dem Magnete folgsam und wahrscheinlich metallisches Nickel ist.
+
+
+

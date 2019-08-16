@@ -276,3 +276,20 @@ Verlust an Schwefel u. Nickel 10,06
 Ammler giebt (O. Büchner a. a. O. S. 17) das spec. Gewicht zu 3,3636 an.
 
 Prof. v. Schafhäutl beschreibt (a. a. O. S. 558) diesen Stein „vom Aussehen des Bimssteinporphyrs, in dem die einzelnen Silikate in so grossen Aggregaten auftreten, dass man sie leicht mit freiem Auge unterscheiden könne. Das Gestein bestehe aus milchweissen Körnern von blättrig strahliger Struktur, aus olivinartigen körnigen Massen von Erbsengrösse, und aus z. Th. matten basaltartigen Fragmenten, die jedoch öfter auf den augitartigen Blätterdurchgängen auch glasglänzend erscheinen. Sparsam finden sich rissiges irisirendes Schwefeleisen eingesprengt und kleine Körnchen von Chromeisen. Der Stein wirkt nicht auf die Magnetnadel. Vor dem Löthrohr sei er ziemlich leicht schmelzbar und ebenso mit einer glasig glänzenden Rinde überzogen, wie der Aerolith von Stannern.“
+
+Nach meinen Beobachtungen besitzt der Stein eine braunschwarze glasglänzende Rinde und besteht in seiner graulich weissen, ziemlich leicht zerreiblichen Masse aus:
+
+1) einem gelblich grünen bis hellgrünen, etwas parallelrissigen, in rundlich und unregelmässigen Körnchen (wie in Krystallform) vorkommenden, ziemlich grossen, 1 — 1 1/2 mm. im Durchmesser breiten, nur sporadisch erscheinenden Gemengtheil, der durch Säuren leicht zersetzt wird and als Olivin gelten muss.
+
+2) aus einem weissen, oft glasartig durchsichtigen oder staubig trüben, nur durchscheinenden, stark rissigen, selten parallelstreifigen, zuweilen mit deutlichen Spaltflächen versehenen Mineral, das i. p. L. lebhaft ein- oder fleckig vielfarbig erscheint und von Säuren gleichfalls zersetzt wird, einem Feldspath entsprechend,
+
+3) aus einem weingelben bis graugrünlichen, oder blass rothlich braunem, glasartig mattglänzendem Mineral, 1,5 bis 2 mm. gross, i. p. L. lebhaft gefärbt, aber nicht dichroitisch, etwas längsfaserig (aber undeutlich, gestreift) und mit zahlreichen kleinen Bläschen erfüllt. Dieser Bestandte il wird von Säuren nicht zersetzt und gehört der Augitgruppe an.
+
+4) aus schwarzem, starkglänzendem, in Säuren nicht zersetzbarem, in der Phosphorsalzperle ein prächtig grünes Glas lieferndem Chromeisen,
+
+5) endlich aus z. Th. vom Magnete gezogenen, dunklen, metallischen Körnchen, die meist dem Schwefeleisen, im Minimum dem Meteoreisen zuzutheilen sind.
+
+Diese sämmtlichen grösseren, vorwaltend rundlich unregelmässig eckigen, (nicht länglich spiessformigen) Theilchen liegen in einer feinstaubartig körnigen, grauen Grundmasse, welche aus denselben nur kleinen und kleinsten Splitterchen, wie sie eben angeführt wurden, zu bestehen scheint. Auch hier ist eine glasartige Bindemasse nicht zu erkennen.
+
+Die Analyse A. Schwager’s ergab:
+

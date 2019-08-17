@@ -467,3 +467,26 @@ Mikroscopisch fanden sich noch als seltene Gemengtheile vor: ausserordentlich kl
 
 Die Analyse des nicht magnetischen Antheils ergab nach vom Rath:
 
+ | I. | II.  
+ | | Nach Abzug von Chromeisen und Magnetkies  
+Chromeisen | 0,94 | -  
+Magnetkies Schwefel | 2,25 | -  
+Magnetkies Eisen | 3,47 | -  
+Kieselsäure | 43,29 | 46,37 Sauerstoff 24,73  
+Thonerde | 0,63 | 0,67 Sauerstoff 0,32  
+Magnesia | 25,32 | 27,13 Sauerstoff 10,85  
+Kalkerde | 2,01 | 2,15 Sauerstoff 0,61  
+Eisenoxydul | 21,06 | 22,56 Sauerstoff 5,01  
+Manganoxydul | Spur. | -  
+Natron (Verlust) | 1,03 | 1,12 Sauerstoff 0,29  
+
+Demnach verhält sich die Summe der Sauerstoflmengen der Basen gegen die der Kieselsäure wie:
+
+1:1,448,
+
+welches Verhältniss gegen das des Pultusker Steins (1:1,507) auf keine wesentliche Verschiedenheit schliessen lässt. Als wesentliche Gemengtheile ergeben sich auch nach der chemischen Analyse: Olivin und ein kieselsäurereiches Mineral, ob Enstatit oder Shepardit oder beide gleichzeitig, lässt vom Rath unentschieden.
+
+Die Beimengung von Anorthit oder Labrador hält er für unzulässig, weil Kalk- und Thonerde dem unlöslichen Antheil angehören und nur in geringer Menge mit Säuren sich ausziehen lassen.
+
+Einer gefälligen Mittheilung verdanke ichferner die Kenntnissnahme der Resultate einer Analyse, welche Herr Professor Dr. Keller in Speyer vorgenommen hat und welche deshalb von grösser Wichtigkeit ist, weil sie mit einer bedeutenden Quantität durchgeführt wurde, nämlich mit 5,71 Gramm; gefunden wurden:
+

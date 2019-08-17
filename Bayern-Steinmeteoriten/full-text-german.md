@@ -657,7 +657,7 @@ Ich füge diesen Bemerkungen noch einige Beobachtungsresultate hinzu, welche ich
 
 Der kohlige Meteorit von Kaba ist ungleich härter. In den Dünnschliffen beobachtet man sehr zahlreiche hell-Mineraltheilchen, fast alle von kreisrundem Durchschnitte, also wahrscheinlich Chondren entsprechend, jedoch, soweit mein Material erkennen liess, ohne Faserstruktur. Sie bestehen vielmehr gleichsam aus einem Aggregat von wasserhellen Körnchen, zwischen welchen gewöhnlich undurchsichtige Streifchen verlaufen. Dergleichen schwarze, vielleicht kohlige Linien und Flecken erscheinen meist auch in concentrischer Anordnung in den Kügelchen und um diese herum. Die helle Mineralsubstanz zeigt i. p. L. bunte Farben. Der Einwirkung von chlorsaurem Kali und Salpetersäure leistet dieser Meteorit Widerstand, er entfärbt sich nur wenig, dagegen werden bei dieser Behandlung die Kügelchen in Folge erlittener Zersetzung trüb und undurchsichtig, was mit einiger Wahrscheinlichkeit auf ihre Olivinnatur zu deuten sein wird. Von organischer Struktur ist unter diesen Umständen auch bei diesen kohligen Meteoriten nichts zu sehen. Vielleicht gelingt es dennoch unter Anwendung des oben angeführten Entfärbungsmittels bei reichlicherem Material oder an anderen kohligen Meteoriten die Anwesenheit organischer Wesen auf ausserirdischen Himmelskörpern nachzuweisen.
 
-I. Stein von Mauerkirchen
+[Figur I. Stein von Mauerkirchen](https://cdn.solaranamnesis.com/Gumbel/Bayern/Fig-1.png)
 
 II. Stein von Eichstädt
 

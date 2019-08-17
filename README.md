@@ -7,7 +7,7 @@ Attempt at translations from the original German to English, I welcome all pull 
 
 English - Plain Text  
 English - PDF  
-German - Plain Text  
+[German - Plain Text](Bayern-Steinmeteoriten/full-text-german.md)   
 German - PDF  
 
 ## Iowa Steinmeteoriten

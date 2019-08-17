@@ -384,3 +384,62 @@ Die Schmelzrinde ist nach meiner Wahrnehmung matt schimmernd, schwarz, stellenwe
 
 4) aus verschiedenen Eisenverbindungen, die sich durch den metallischen Glanz bemerkbar machen und vielfach von einem gelben, rostfarbigen Hofe umgeben sind, als Folge der eingetretenen Zersetzung des Metoreisens. Der Gehalt an diesem wurde durch besondere Versuche festgestellt. Im Uebrigen ergab die Analyse:
 
+Stoffe: | Bauschanalyse | 55,18% durch Salzsäure zersetzbar | 44,82% durch Salzsäurenicht zersetzbar  
+Kieselsäure | 40,13 | 24,47 | 57,85  
+Thonerde | 5,57 | 9,45 | 6,75  
+Eisen | 13,77 | 30,56 | -  
+Nickel | 1,47 | 1,48 | 1,44  
+Schwefel | 1,93 | 3,52 | -  
+Phosphor | 0,36 | 0,33 | 0,27  
+Chromoxyd | 0,60 | - | 1,35  
+Eisenoxydul | 17,12 | 10,41 | 15,37  
+Kalkerde | 2,31 | 3,72 | 0,56  
+Bittererde | 13,81 | 11,55 | 16,63  
+Kali | 0,73 | 1,33 | Spuren  
+Natron | 2,20 | 3,18 | 1,02  
+ | 100,00 | 100,00 | 101,24  
+
+Aus diesen Angaben lässt sich berechnen, dass der in Salzsäure zersetzbare Antheil besteht aus:
+
+Schwefeleisen 9,64  
+Meteoreisen 26,25  
+Olivin 34,78  
+Feldspath-Mineral 29,33  
+
+Für den Olivinbestandtheil ist in Rechnung zu setzen:
+
+SiO₂ | 12,82 | 37  
+FeO | 10,41 | 30  
+MgO | 11,55 | 33  
+ | 34,78 | 100  
+
+entsprechend der Zusammensetzung des Hyalosiderits.
+
+Wir finden dann weiter für den etwas zersetzten Feldspathartigen Bestandteil:
+
+SiO₂ | 11,65 | 39,71 | Sauerstoff 21,3  
+Al₂O₃ | 9,45 | 32,21 | Sauerstoff 15,0  
+CaO | 3,72 | 12,70 | Sauerstoff 3,6  
+Ka₂O | 1,33 | 4,54 | Sauerstoff 0,77  
+Na₂O | 3,18 | 10,84 | Sauerstoff 2,8  
+ | 29,33 | 100,00  
+
+Das Sauerstoffverhältniss der Kieselsäure, der Thonerde und der alkalischen Basen 3:2:1 steht nicht in Uebereinstimmung mit jenen der eigentlichen Feldspathe, sondern entspricht dem der Skapolithgruppe (Mejonit). Die Anwesenheit eines derartigen Minerals würde aueh zu dem optischen Verhalten besser passen, als die Annahme eines Anorthits oder Plagioklases überhaupt, weil i. p. L. die weissen oder glashellen Theilchen keine parallelen Farbenstreifchen erkennen lassen.
+
+In dem von Salzsäure nicht zersetzten Reste ist der Gehalt an Nickel und Phosphor bemerkenswerth. Wir müssen diess, da nicht anzunehmen ist, dass dieser Gehalt von einem Rest zufällig unzersetzt gebliebenen Meteoreisens herrühre, als ein Zeichen der Beimengung von Schreibersit ansehen. Das dazu gehörige Eisen erscheint natürlich in der Analyse unter dem Eisenoxydul. Daraus mag sich auch der Ueberschuss der Summe über 100 z. Th. erklären. Obwohl ausserdem noch sicher Thonerde-haltiges Chromeisen vorhanden ist, kommt doch eine so bedeutende Menge von Thonerde neben einem beträchtlichen Quantum von Natron zum Vorschein, dass in dem Rest weiter auch ein feldspathiger Gemengtheil vorausgesetzt werden muss, während dessen Hauptbestandtheil offenbar ein augitisches Mineral ausmacht. Bringt man für letzteres die Gemengtheile eines Bisilikats in Abzug, so bleibt ein Rest, in dem das Sauerstoffverhältniss zwischen Thonerde nnd der übrig bleibenden Kieselsäure zwar nahezu wie 3:9 verhält, es fehlt aber dann an der erforderlichen Menge der Kalkerde und Alkalien. Es lässt sich daher dieser von Säuren nicht zerlegte Antheil nur ungefähr berechnet als bestehend aus:
+
+Schreibersit 4,5  
+Chromeisen 2,5  
+feldspathiges Mineral 4,0  
+augitisches Mineral 89,0  
+
+Im Ganzen bestände demgemäss der Chondrit von Schonenberg aus:
+
+Olivin 19,0  
+feldspathigem und Skapolithartigem Mineral 18,5  
+augitischem Mineral 40,0  
+Meteoreisen 14,5  
+Schwefeleisen 5,0  
+Schreibersit 2,0  
+Chromeisen 1,0  
+

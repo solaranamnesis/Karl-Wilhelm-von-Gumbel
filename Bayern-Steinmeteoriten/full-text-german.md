@@ -659,12 +659,12 @@ Der kohlige Meteorit von Kaba ist ungleich härter. In den Dünnschliffen beobac
 
 [Figur I. Stein von Mauerkirchen](https://cdn.solaranamnesis.com/Gumbel/Bayern/Fig-1.png)
 
-[II. Stein von Eichstädt](https://cdn.solaranamnesis.com/Gumbel/Bayern/Fig-2.png)
+[Figur II. Stein von Eichstädt](https://cdn.solaranamnesis.com/Gumbel/Bayern/Fig-2.png)
 
-III. Stein von Massing
+[Figur III. Stein von Massing](https://cdn.solaranamnesis.com/Gumbel/Bayern/Fig-3.png)
 
-IV. Stein von Schönenberg
+[Figur IV. Stein von Schönenberg](https://cdn.solaranamnesis.com/Gumbel/Bayern/Fig-4.png)
 
-V. Stein von Krähenberg
+[Figur V. Stein von Krähenberg](https://cdn.solaranamnesis.com/Gumbel/Bayern/Fig-5.png)
 
-VI. Stein von Krähenberg
+[Figur VI. Stein von Krähenberg](https://cdn.solaranamnesis.com/Gumbel/Bayern/Fig-6.png)

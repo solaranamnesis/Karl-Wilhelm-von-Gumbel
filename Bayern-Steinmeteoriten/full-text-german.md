@@ -508,6 +508,8 @@ Kali (e) | 1,22 | 0,21 | 0,36 | 1,01 | 2,46
 Natron (e) | 0,17 | 0,17 | 0,30 | - | -  
 Zinnoxyd (e) | 0,18 | Spuren | - | 0,18 | -  
 
+*) Ohne Chromeisen und Zinnoxyd.
+
 Daraus wird berechnet:
 
 a) Olivin 41,67  
@@ -529,4 +531,61 @@ Magnesia | 27,13 | 22,09
 Kalkerde | 2,15 | 2,45  
 Kali | - | 1,44  
 Natron | 1,12 | 0,20  
+
+Auch hier bemerken wir in einzelnen Stoffen eine sehr geringe Uebereinstimmung, so namentlich in Bezug auf Thonerde und Bittererde, was wieder auf eine sehr ungleiche Mengung und Vertheilung der Bestandtheile hinweist. In der That ergab sich nun bei näherer Untersuchung des Steins, welcher in der Kreissammlung zu Speyer verwahrt ist, dass, wie schon W e i s s hervorgehoben hat, ganze Parthieen desselben flecken weise durch dunklere Farbe, grössere Härte und compaktere Beschaffenheit vor den übrigen hellgrauen, zerreiblichen Massen a#ffallend sich hervorheben. Es sind diese putzenförmigen Einschlüsse, eckig, unregelmässig umgrenzt:, gleichsam Bruchstücke im Grossen, wie die Splitter der Hauptmasse im Kleinen, jedoch auch von besonderer Beschaffenheit. Ich wurde in die angenehme Lage versetzt, über Stückchen des Speyerer Steins für meine weitere Untersuchung verfügen zu können. Ehe ich jedoch über diese besonderen Einschlüsse weitere Mittheilung mache, habe ich noch in die nähere Erörterung bezüglich der in Salzsäure zersetzbaren und nicht zersetzbaren, verschiedenen Mineralgemenge einzutreten.
+
+Die in Salzsäure zersetzbaren Silikatbestandtheile berechnen sich in ihrer Zusammensetzung:
+
+(+) Kieselerde 36,46  
+(+) Eisenoxydul 24,73  
+(+) Bittererde 33,40  
+(+) Manganoxydul 1,80  
+(^) Thonerde 1,76  
+(^) Kalkerde 0,97  
+(^) Kali 0,48  
+(^) Natron 0,40  
+
+(+) nahezu genau die Zusammensetzung des Olivin (Hyalosiderit).
+
+(^) Reste eines schwer zersetzbaren, feldspathartigen Gemengtheils in geringer Menge.
+
+Der von Salzsäure nicht zersetzte Rest besteht, das Chromeisen abgerechnet, aus beiläufig:
+
+ | I. | A | B  
+Kieselerde | 61,7 oder | 30,0 + | 31,7  
+Bittererde | 10,2 | 10,2 | -  
+Eisenoxydul | 15,6 | 15,6 | -  
+Thonerde | 6,0 | - | 6,0  
+Kalkerde | 4,0 | 2,0 + | 2,0  
+Kali | 2,5 | - | 2,5  
+ | 100,00 | 57,8 | 42,2  
+
+Wir können dieses I. zerlegen in A und B und erhalten dadurch ein Mineral der Augitgruppe und ein Mineral der Feldspathgruppe, das erste bronzitartig (Sauerstoffverhältniss wie 16:8,1), das zweite mit einem Sauerstoffverhältniss nahezu wie 6:3:1 (genauer 16,9:3:1) oder labradorartig, zu dem der Thonerde- und Alkali-haltige Antheil des durch Salzsäure zerlegten Theiles zu rechnen wäre.
+
+Man kann mithin annehmen, dass im Durchschnitt der Meteorstein von Erähenberg in seiner Hauptmasse besteht aus:
+
+Meteoreisen 6,27  
+Schwefeleisen 8,25  
+Chromeisen 1,21  
+Olivin 41,65  
+Augitmineral (? Bronizt) 23,48  
+Feldspathmineral (? Labrador) 19,14  
+
+Was nun die in grösseren Brocken im Gestein eingebetteten härteren, dichteren und dunkleren Theile anbelangt, welche bereits früher erwähnt wurden, so bestehen diese, möglichst von den anhaftenden Splittern der Hauptmassen befreit, nach der von Ass. A. Schwager vorgenommenen Analyse aus:
+
+Stoffe: | Bauschanalyse | 64% in Salzsäure zersetzbar | 39% in Salzsäure unzersetzbar  
+Kieselerde | 39,08 | 28,44 | 57,96  
+Thonerde | 2,08 | 1,46 | 5,79  
+Eisenoxydul | 28,53 | 36,20 | 13,75  
+Eisen (Nickelhaltig) | 4,43 | 6,92 | -  
+Schwefel | 1,31 | 2,04 | -  
+Manganoxydul | 0,82 | 1,28 | -  
+Chromoxyd | 0,39 | - | 1,08  
+Kalkerde | 13,35 | 14,55 | 11,24  
+Bittererde | 5,97 | 5,73 | 6,40  
+Kali | 1,48 | 1,73 | 1,04  
+Natron | 1,81 | 1,13 | 3,05  
+ | 99,25 | 99,48 | 100,31  
+
+Zunächst ist bemerkenswerth, dass wir es gleichfalls mit einer aus verschiedenen Mineralien zusammengesetzten Masse zu thun haben, welche sich in einen durch Salzsäure zerlegbaren und nicht zerlegbaren Antheil trennen lässt und dass im Ganzen eine grosse Aehnlichkeit in ihrer Zusammensetzung im Vergleiche mit jener der Hauptmasse nicht zu verkennen ist. Abweichend erweist sich dagegen besonders der hohe Gehalt an Eisenoxydul und Kalkerde und der geringe an Bittererde, wenn wir die Masse als Ganzes betrachten, während in dem Salzsäureauszug neben denselben Verhältnissen noch die relativ grosse Menge an Kieselsäure in die Augen fällt. Auch in dem Restantheil ist es die Kalkerde, welche in ungewöhnlicher Menge auftritt. Es lässt sich daraus kaum mehr, als^die Vermuthung schöpfen, dass neben Hyalosiderit ein eisen- und kalkreiches Mineral der Augitgruppe vielleicht Diopsid mit Anorthit-artigem Feldspath als Hauptgemengtheile anzunehmen sind.
 

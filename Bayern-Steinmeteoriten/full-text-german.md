@@ -490,3 +490,22 @@ Die Beimengung von Anorthit oder Labrador hält er für unzulässig, weil Kalk- 
 
 Einer gefälligen Mittheilung verdanke ichferner die Kenntnissnahme der Resultate einer Analyse, welche Herr Professor Dr. Keller in Speyer vorgenommen hat und welche deshalb von grösser Wichtigkeit ist, weil sie mit einer bedeutenden Quantität durchgeführt wurde, nämlich mit 5,71 Gramm; gefunden wurden:
 
+Stoffe | Bausch-Analyse | 57,69% in Salzsäure zersetzbar einzeln | 57,69% in Salzsäure zersetzbar in % | 42,31% in Salzsäure nicht zersetzbar* einzeln | 42,31% in Salzsäure nicht zersetzbar* in %  
+Kieselerde (a) | 41,12 | 15,76 | 27,28 | 25,36 | 61,76  
+Bittererde (a) | 18,62 | 14,44 | 24,99 | 4,18 | 10,18  
+Manganoxydul (a) | 0,78 | 0,78 | 1,35 | - | -  
+Eisenoxydul (a) | 17,10 | 10,69 | 18,52 | 6,41 | 15,61  
+Eisen (b) | 3,93 | 3,93 | 10,85 | - | -  
+Schwefel (b) | 2,35 | 2,35 | 10,85 | - | -  
+Eisen (c) | 6,44 | 6,44 | 14,31 | - | -
+Nickel (c) | 1,36 | 1,36 | 14,31 | - | -  
+Phosphor (c) | 0,46 | 0,46 | 14,31 | - | -  
+Chromoxyd (d) | 0,89 | - | - | 0,89 | -  
+Eisenoxydul (d) | 0,32 | - | - | 0,32 | -  
+Thonerde (e) | 3,22 | 0,76 | 1,31 | 2,46 | 5,99  
+Kalk (e) | 2,06 | 0,42 | 0,73 | 1,64 | 4,00  
+Kali (e) | 1,22 | 0,21 | 0,36 | 1,01 | 2,46  
+Natron (e) | 0,17 | 0,17 | 0,30 | - | -  
+Zinnoxyd (e) | 0,18 | Spuren | - | 0,18 | -  
+
+Daraus wird berechnet:

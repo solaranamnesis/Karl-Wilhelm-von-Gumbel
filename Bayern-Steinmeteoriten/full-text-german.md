@@ -497,7 +497,7 @@ Manganoxydul (a) | 0,78 | 0,78 | 1,35 | - | -
 Eisenoxydul (a) | 17,10 | 10,69 | 18,52 | 6,41 | 15,61  
 Eisen (b) | 3,93 | 3,93 | 10,85 | - | -  
 Schwefel (b) | 2,35 | 2,35 | 10,85 | - | -  
-Eisen (c) | 6,44 | 6,44 | 14,31 | - | -
+Eisen (c) | 6,44 | 6,44 | 14,31 | - | -  
 Nickel (c) | 1,36 | 1,36 | 14,31 | - | -  
 Phosphor (c) | 0,46 | 0,46 | 14,31 | - | -  
 Chromoxyd (d) | 0,89 | - | - | 0,89 | -  
@@ -509,3 +509,24 @@ Natron (e) | 0,17 | 0,17 | 0,30 | - | -
 Zinnoxyd (e) | 0,18 | Spuren | - | 0,18 | -  
 
 Daraus wird berechnet:
+
+a) Olivin 41,67  
+b) Schwefeleisen 6,28  
+c) Meteoreisen 8,26  
+d) Chromeisen 1,21  
+e) Weitere Silikate 42,58  
+
+Das spec. Gewicht wurde zu 3,432 ermittelt.
+
+Vergleichen wir nun die Resultate der letzteren (B) Analyse mit jener früher mittgetheilten vom Rath's (A), indem wir beide bloss auf die Silikatbestandtheiie umrechnen, um den Einfluss der offenbar in sehr ungleicher Verkeilung vorkommenden Gemengtheilen des Meteor-, Schwefel- und Chromeisen zu eliminiren, so ergeben sich folgende Zahlen:
+
+ | A | B  
+Kieselerde | 46,37 | 48,78  
+Thonerde | 0,67 | 3,82  
+Eisenoxydul | 22,56 | 20,29  
+Manganoxydul | Spur. | 0,93  
+Magnesia | 27,13 | 22,09  
+Kalkerde | 2,15 | 2,45  
+Kali | - | 1,44  
+Natron | 1,12 | 0,20  
+

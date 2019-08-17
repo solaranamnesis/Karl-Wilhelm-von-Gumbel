@@ -366,7 +366,7 @@ Thonerde 10,25
  
 also nahezu die Zusammensetzung des Chromeisens von Baltimore (Maryland), ein Beweis mehr für die Gleichartigkeit der Bildung kosmischer und tellurischer Mineralien.
  
- #### Der Meteorstein von Schönenberg.
+#### Der Meteorstein von Schönenberg.
  
  (Figur IV.)
  
@@ -442,4 +442,18 @@ Meteoreisen 14,5
 Schwefeleisen 5,0  
 Schreibersit 2,0  
 Chromeisen 1,0  
+
+Der Dünnschliff dieses Meteorsteins (Figur IV. der Tafel) lehrt uns die aussergewöhnliche Feinkörnigkeit der Gemengtheile kennen, welche alle unregelmässig splittrig, wie bei allen Chondriten, sind. Grössere Mineralstückchen sind selten und ebenso vereinzelt die Chondren (o), deren Masse weiss trübe, staubartig feinkörnig, und an den Rändern schwach durchscheinend, aber i. p. L. buntfarbig, seltener excentrisch faserig sich zeigt. Neben diesen rundlichen Körnchen kommen auch noch unregelmässig eckige Fragmente von trüben, staubartigen und deutlich gestreiften Massen (b) und von jener eigenthümlichen, äussert fein parallelstreifigen und quergegliederten, der Zellenmaschen der Moosblätter ähnlichen Struktur (c) vor, die in so vielen Chondriten als charakteristisch wiederkehrt. Das Meteoreisen bildet oft langgezogene, leistenartige Häufchen (d), scheint aber häufig auch wie eine dünne Rinde sich um die Chondren anzulegen.
+
+Unter den grösseren Mineralsplitterchen kann man die gelblichen, höchst unregelmässig rissigen, im Umrisse mehr rundlichen als dem Olivin angehörig erkennen; sie zeigen i. p. L. die buntesten Aggregatfarben. Die etwas dunkler, farbigen, öfters etwas in’s Röthliche spielenden Splitter des augitischen Minerals zeichnen sich durch eine mehr parallele Zerklüftung nach zwei Richtungen und i. p. L. gleichfalls sehr bunte Färbung aus, während die weisslichen, feldspathigen Bestandteile vielfach in’s Trübe übergehen und i. p. L. von blauen und gelben Farbentönen beherrscht werden.
+
+Nach alledem gehört der früher chemisch noch nicht unter sucht gewesene Meteorstein von Schönenberg der grossen Gruppe der Chondriten an und nähert sich unter diesen durch den niedern Kieselsäuregehalt sehr dem Stein von Ensisheim, unterscheidet sich aber von diesem, wie von allen den durch Rammeisberg (a. a. O.) zusammengestellten Arten durch den relativ sehr geringen Bittererde-, hohen Thonerde- und Natrongehalt.
+
+Die an der Oberfläche des Steins bemerkbaren schnurartigen Streifen scheinen Zerklüftungen des Steins zu entsprechen, auf denen, wie auf der Oberfläche, eine Schmelzrinde beim Fall durch die Atmosphäre sich gebildet zu haben scheint.
+
+#### Der Meteorstein von Krähenberg.
+
+##### bei Zweibrücken in der Rheinpfalz.
+
+(Figur V. und VI.)
 

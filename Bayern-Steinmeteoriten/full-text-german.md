@@ -309,3 +309,49 @@ Schwefel | 0,374 | 1,78 | -
  
  Der durch Salzsäure zersetzbare Antheil zu 21,33% lässt sich nach dem Gehalt an Schwefel, Bittererde und Thonerde berechnet ansehen als ungefähr zusammengesetzt aus:
  
+10% Olivin (Hyalosiderit)  
+86% Anorthit mit grossem Alkaligehalte  
+4% Schwefeleisen und Meteoreisen  
+
+In abgerundeten Zahlen bestände der Feldspath A und der Olivin B aus:
+
+ | A | B  
+Kieselerde | 42 | 37,25  
+Thonerde | 34 | -  
+Eisenoxydul | - | 29,75  
+Kalkerde | 18 | -  
+Bittererde | - | 33,00  
+Alkalien | 6 | -  
+
+Was den Rest des dnrch Säuren nicht zersetzbaren Antheils zu 78,67% anbelangt, so muss man hierin noch einen kleinen Antheil Feldspath neben Chromeisen und Augit annehmen, etwa:
+
+2,5% Chromeisen  
+13,5% feldspathartige Substanz (A)  
+84,0% Augitmineral (B).  
+
+Beiden letzteren (A und B) würde eine Zusammsetzung zu kommen, wie folgt:
+
+ | A | B  
+Kieselerde | 66 | 86  
+Thonerde | 19 | -  
+Eisenoxydul | - | 36  
+Kalkerde | - | 4  
+Bittererde | - | 14  
+Alkalien | 15 | -  
+
+Berücksicht man ferner das Yerhältniss des in Salzsäure zersetzbaren und nicht zersetzbaren Antheils im Verhältniss von 21,33 zu 78,67 so können wir nach der oben angeführten Deutung den Meteorstein ungefähr zusammengesetzt uns Yorstellen, aus:
+
+Olivin 2,00  
+Schwefeleisen 0,75  
+Meteoreisen 0,25  
+Chromeisen 2,00  
+Anorthit 18,00  
+2te feldspathige S. 11,00  
+Augitmineral 66,00  
+
+Es wurde bisher der Stein von Massing dem von Luotolaks an die Seite gestellt und Rammelsberg (d. chem. N. d Meteor. S. 136) zählt ihn zu den Howarditen (Olivin- Augit- Anorthitmeteorstein).
+
+Ich glaube, dass er mehr Analogien mit der Gruppe der Eukrite besitzt, da der Olivin sehr spärlich vorhanden ist.
+
+Wir wollen nun zunächst sehen, wie mit dieser Auffassung die optische Untersuchung der Dünnschliffe passt, wie das Bild Figur III. einen solchen darstellt. Man bemerkt zunächst grosse, unregelmässig eckige — nicht wie bei den typischen Chondriten abgerundete Körnchen und eine ziemlich gleichmässige, feine Hauptmasse mit einzelnen im auffallenden Lichte metallisch glänzenden, stahlgrauen und messinggelben Putzen. Sehen wir zunächst ab von den grossen, unregelmässigen, gleichsam abnormen Beimengungen, so treten uns in der Grundmasse vor Allem grössere Gruppen eines grünlich gelben, dann eines schwach weingelben, eines blassröthlich braunen und weissen Minerals entgegen, welche wir als die Hauptgemengtheile anzusehen berechtigt sind. Die wenigen grünlich gelben Theilchen (a) sind unregelmässig rissig, glänzen i. p L. mit den lebhaf testen Aggregatfarben und werden durch Säuren zersetzt — Olivin. Nach dem ersten Anschein möchte man auch die weit zahlreicheren Putzen des schwach weingelben, jedoch mehr parallel rissigen Minerals (b) für Olivin halten. Allein in den mit kochenden Säuren anhaltend behandelten Pulvern erscheinen sie unzersetzt und können mithin nicht zum Olivin gehören. Auch bemerkt man in den Dünnschliffen eine Art Parallelstreifung, wie sie dem Olivin nicht zukommt, aber an Enstatit erinnert. Daneben liegen zahlreiche, oft nur durchscheinende, doch auch gut durchsichtige, an den Rändern röthlich braun gefärbte, nicht dichroitische Theilchen (c), die allem Verhalten nach Augit zu sein scheinen. Ich glaube demnach annehmen zu sollen, dass zwei Mineralien der Augitgruppe hier vertreten sind, nämlich Enstatit und Augit. Die glashellen oder staubartig weissen Theilchen (d) sind theils durch Säuren zersetzbar, theils erscheinen sie aber auch noch in dem durch Säuren behandelten Pulver mehr oder weniger unberührt. Diess deutet gleichfalls auf die Anwesenheit von zweierlei Feldspathen, von welchen der eine wohl in dem Dünnschliffe Spuren von Parallelstreifen i. p. L. erkennen lässt. Dass — entgegen der Angabe Schafhäutl's — wirklich Meteoreisen, wenn auch spärlich beigemengt ist (e), habe ich in dem Dünnschliffe, in dem zwei deutliche Körnchen Vorkommen, dadurch festgestellt, dass ich auf die stahlgrau glänzenden Flächen Kupfervitriollösung brachte, wobei sich sofort die Ausscheidung metallischen Kupfers beobachten lässt.
+

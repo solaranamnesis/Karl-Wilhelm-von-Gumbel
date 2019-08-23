@@ -69,14 +69,14 @@ Neben den Chondren lassen sich in der pulverigen Hauptmasse eingebettet noch zah
 
 Nach dem Behandeln des fein zerdrückten (nicht zerriebenen) Materials mit Salpetersalzsäure und Kalilösung sind — abgesehen von den metallischen Gemengteilen — die gelblichen Splitterchen (Olivin) verschwunden und der Rückstand besteht nur aus weißen und bräunlichen Stücken, die unter dem Mikroskop sich leicht unterscheiden lassen. Die bräunlichen Fragmente sind stark rissig, selten mit Spuren von dunklen Parallelstreifchen versehen, durchsichtig und i. p. L. lebhaft buntfleckig gefärbt. Es sind zweifelsohne Teilchen eines Minerals aus der Augitgruppe. Die weißen Splitterchen dagegen sind vielfach nur durchscheinend, teilweise durch die Säuren angegriffen und zeigen i. p. L. nur matte fleckige Farbentöne, welche hier und da an eine streifige Anordnung erinnern. Dass diese Splitterchen als Feldspat-artige Gemengteile gedeutet werden müssen, beweist auch die chemische Analyse des Restanteils nach der Einwirkung der Säuren. Kleinste schwarze Teilchen sind als Chromeisen anzusprechen. Es besteht demnach der Stein aus Olivin, einem Feldspat-artigen, augitischen Mineral, aus Meteor-, Schwefel- und Chromeisen.
 
-Damit stimmt nun auch im Allgemeinen die chemische Analyse, welche von Hrn. Assistent Ad. Schwager unter gleichzeitig controllirenden eigenen Untersuchungen durchgeführt wurde. Die Bestimmung des Meteoreisens und Schwefeleisens geschah durch eigene Versuche*. Die Analysen ergaben:
+Damit stimmt nun auch im Allgemeinen die chemische Analyse, welche von Hrn. Assistent Ad. Schwager unter gleichzeitig kontrollierenden eigenen Untersuchungen durchgeführt wurde. Die Bestimmung des Meteoreisens und Schwefeleisens geschah durch eigene Versuche*. Die Analysen ergaben:
 
-*) Es wurde aus dem zerdrückten Pulver durch den Magnet alles Ausziehbare herausgenommen, und diese Meteoreisen haltigen Bestandteile unter Anwendung von Kupfervitriol und Kupferchlorid besonders analysirt.
+*) Es wurde aus dem zerdrückten Pulver durch den Magnet alles Ausziehbare herausgenommen, und diese Meteoreisen haltigen Bestandteile unter Anwendung von Kupfervitriol und Kupferchlorid besonders analysiert.
 
 Stoffe: | Bauschanalyse 65,45% durch Salzsäure zersetzbarer Anteil | 34,55% Restbestandteil
 
 Kieselsäure | 38,14 | 23,23 | 61,39  
-Thonerde | 2,51 | 1,20 | 5,00  
+Tonerde | 2,51 | 1,20 | 5,00  
 Eisenoxydul | 25,70 | 32,72 | 17,59  
 Eisen & Nickel | 6,30 | 9,65 | -,-  
 Schwefel | 2,09 | 3,20 | -,-  
@@ -103,9 +103,9 @@ FeO 37,30
 CaO 1,70  
 MgO 33,20  
 
-worin, wenn die Thonerde und Kalkerde als wahrscheinlich zu einem zersetzten Feldspat gerechnet und ein Teil des Eisenoxyduls als noch von Meteoreisen abstammend in Abzug gebracht wird, der durch Säuren zersetzte Bestandteil nicht anders, als zu Olivin gehörig sich auslegen lässt. Dass ein Teil des Eisens oxydirt ist und dadurch der Gehalt an Basen etwas gesteigert erscheint, darauf weisen schon die Rostflecken hin, welche sich manchmal selbst in der Masse ziemlich verbreitet zeigen.
+worin, wenn die Tonerde und Kalkerde als wahrscheinlich zu einem zersetzten Feldspat gerechnet und ein Teil des Eisenoxyduls als noch von Meteoreisen abstammend in Abzug gebracht wird, der durch Säuren zersetzte Bestandteil nicht anders, als zu Olivin gehörig sich auslegen lässt. Dass ein Teil des Eisens oxydirt ist und dadurch der Gehalt an Basen etwas gesteigert erscheint, darauf weisen schon die Rostflecken hin, welche sich manchmal selbst in der Masse ziemlich verbreitet zeigen.
 
-Was das oder die Silikate des Restbestandteils angeht, so giebt der verhältuissm&ssig hohe Kieselsäure- und Thonerdegehalt, neben den Alkalien wohl der Vermutang Raum, dass neben einem Augit-Mineral auch noch ein feldspathtiges vorhanden sei. Gleichwohl aber bleibt auch bei dieser Annahme noch ein starker Ueberschuss an Eieselsäure, von dem man wohl nicht voraussetzen darf, dass er in Form eines ausgeschiedenen Quarzminerals auftrete, weil bei Untersuchung des Dünnschliffs im reflectirten Lichte keine Spur einer Beimengung von durch den starken Glanz sonst erkennbarem Quarze sich bemerken lässt. Dieses Verhalten ist vorläufig noch unaufgeklärt.
+Was das oder die Silikate des Restbestandteils angeht, so giebt der verhältuissm&ssig hohe Kieselsäure- und Tonerdegehalt, neben den Alkalien wohl der Vermutang Raum, dass neben einem Augit-Mineral auch noch ein feldspathtiges vorhanden sei. Gleichwohl aber bleibt auch bei dieser Annahme noch ein starker Ueberschuss an Eieselsäure, von dem man wohl nicht voraussetzen darf, dass er in Form eines ausgeschiedenen Quarzminerals auftrete, weil bei Untersuchung des Dünnschliffs im reflectirten Lichte keine Spur einer Beimengung von durch den starken Glanz sonst erkennbarem Quarze sich bemerken lässt. Dieses Verhalten ist vorläufig noch unaufgeklärt.
 
 Derselbe Meteorstein ist bereits in neuester Zeit auch noch einer chemischen Analyse von anderer Seite unterworfen worden. Rammelsberg führt (D. chem. Nat. d. Meteoriten Abh. d. Acad. d. Wiss. in Berlin für 1870 S. 148 u. ff.) als das Resultat der von Crook* ausgeführten Untersuchung an: Zusammensetzung:
 
@@ -120,7 +120,7 @@ das Silikat bestehend als:
 
 Stoffe: | im Ganzen Bauschanalyse | in dem 61% durch Säuren zersetzbar. Anteil. | in dem 39% in Säuren unzersetzb. Anteil.  
 Kieselsäure | 44,81 | 32,68 | 3,94  
-Thonerde | 1,24 | 9,36 | 4,17  
+Tonerde | 1,24 | 9,36 | 4,17  
 Eisenoxydul | 24,55 | 28,91 | 17,71  
 Bittererde | 26,10 | 37,44 | 8,20  
 Kalkerde | 2,28 | 0,61 | 4,91  
@@ -170,7 +170,7 @@ C in dem durch CI H nicht zersetzbaren Bestandteil:
 
  | A. | B. | C.  
 Kieselerde | 33,31 | 34,45 | 55,53  
-Thonerde | 2,31 | 0,86 | 5,13  
+Tonerde | 2,31 | 0,86 | 5,13  
 Eisenoxydul | 15,34 | 24,52 | 16,66  
 Eisen (mit Phosphor) | 24,64 | - | -  
 Nickel | 0,94 | - | -  
@@ -200,7 +200,7 @@ Kieselerde 55,53 mit 29,62 O = 22,6 + 7
 Eisenoxydul 16,66 mit 3,70 O = 3,58 + 0,12  
 Bittererde 19,34 mit 7,73 O  
 Chromoxyd 0,73 mit 0,23 O  
-Thonerde 5,13 mit 2,39 O = 2,33 + 0.06  
+Tonerde 5,13 mit 2,39 O = 2,33 + 0.06  
 Kalkerde 1,13 mit 0,32 O  
 Kali 0,56 mit 0,10 O  
 Natron 1,62 mit 0,42 O  
@@ -231,14 +231,14 @@ Als Zusammensetzung der Silikate I und II ergab sich ferner
 Kieselsäure | 26,26 mit 14,22 O | 53,21 mit 28,38 O  
 Eisenoxydul | 30,09 mit 6,67 O | 14,86 mit 3,30 O  
 Bittererde | 31,53 mit 12,60 O | 26,42 mit 10,56 O  
-Thonerde | 2,70 mit 1,26 O | - -  
+Tonerde | 2,70 mit 1,26 O | - -  
 Kalkerde | 1,00 mit 0,29 O | 3,67 mit 1,05 O  
 Alkalien | 8,00 mit 1,70 O | - -  
  | 99,98 | 98,16  
 
 Es ist zunächst hervorzuheben, dass, wie auch schon von anderer Seite bemerkt wurde, die Zusammensetzung der Chondren nahezn die nämliche ist, wie die der ganzen Masse nnd sich durch die Behandlung mit Säuren in zwei ähnliche Teile scheiden lässt.
 
-Der in Salzsäure zerlegbare Teil, abgesehen von Resten eines Gehaltes an Meteoreisen und Schwefeleisen, schliesst sich am engsten an Olivin an. Aber es mangelt auch hier, wie in zahlreichen Fällen bei analysirten Chondriten an Kieselsäure. Ich möchte vermuten, dass diess hier von einem Ueberchass an Eisenoxydul herrührt, das, anstatt von zersetzem Olivin, von fein beigemengtem Meteoreisen abstammt. Thonerde, Kalkerde und Alkalien weisen auf eine Beimengung feldspathartiger Teilchen, wie bei der Hauptmasse der Chondriten hin. Doch bietet die Interpretation dieses Teils immerhin Schwierigkeiten, die bis jetzt noch nicht beseitigt sind.
+Der in Salzsäure zerlegbare Teil, abgesehen von Resten eines Gehaltes an Meteoreisen und Schwefeleisen, schliesst sich am engsten an Olivin an. Aber es mangelt auch hier, wie in zahlreichen Fällen bei analysirten Chondriten an Kieselsäure. Ich möchte vermuten, dass diess hier von einem Ueberchass an Eisenoxydul herrührt, das, anstatt von zersetzem Olivin, von fein beigemengtem Meteoreisen abstammt. Tonerde, Kalkerde und Alkalien weisen auf eine Beimengung feldspathartiger Teilchen, wie bei der Hauptmasse der Chondriten hin. Doch bietet die Interpretation dieses Teils immerhin Schwierigkeiten, die bis jetzt noch nicht beseitigt sind.
 
 Der in Salzsäure unzersetzte Rest fügt sich viel besser in das Maass eines Bisilikates; wenn es auch hierbei um etwas weniges an Kieselsäure fehlt, so kann diess wohl bei der geringen, zur Analyse verwendete Menge als Folge des Verlustes bei der Analyse selbst angesehen werden.
 
@@ -295,7 +295,7 @@ Die Analyse A. Schwager’s ergab:
 
 Stoffe: | Bauschanalyse | 21,33% in Salzsäure zersetzbar | 78,67% in Salzsäure nicht zersetzbar  
 Kieselsäure | 52,115 | 39,59 | 56,71  
-Thonerde | 8,204 | 29,51 | 2,54  
+Tonerde | 8,204 | 29,51 | 2,54  
 Eisenoxydul | 19,138 | 2,83 | 23,46  
 Eisen | 0,523 | 2,49 | -  
 Nickel | Spuren | Spuren | -  
@@ -307,7 +307,7 @@ Natron | 1,928 | 4,78 | 1,17
 Schwefel | 0,374 | 1,78 | -  
  | 99,720 | 100,06 | 99,86  
  
- Der durch Salzsäure zersetzbare Anteil zu 21,33% lässt sich nach dem Gehalt an Schwefel, Bittererde und Thonerde berechnet ansehen als ungefähr zusammengesetzt aus:
+ Der durch Salzsäure zersetzbare Anteil zu 21,33% lässt sich nach dem Gehalt an Schwefel, Bittererde und Tonerde berechnet ansehen als ungefähr zusammengesetzt aus:
  
 10% Olivin (Hyalosiderit)  
 86% Anorthit mit grossem Alkaligehalte  
@@ -317,7 +317,7 @@ In abgerundeten Zahlen bestände der Feldspat A und der Olivin B aus:
 
  | A | B  
 Kieselerde | 42 | 37,25  
-Thonerde | 34 | -  
+Tonerde | 34 | -  
 Eisenoxydul | - | 29,75  
 Kalkerde | 18 | -  
 Bittererde | - | 33,00  
@@ -333,7 +333,7 @@ Beiden letzteren (A und B) würde eine Zusammsetzung zu kommen, wie folgt:
 
  | A | B  
 Kieselerde | 66 | 86  
-Thonerde | 19 | -  
+Tonerde | 19 | -  
 Eisenoxydul | - | 36  
 Kalkerde | - | 4  
 Bittererde | - | 14  
@@ -361,7 +361,7 @@ Der namhafte Gehalt dieses Steins an Chromeisen gab Veranlassung, dessen Zusamme
 
 Chromoxyd 52,13  
 Eisenoxydul 37,68  
-Thonerde 10,25  
+Tonerde 10,25  
  | 100,06  
  
 also nahezu die Zusammensetzung des Chromeisens von Baltimore (Maryland), ein Beweis mehr für die Gleichartigkeit der Bildung kosmischer und tellurischer Mineralien.
@@ -386,7 +386,7 @@ Die Schmelzrinde ist nach meiner Wahrnehmung matt schimmernd, schwarz, stellenwe
 
 Stoffe: | Bauschanalyse | 55,18% durch Salzsäure zersetzbar | 44,82% durch Salzsäurenicht zersetzbar  
 Kieselsäure | 40,13 | 24,47 | 57,85  
-Thonerde | 5,57 | 9,45 | 6,75  
+Tonerde | 5,57 | 9,45 | 6,75  
 Eisen | 13,77 | 30,56 | -  
 Nickel | 1,47 | 1,48 | 1,44  
 Schwefel | 1,93 | 3,52 | -  
@@ -424,9 +424,9 @@ Ka₂O | 1,33 | 4,54 | Sauerstoff 0,77
 Na₂O | 3,18 | 10,84 | Sauerstoff 2,8  
  | 29,33 | 100,00  
 
-Das Sauerstoffverhältniss der Kieselsäure, der Thonerde und der alkalischen Basen 3:2:1 steht nicht in Uebereinstimmung mit jenen der eigentlichen Feldspate, sondern entspricht dem der Skapolithgruppe (Mejonit). Die Anwesenheit eines derartigen Minerals würde aueh zu dem optischen Verhalten besser passen, als die Annahme eines Anorthits oder Plagioklases überhaupt, weil i. p. L. die weissen oder glashellen Teilchen keine parallelen Farbenstreifchen erkennen lassen.
+Das Sauerstoffverhältniss der Kieselsäure, der Tonerde und der alkalischen Basen 3:2:1 steht nicht in Uebereinstimmung mit jenen der eigentlichen Feldspate, sondern entspricht dem der Skapolithgruppe (Mejonit). Die Anwesenheit eines derartigen Minerals würde aueh zu dem optischen Verhalten besser passen, als die Annahme eines Anorthits oder Plagioklases überhaupt, weil i. p. L. die weissen oder glashellen Teilchen keine parallelen Farbenstreifchen erkennen lassen.
 
-In dem von Salzsäure nicht zersetzten Reste ist der Gehalt an Nickel und Phosphor bemerkenswerth. Wir müssen diess, da nicht anzunehmen ist, dass dieser Gehalt von einem Rest zufällig unzersetzt gebliebenen Meteoreisens herrühre, als ein Zeichen der Beimengung von Schreibersit ansehen. Das dazu gehörige Eisen erscheint natürlich in der Analyse unter dem Eisenoxydul. Daraus mag sich auch der Ueberschuss der Summe über 100 z. Th. erklären. Obwohl ausserdem noch sicher Thonerde-haltiges Chromeisen vorhanden ist, kommt doch eine so bedeutende Menge von Thonerde neben einem beträchtlichen Quantum von Natron zum Vorschein, dass in dem Rest weiter auch ein feldspathiger Gemengteil vorausgesetzt werden muss, während dessen Hauptbestandteil offenbar ein augitisches Mineral ausmacht. Bringt man für letzteres die Gemengteile eines Bisilikats in Abzug, so bleibt ein Rest, in dem das Sauerstoffverhältniss zwischen Thonerde nnd der übrig bleibenden Kieselsäure zwar nahezu wie 3:9 verhält, es fehlt aber dann an der erforderlichen Menge der Kalkerde und Alkalien. Es lässt sich daher dieser von Säuren nicht zerlegte Anteil nur ungefähr berechnet als bestehend aus:
+In dem von Salzsäure nicht zersetzten Reste ist der Gehalt an Nickel und Phosphor bemerkenswerth. Wir müssen diess, da nicht anzunehmen ist, dass dieser Gehalt von einem Rest zufällig unzersetzt gebliebenen Meteoreisens herrühre, als ein Zeichen der Beimengung von Schreibersit ansehen. Das dazu gehörige Eisen erscheint natürlich in der Analyse unter dem Eisenoxydul. Daraus mag sich auch der Ueberschuss der Summe über 100 z. Th. erklären. Obwohl ausserdem noch sicher Tonerde-haltiges Chromeisen vorhanden ist, kommt doch eine so bedeutende Menge von Tonerde neben einem beträchtlichen Quantum von Natron zum Vorschein, dass in dem Rest weiter auch ein feldspathiger Gemengteil vorausgesetzt werden muss, während dessen Hauptbestandteil offenbar ein augitisches Mineral ausmacht. Bringt man für letzteres die Gemengteile eines Bisilikats in Abzug, so bleibt ein Rest, in dem das Sauerstoffverhältniss zwischen Tonerde nnd der übrig bleibenden Kieselsäure zwar nahezu wie 3:9 verhält, es fehlt aber dann an der erforderlichen Menge der Kalkerde und Alkalien. Es lässt sich daher dieser von Säuren nicht zerlegte Anteil nur ungefähr berechnet als bestehend aus:
 
 Schreibersit 4,5  
 Chromeisen 2,5  
@@ -447,7 +447,7 @@ Der Dünnschliff dieses Meteorsteins ([Figur IV.](https://cdn.solaranamnesis.com
 
 Unter den grösseren Mineralsplitterchen kann man die gelblichen, höchst unregelmässig rissigen, im Umrisse mehr rundlichen als dem Olivin angehörig erkennen; sie zeigen i. p. L. die buntesten Aggregatfarben. Die etwas dunkler, farbigen, öfters etwas in’s Röthliche spielenden Splitter des augitischen Minerals zeichnen sich durch eine mehr parallele Zerklüftung nach zwei Richtungen und i. p. L. gleichfalls sehr bunte Färbung aus, während die weisslichen, feldspathigen Bestandteile vielfach in’s Trübe übergehen und i. p. L. von blauen und gelben Farbentönen beherrscht werden.
 
-Nach alledem gehört der früher chemisch noch nicht unter sucht gewesene Meteorstein von Schönenberg der grossen Gruppe der Chondriten an und nähert sich unter diesen durch den niedern Kieselsäuregehalt sehr dem Stein von Ensisheim, unterscheidet sich aber von diesem, wie von allen den durch Rammeisberg (a. a. O.) zusammengestellten Arten durch den relativ sehr geringen Bittererde-, hohen Thonerde- und Natrongehalt.
+Nach alledem gehört der früher chemisch noch nicht unter sucht gewesene Meteorstein von Schönenberg der grossen Gruppe der Chondriten an und nähert sich unter diesen durch den niedern Kieselsäuregehalt sehr dem Stein von Ensisheim, unterscheidet sich aber von diesem, wie von allen den durch Rammeisberg (a. a. O.) zusammengestellten Arten durch den relativ sehr geringen Bittererde-, hohen Tonerde- und Natrongehalt.
 
 Die an der Oberfläche des Steins bemerkbaren schnurartigen Streifen scheinen Zerklüftungen des Steins zu entsprechen, auf denen, wie auf der Oberfläche, eine Schmelzrinde beim Fall durch die Atmosphäre sich gebildet zu haben scheint.
 
@@ -473,7 +473,7 @@ Chromeisen | 0,94 | -
 Magnetkies Schwefel | 2,25 | -  
 Magnetkies Eisen | 3,47 | -  
 Kieselsäure | 43,29 | 46,37 Sauerstoff 24,73  
-Thonerde | 0,63 | 0,67 Sauerstoff 0,32  
+Tonerde | 0,63 | 0,67 Sauerstoff 0,32  
 Magnesia | 25,32 | 27,13 Sauerstoff 10,85  
 Kalkerde | 2,01 | 2,15 Sauerstoff 0,61  
 Eisenoxydul | 21,06 | 22,56 Sauerstoff 5,01  
@@ -486,7 +486,7 @@ Demnach verhält sich die Summe der Sauerstoflmengen der Basen gegen die der Kie
 
 welches Verhältniss gegen das des Pultusker Steins (1:1,507) auf keine wesentliche Verschiedenheit schliessen lässt. Als wesentliche Gemengteile ergeben sich auch nach der chemischen Analyse: Olivin und ein kieselsäurereiches Mineral, ob Enstatit oder Shepardit oder beide gleichzeitig, lässt vom Rath unentschieden.
 
-Die Beimengung von Anorthit oder Labrador hält er für unzulässig, weil Kalk- und Thonerde dem unlöslichen Anteil angehören und nur in geringer Menge mit Säuren sich ausziehen lassen.
+Die Beimengung von Anorthit oder Labrador hält er für unzulässig, weil Kalk- und Tonerde dem unlöslichen Anteil angehören und nur in geringer Menge mit Säuren sich ausziehen lassen.
 
 Einer gefälligen Mitteilung verdanke ichferner die Kenntnissnahme der Resultate einer Analyse, welche Herr Professor Dr. Keller in Speyer vorgenommen hat und welche deshalb von grösser Wichtigkeit ist, weil sie mit einer bedeutenden Quantität durchgeführt wurde, nämlich mit 5,71 Gramm; gefunden wurden:
 
@@ -502,7 +502,7 @@ Nickel (c) | 1,36 | 1,36 | 14,31 | - | -
 Phosphor (c) | 0,46 | 0,46 | 14,31 | - | -  
 Chromoxyd (d) | 0,89 | - | - | 0,89 | -  
 Eisenoxydul (d) | 0,32 | - | - | 0,32 | -  
-Thonerde (e) | 3,22 | 0,76 | 1,31 | 2,46 | 5,99  
+Tonerde (e) | 3,22 | 0,76 | 1,31 | 2,46 | 5,99  
 Kalk (e) | 2,06 | 0,42 | 0,73 | 1,64 | 4,00  
 Kali (e) | 1,22 | 0,21 | 0,36 | 1,01 | 2,46  
 Natron (e) | 0,17 | 0,17 | 0,30 | - | -  
@@ -524,7 +524,7 @@ Vergleichen wir nun die Resultate der letzteren (B) Analyse mit jener früher mi
 
  | A | B  
 Kieselerde | 46,37 | 48,78  
-Thonerde | 0,67 | 3,82  
+Tonerde | 0,67 | 3,82  
 Eisenoxydul | 22,56 | 20,29  
 Manganoxydul | Spur. | 0,93  
 Magnesia | 27,13 | 22,09  
@@ -532,7 +532,7 @@ Kalkerde | 2,15 | 2,45
 Kali | - | 1,44  
 Natron | 1,12 | 0,20  
 
-Auch hier bemerken wir in einzelnen Stoffen eine sehr geringe Uebereinstimmung, so namentlich in Bezug auf Thonerde und Bittererde, was wieder auf eine sehr ungleiche Mengung und Verteilung der Bestandteile hinweist. In der Tat ergab sich nun bei näherer Untersuchung des Steins, welcher in der Kreissammlung zu Speyer verwahrt ist, dass, wie schon W e i s s hervorgehoben hat, ganze Parthieen desselben flecken weise durch dunklere Farbe, grössere Härte und compaktere Beschaffenheit vor den übrigen hellgrauen, zerreiblichen Massen a#ffallend sich hervorheben. Es sind diese putzenförmigen Einschlüsse, eckig, unregelmässig umgrenzt:, gleichsam Bruchstücke im Grossen, wie die Splitter der Hauptmasse im Kleinen, jedoch auch von besonderer Beschaffenheit. Ich wurde in die angenehme Lage versetzt, über Stückchen des Speyerer Steins für meine weitere Untersuchung verfügen zu können. Ehe ich jedoch über diese besonderen Einschlüsse weitere Mitteilung mache, habe ich noch in die nähere Erörterung bezüglich der in Salzsäure zersetzbaren und nicht zersetzbaren, verschiedenen Mineralgemenge einzutreten.
+Auch hier bemerken wir in einzelnen Stoffen eine sehr geringe Uebereinstimmung, so namentlich in Bezug auf Tonerde und Bittererde, was wieder auf eine sehr ungleiche Mengung und Verteilung der Bestandteile hinweist. In der Tat ergab sich nun bei näherer Untersuchung des Steins, welcher in der Kreissammlung zu Speyer verwahrt ist, dass, wie schon W e i s s hervorgehoben hat, ganze Parthieen desselben flecken weise durch dunklere Farbe, grössere Härte und compaktere Beschaffenheit vor den übrigen hellgrauen, zerreiblichen Massen a#ffallend sich hervorheben. Es sind diese putzenförmigen Einschlüsse, eckig, unregelmässig umgrenzt:, gleichsam Bruchstücke im Grossen, wie die Splitter der Hauptmasse im Kleinen, jedoch auch von besonderer Beschaffenheit. Ich wurde in die angenehme Lage versetzt, über Stückchen des Speyerer Steins für meine weitere Untersuchung verfügen zu können. Ehe ich jedoch über diese besonderen Einschlüsse weitere Mitteilung mache, habe ich noch in die nähere Erörterung bezüglich der in Salzsäure zersetzbaren und nicht zersetzbaren, verschiedenen Mineralgemenge einzutreten.
 
 Die in Salzsäure zersetzbaren Silikatbestandteile berechnen sich in ihrer Zusammensetzung:
 
@@ -540,7 +540,7 @@ Die in Salzsäure zersetzbaren Silikatbestandteile berechnen sich in ihrer Zusam
 (+) Eisenoxydul 24,73  
 (+) Bittererde 33,40  
 (+) Manganoxydul 1,80  
-(^) Thonerde 1,76  
+(^) Tonerde 1,76  
 (^) Kalkerde 0,97  
 (^) Kali 0,48  
 (^) Natron 0,40  
@@ -555,12 +555,12 @@ Der von Salzsäure nicht zersetzte Rest besteht, das Chromeisen abgerechnet, aus
 Kieselerde | 61,7 oder | 30,0 + | 31,7  
 Bittererde | 10,2 | 10,2 | -  
 Eisenoxydul | 15,6 | 15,6 | -  
-Thonerde | 6,0 | - | 6,0  
+Tonerde | 6,0 | - | 6,0  
 Kalkerde | 4,0 | 2,0 + | 2,0  
 Kali | 2,5 | - | 2,5  
  | 100,00 | 57,8 | 42,2  
 
-Wir können dieses I. zerlegen in A und B und erhalten dadurch ein Mineral der Augitgruppe und ein Mineral der Feldspatgruppe, das erste bronzitartig (Sauerstoffverhältniss wie 16:8,1), das zweite mit einem Sauerstoffverhältniss nahezu wie 6:3:1 (genauer 16,9:3:1) oder labradorartig, zu dem der Thonerde- und Alkali-haltige Anteil des durch Salzsäure zerlegten Teiles zu rechnen wäre.
+Wir können dieses I. zerlegen in A und B und erhalten dadurch ein Mineral der Augitgruppe und ein Mineral der Feldspatgruppe, das erste bronzitartig (Sauerstoffverhältniss wie 16:8,1), das zweite mit einem Sauerstoffverhältniss nahezu wie 6:3:1 (genauer 16,9:3:1) oder labradorartig, zu dem der Tonerde- und Alkali-haltige Anteil des durch Salzsäure zerlegten Teiles zu rechnen wäre.
 
 Man kann mithin annehmen, dass im Durchschnitt der Meteorstein von Erähenberg in seiner Hauptmasse besteht aus:
 
@@ -575,7 +575,7 @@ Was nun die in grösseren Brocken im Gestein eingebetteten härteren, dichteren 
 
 Stoffe: | Bauschanalyse | 64% in Salzsäure zersetzbar | 39% in Salzsäure unzersetzbar  
 Kieselerde | 39,08 | 28,44 | 57,96  
-Thonerde | 2,08 | 1,46 | 5,79  
+Tonerde | 2,08 | 1,46 | 5,79  
 Eisenoxydul | 28,53 | 36,20 | 13,75  
 Eisen (Nickelhaltig) | 4,43 | 6,92 | -  
 Schwefel | 1,31 | 2,04 | -  

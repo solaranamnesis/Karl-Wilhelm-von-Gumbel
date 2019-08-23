@@ -129,7 +129,7 @@ Kali | 0,16 | - | 0,40
 
 Diese Resultate weichen so bedeutend von den früher mitgeteilten ab, dass dafür kein anderer Grund gefunden werden kann, als die an sich große Ungleichheit in der Zusammensetzung des Meteorsteins, welche einen umso größeren Einfluss auf die Ergebnisse der Untersuchung zu äußern im Stande ist, mit je kleineren Quantitäten man zu arbeiten gezwungen ist. Die mikroskopische Untersuchung der Dünnschliffe unterstützt direkt diese Annahme, indem sich hierbei die größte Unregelmäßigkeit in der Art der Verteilung der Gemengteile erkennen lässt. Ein größeres Korn von diesem oder jenem Gemengteil in der verwendeten Probe verrückt bei geringen Quantitäten, die man benützt, die Zahlen in beträchtlicher Weise. Es lassen sich beispielsweise zackige Knöllchen von Meteoreisenteilchen aus der Masse herauslösen, deren Größe in keinem Verhältnisse steht zu dem geringen Prozentgehalte des Steins an Meteoreisen im Allgemeinen und Ganzen. Ähnlich verhält es sich mit den eingestreuten härteren Knöllchen und Körnchen.
 
-Besonders verschieden ist die Angabe bezüglich der Zusammensetzung des in Salzsäure zersetzbaren Gemengteils. Doch tritt auch in der Analyse Crook’s die relativ geringe Menge von Kieselsäure sehr deutlich hervor. Minder abweichend erweisen sich die Resultate der Analyse des durch Säuren unzersetzten Restes. Gerade dies beweist, dass es nicht in dem Gang der analytischen Arbeit liegt, wie es scheinen könnte, wenn hier der Kieselsäurengehalt ebenso verhältnismäßig hoch, wie bei dem in Säuren zersetzbaren Anteil gering gefunden wurde. Da dieser Rest, wie die mikroskopische Untersuchung desselben lehrt, aus verschiedenen Mineralsubstanzen, namentlich einem weißen und einem braunen Gemengteil besteht, so kann das Sauerstoff-Verhältnis im Ganzen genommen, uns keine besonderen Aufschlüsse verschaffen.
+Besonders verschieden ist die Angabe bezüglich der Zusammensetzung des in Salzsäure zersetzbaren Gemengteils. Doch tritt auch in der Analyse Crook's die relativ geringe Menge von Kieselsäure sehr deutlich hervor. Minder abweichend erweisen sich die Resultate der Analyse des durch Säuren unzersetzten Restes. Gerade dies beweist, dass es nicht in dem Gang der analytischen Arbeit liegt, wie es scheinen könnte, wenn hier der Kieselsäurengehalt ebenso verhältnismäßig hoch, wie bei dem in Säuren zersetzbaren Anteil gering gefunden wurde. Da dieser Rest, wie die mikroskopische Untersuchung desselben lehrt, aus verschiedenen Mineralsubstanzen, namentlich einem weißen und einem braunen Gemengteil besteht, so kann das Sauerstoff-Verhältnis im Ganzen genommen, uns keine besonderen Aufschlüsse verschaffen.
 
 Die wegen der leichten Zerreiblichkeit der Masse schwierig herzustellenden Dünnschliffe, welche nur durch wiederholtes Tränken mit sehr verdünntem Canadabalsam in brauchbarem Zustande gewonnen werden können, geben, wie es das Dünnschliffbild auf der beiliegenden Tafel in [Figur I.](https://cdn.solaranamnesis.com/Gumbel/Bayern/Fig-1.png) zeigt, bezüglich der Zusammensetzung des Gesteins und der Verteilung der Gemengteile einige lehrreiche Aufschlüsse. Es stechen besonders die Chondren in ihrer teils staubig krümeligen, teils faserigen Zusammensetzung besonders hervor. Trotz der geringen Durchsichtigkeit derselben erweisen sie sich i. p. L. betrachtet stets farbig, und zwar nicht bloß die lichteren Streifchen derselben, sondern ihre ganze Masse. Diesen Einmengungen gegenüber sind die übrigen unterscheidbaren, stets unregelmäßig umgrenzten, gelblichen, bräunlichen und weißlichen Splitterchen klein. Sie sind alle von zahllosen Bissen durchzogen, die nur hier und da parallel verlaufen. Kleine Stückchen und Staubteilchen der anscheinend gleichen Mineralien bilden die Grundmasse, in welchen die größeren Trümmer eingestreut liegen. I. p. L. treten bis in die feinsten Teilchen Farbenerscheinungen hervor, so dass auch in den Dünnschliffen die Abwesenheit einer glasartigen Bindemasse bestimmt beobachtet werden kann. Bemerkenswert sind zahlreiche kleinste, runde, wasserhelle Körnchen, welche der Grundmasse beigemengt sind. Meteoreisen- und Schwefeleisen-Knöllchen teilen etwa die Größe der Mineralsplitterchen, machen jedoch ihren Umrissen nach nicht den Eindruck der Zertrümmerung, wie letztere und liegen ziemlich gleichmäßig in der Masse zerstreut. Wir sehen also, dass der Meteorstein von Mauerkirchen seiner Struktur nach sich nicht wesentlich von anderen chondritischen Meteorsteinen unterscheidet.
 
@@ -144,7 +144,7 @@ Das spez. Gewicht* wird angegeben:
 von Schreibers zu 3,700  
 von Rumler zu 3,599  
 
-*) Vergl. Moll’s Annal, d. Berg- u. Hüttenk. Bd. III. S. 251.
+*) Vergl. Moll's Annal, d. Berg- u. Hüttenk. Bd. III. S. 251.
 
 Klaproth hat diesen Stein analysiert und gibt (Gilberts Ann. XIII. 338) als seine Bestandteile an:
 
@@ -205,7 +205,7 @@ Kalkerde 1,13 mit 0,32 O
 Kali 0,56 mit 0,10 O  
 Natron 1,62 mit 0,42 O  
 
-Daraus berechnet sich ein Bisilikat, Chromeisen (von der Zusammensetzung des von L’Aigle) und ein Andesin-artiger Feldspat ungefähr in dem Verhältnis wie 79 : 1 : 21.
+Daraus berechnet sich ein Bisilikat, Chromeisen (von der Zusammensetzung des von L'Aigle) und ein Andesin-artiger Feldspat ungefähr in dem Verhältnis wie 79 : 1 : 21.
 
 Im Ganzen besteht also der Eichstädter Meteorstein ungefähr aus:
 
@@ -291,7 +291,7 @@ Nach meinen Beobachtungen besitzt der Stein eine braunschwarze glasglänzende Ri
 
 Diese sämtlichen größeren, vorwaltend rundlich unregelmäßig eckigen, (nicht länglich spießförmigen) Teilchen liegen in einer feinstaubartig körnigen, grauen Grundmasse, welche aus denselben nur kleinen und kleinsten Splitterchen, wie sie eben angeführt wurden, zu bestehen scheint. Auch hier ist eine glasartige Bindemasse nicht zu erkennen.
 
-Die Analyse A. Schwager’s ergab:
+Die Analyse A. Schwager's ergab:
 
 Stoffe: | Bauschanalyse | 21,33% in Salzsäure zersetzbar | 78,67% in Salzsäure nicht zersetzbar  
 Kieselsäure | 52,115 | 39,59 | 56,71  

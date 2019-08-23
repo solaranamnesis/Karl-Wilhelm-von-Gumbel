@@ -67,7 +67,7 @@ Aus der äußerst feinbröcklichen, fast staubartigen Grundmasse heben sich ziem
 
 Neben den Chondren lassen sich in der pulverigen Hauptmasse eingebettet noch zahlreiche meist kleine eckige längliche Splitterchen eines weißen, auf der Spaltflächen deutlich spiegelnden, hier und da undeutlich parallel gestreiften Minerals und mehr rundlich eckige, unregelmäßig rissige, selten parallelstreifende Körnchen von gelblichem oder bräunlichem Farbenton und von glasartigem Glanze unterscheiden. Dazu gesellen sich metallisch glänzende, relativ kleine traubig eckige Klümpchen von Meteoreisen, ferner selten solche von messinggelbem Schwefeleisen und von nicht metallisch glänzenden tiefschwarzen Chromeisenstäbchen. An abgeriebenen Stellen des Steins stehen die härteren Körnchen hervor und lassen den Charakter den Chondriten deutlicher wahrnehmen, als auf dem Querbruche, auf dem man nur bei größerer Aufmerksamkeit die kugeligen Einlagerungen beobachtet. Die feinsten Staubteilchen, welche als das durch eine fortschreitende Zerkleinerung der größeren Splitter entstandene verbindende Material betrachtet werden müssen, sind teils wasserhell, teils opak, durchscheinend, und erweisen sich bis ins Kleinste i. p. L. durch wenn auch matte bunte Farben als doppelt brechende kristallinische Bruchstücke. Von einer glasartigen Zwischenmasse ist nicht eine Spur zu entdecken.
 
-Nach dem Behandeln des fein zerdrückten (nicht zerriebenen) Materials mit Salpetersalzsäure und Kalilösung sind — abgesehen von den metallischen Gemengteilen — die gelblichen Splitterchen (Olivin) verschwunden und der Rückstand besteht nur aus weissen und bräunlichen Stücken, die unter dem Mikroscop sich leicht unterscheiden lassen. Die bräunlichen Fragmente sind stark rissig, selten mit Spuren von dunklen Parallelstreifchen versehen, durchsichtig und i. p. L. lebhaft buntfleckig gefärbt. Es sind zweifelsohne Teilchen eines Minerals aus der Augitgruppe. Die weissen Splitterchen dagegen sind vielfach nur durchscheinend, teilweise durch die Säuren angegriffen und zeigen i. p. L. nur matte fleckige Farbentöne, welche hier und da an eine streifige Anordnung erinnern. Dass diese Splitterchen als Feldspath-artige Gemengteile gedeutet werden müssen, beweist auch die chemische Analyse des Restanteils nach der Einwirkung der Säuren. Kleinste schwarze Teilchen sind als Chromeisen anzusprechen. Es besteht demnach der Stein aus Olivin, einem Feldspath-artigen, augitischen Mineral, aus Meteor-, Schwefel- und Chromeisen.
+Nach dem Behandeln des fein zerdrückten (nicht zerriebenen) Materials mit Salpetersalzsäure und Kalilösung sind — abgesehen von den metallischen Gemengteilen — die gelblichen Splitterchen (Olivin) verschwunden und der Rückstand besteht nur aus weißen und bräunlichen Stücken, die unter dem Mikroskop sich leicht unterscheiden lassen. Die bräunlichen Fragmente sind stark rissig, selten mit Spuren von dunklen Parallelstreifchen versehen, durchsichtig und i. p. L. lebhaft buntfleckig gefärbt. Es sind zweifelsohne Teilchen eines Minerals aus der Augitgruppe. Die weißen Splitterchen dagegen sind vielfach nur durchscheinend, teilweise durch die Säuren angegriffen und zeigen i. p. L. nur matte fleckige Farbentöne, welche hier und da an eine streifige Anordnung erinnern. Dass diese Splitterchen als Feldspat-artige Gemengteile gedeutet werden müssen, beweist auch die chemische Analyse des Restanteils nach der Einwirkung der Säuren. Kleinste schwarze Teilchen sind als Chromeisen anzusprechen. Es besteht demnach der Stein aus Olivin, einem Feldspat-artigen, augitischen Mineral, aus Meteor-, Schwefel- und Chromeisen.
 
 Damit stimmt nun auch im Allgemeinen die chemische Analyse, welche von Hrn. Assistent Ad. Schwager unter gleichzeitig controllirenden eigenen Untersuchungen durchgeführt wurde. Die Bestimmung des Meteoreisens und Schwefeleisens geschah durch eigene Versuche*. Die Analysen ergaben:
 
@@ -103,7 +103,7 @@ FeO 37,30
 CaO 1,70  
 MgO 33,20  
 
-worin, wenn die Thonerde und Kalkerde als wahrscheinlich zu einem zersetzten Feldspath gerechnet und ein Teil des Eisenoxyduls als noch von Meteoreisen abstammend in Abzug gebracht wird, der durch Säuren zersetzte Bestandteil nicht anders, als zu Olivin gehörig sich auslegen lässt. Dass ein Teil des Eisens oxydirt ist und dadurch der Gehalt an Basen etwas gesteigert erscheint, darauf weisen schon die Rostflecken hin, welche sich manchmal selbst in der Masse ziemlich verbreitet zeigen.
+worin, wenn die Thonerde und Kalkerde als wahrscheinlich zu einem zersetzten Feldspat gerechnet und ein Teil des Eisenoxyduls als noch von Meteoreisen abstammend in Abzug gebracht wird, der durch Säuren zersetzte Bestandteil nicht anders, als zu Olivin gehörig sich auslegen lässt. Dass ein Teil des Eisens oxydirt ist und dadurch der Gehalt an Basen etwas gesteigert erscheint, darauf weisen schon die Rostflecken hin, welche sich manchmal selbst in der Masse ziemlich verbreitet zeigen.
 
 Was das oder die Silikate des Restbestandteils angeht, so giebt der verhältuissm&ssig hohe Kieselsäure- und Thonerdegehalt, neben den Alkalien wohl der Vermutang Raum, dass neben einem Augit-Mineral auch noch ein feldspathtiges vorhanden sei. Gleichwohl aber bleibt auch bei dieser Annahme noch ein starker Ueberschuss an Eieselsäure, von dem man wohl nicht voraussetzen darf, dass er in Form eines ausgeschiedenen Quarzminerals auftrete, weil bei Untersuchung des Dünnschliffs im reflectirten Lichte keine Spur einer Beimengung von durch den starken Glanz sonst erkennbarem Quarze sich bemerken lässt. Dieses Verhalten ist vorläufig noch unaufgeklärt.
 
@@ -182,7 +182,7 @@ Kali | 0,40 | 0,68 | 0,56
 Natron | 1,04 | 1,31 | 1,62  
  | 99,15 | 99,81 | 100,70  
 
-Der Gehalt der durch Salzsäure zersetzbaren Gemengteile an Alkalien weist ausser Olivin noch auf einen Feldspath hin. Wir haben aber darin:
+Der Gehalt der durch Salzsäure zersetzbaren Gemengteile an Alkalien weist ausser Olivin noch auf einen Feldspat hin. Wir haben aber darin:
 
 SiO₂ 34,45 mit 18,37 O  
 Al₂O₃ 0,86 mit 0,40  
@@ -214,8 +214,8 @@ Schwefeleisen 3,82
 Chromeisen 0,40  
 Olivin 31,00  
 Mineral der Augitgruppe 31,90  
-Andesin-artiger Feldspath 8,46  
-Feldspathartiges Mineral 1,54  
+Andesin-artiger Feldspat 8,46  
+Feldspatartiges Mineral 1,54  
 
 Das häufige Vorkommen und die relative Grösse der Chondren luden zu einer besonderen Analyse dieser Kügelchen ein. Um sicher zu sein, mit einem von anhaftenden kleinsten Mineralsplitterchen freien Material za verarbeiten, wurden die Chondren so lange auf einer mattgeschliffenen Glasplatte hin- und hergerieben, bis ihre Oberfläche völlig glatt und glänzend geworden war. Leider war die so mir zur Verfügung stehende Menge eine nur sehr geringe (0,12 Gr.) und es kann daher an die Analyse der Anspruch grösser Genauigkeit nicht gemacht werden. Durch Vorversuche war bereits festgestellt worden, dass auch die Substanz der Chondren sich teilt in eine von Salzsäure zersetzbare und in eine unzersetzbare Masse. Die erstere enthält noch Schwefeleisen, welches, wie die Untersuchung an Dünnschliffen lehrt, in kleinen Körnchen fest mit den Kügelchen verwachsen und in dieselbe gleichsam eingesenkt vorkommt.
 
@@ -281,7 +281,7 @@ Nach meinen Beobachtungen besitzt der Stein eine braunschwarze glasglänzende Ri
 
 1) einem gelblich grünen bis hellgrünen, etwas parallelrissigen, in rundlich und unregelmässigen Körnchen (wie in Krystallform) vorkommenden, ziemlich grossen, 1 — 1 1/2 mm. im Durchmesser breiten, nur sporadisch erscheinenden Gemengteil, der durch Säuren leicht zersetzt wird and als Olivin gelten muss.
 
-2) aus einem weissen, oft glasartig durchsichtigen oder staubig trüben, nur durchscheinenden, stark rissigen, selten parallelstreifigen, zuweilen mit deutlichen Spaltflächen versehenen Mineral, das i. p. L. lebhaft ein- oder fleckig vielfarbig erscheint und von Säuren gleichfalls zersetzt wird, einem Feldspath entsprechend,
+2) aus einem weissen, oft glasartig durchsichtigen oder staubig trüben, nur durchscheinenden, stark rissigen, selten parallelstreifigen, zuweilen mit deutlichen Spaltflächen versehenen Mineral, das i. p. L. lebhaft ein- oder fleckig vielfarbig erscheint und von Säuren gleichfalls zersetzt wird, einem Feldspat entsprechend,
 
 3) aus einem weingelben bis graugrünlichen, oder blass rothlich braunem, glasartig mattglänzendem Mineral, 1,5 bis 2 mm. gross, i. p. L. lebhaft gefärbt, aber nicht dichroitisch, etwas längsfaserig (aber undeutlich, gestreift) und mit zahlreichen kleinen Bläschen erfüllt. Dieser Bestandte il wird von Säuren nicht zersetzt und gehört der Augitgruppe an.
 
@@ -313,7 +313,7 @@ Schwefel | 0,374 | 1,78 | -
 86% Anorthit mit grossem Alkaligehalte  
 4% Schwefeleisen und Meteoreisen  
 
-In abgerundeten Zahlen bestände der Feldspath A und der Olivin B aus:
+In abgerundeten Zahlen bestände der Feldspat A und der Olivin B aus:
 
  | A | B  
 Kieselerde | 42 | 37,25  
@@ -323,7 +323,7 @@ Kalkerde | 18 | -
 Bittererde | - | 33,00  
 Alkalien | 6 | -  
 
-Was den Rest des dnrch Säuren nicht zersetzbaren Anteils zu 78,67% anbelangt, so muss man hierin noch einen kleinen Anteil Feldspath neben Chromeisen und Augit annehmen, etwa:
+Was den Rest des dnrch Säuren nicht zersetzbaren Anteils zu 78,67% anbelangt, so muss man hierin noch einen kleinen Anteil Feldspat neben Chromeisen und Augit annehmen, etwa:
 
 2,5% Chromeisen  
 13,5% feldspathartige Substanz (A)  
@@ -353,7 +353,7 @@ Es wurde bisher der Stein von Massing dem von Luotolaks an die Seite gestellt un
 
 Ich glaube, dass er mehr Analogien mit der Gruppe der Eukrite besitzt, da der Olivin sehr spärlich vorhanden ist.
 
-Wir wollen nun zunächst sehen, wie mit dieser Auffassung die optische Untersuchung der Dünnschliffe passt, wie das Bild [Figur III.](https://cdn.solaranamnesis.com/Gumbel/Bayern/Fig-3.png) einen solchen darstellt. Man bemerkt zunächst grosse, unregelmässig eckige — nicht wie bei den typischen Chondriten abgerundete Körnchen und eine ziemlich gleichmässige, feine Hauptmasse mit einzelnen im auffallenden Lichte metallisch glänzenden, stahlgrauen und messinggelben Putzen. Sehen wir zunächst ab von den grossen, unregelmässigen, gleichsam abnormen Beimengungen, so treten uns in der Grundmasse vor Allem grössere Gruppen eines grünlich gelben, dann eines schwach weingelben, eines blassröthlich braunen und weissen Minerals entgegen, welche wir als die Hauptgemengteile anzusehen berechtigt sind. Die wenigen grünlich gelben Teilchen (a) sind unregelmässig rissig, glänzen i. p L. mit den lebhaf testen Aggregatfarben und werden durch Säuren zersetzt — Olivin. Nach dem ersten Anschein möchte man auch die weit zahlreicheren Putzen des schwach weingelben, jedoch mehr parallel rissigen Minerals (b) für Olivin halten. Allein in den mit kochenden Säuren anhaltend behandelten Pulvern erscheinen sie unzersetzt und können mithin nicht zum Olivin gehören. Auch bemerkt man in den Dünnschliffen eine Art Parallelstreifung, wie sie dem Olivin nicht zukommt, aber an Enstatit erinnert. Daneben liegen zahlreiche, oft nur durchscheinende, doch auch gut durchsichtige, an den Rändern röthlich braun gefärbte, nicht dichroitische Teilchen (c), die allem Verhalten nach Augit zu sein scheinen. Ich glaube demnach annehmen zu sollen, dass zwei Mineralien der Augitgruppe hier vertreten sind, nämlich Enstatit und Augit. Die glashellen oder staubartig weissen Teilchen (d) sind teils durch Säuren zersetzbar, teils erscheinen sie aber auch noch in dem durch Säuren behandelten Pulver mehr oder weniger unberührt. Diess deutet gleichfalls auf die Anwesenheit von zweierlei Feldspathen, von welchen der eine wohl in dem Dünnschliffe Spuren von Parallelstreifen i. p. L. erkennen lässt. Dass — entgegen der Angabe Schafhäutl's — wirklich Meteoreisen, wenn auch spärlich beigemengt ist (e), habe ich in dem Dünnschliffe, in dem zwei deutliche Körnchen Vorkommen, dadurch festgestellt, dass ich auf die stahlgrau glänzenden Flächen Kupfervitriollösung brachte, wobei sich sofort die Ausscheidung metallischen Kupfers beobachten lässt.
+Wir wollen nun zunächst sehen, wie mit dieser Auffassung die optische Untersuchung der Dünnschliffe passt, wie das Bild [Figur III.](https://cdn.solaranamnesis.com/Gumbel/Bayern/Fig-3.png) einen solchen darstellt. Man bemerkt zunächst grosse, unregelmässig eckige — nicht wie bei den typischen Chondriten abgerundete Körnchen und eine ziemlich gleichmässige, feine Hauptmasse mit einzelnen im auffallenden Lichte metallisch glänzenden, stahlgrauen und messinggelben Putzen. Sehen wir zunächst ab von den grossen, unregelmässigen, gleichsam abnormen Beimengungen, so treten uns in der Grundmasse vor Allem grössere Gruppen eines grünlich gelben, dann eines schwach weingelben, eines blassröthlich braunen und weissen Minerals entgegen, welche wir als die Hauptgemengteile anzusehen berechtigt sind. Die wenigen grünlich gelben Teilchen (a) sind unregelmässig rissig, glänzen i. p L. mit den lebhaf testen Aggregatfarben und werden durch Säuren zersetzt — Olivin. Nach dem ersten Anschein möchte man auch die weit zahlreicheren Putzen des schwach weingelben, jedoch mehr parallel rissigen Minerals (b) für Olivin halten. Allein in den mit kochenden Säuren anhaltend behandelten Pulvern erscheinen sie unzersetzt und können mithin nicht zum Olivin gehören. Auch bemerkt man in den Dünnschliffen eine Art Parallelstreifung, wie sie dem Olivin nicht zukommt, aber an Enstatit erinnert. Daneben liegen zahlreiche, oft nur durchscheinende, doch auch gut durchsichtige, an den Rändern röthlich braun gefärbte, nicht dichroitische Teilchen (c), die allem Verhalten nach Augit zu sein scheinen. Ich glaube demnach annehmen zu sollen, dass zwei Mineralien der Augitgruppe hier vertreten sind, nämlich Enstatit und Augit. Die glashellen oder staubartig weissen Teilchen (d) sind teils durch Säuren zersetzbar, teils erscheinen sie aber auch noch in dem durch Säuren behandelten Pulver mehr oder weniger unberührt. Diess deutet gleichfalls auf die Anwesenheit von zweierlei Feldspaten, von welchen der eine wohl in dem Dünnschliffe Spuren von Parallelstreifen i. p. L. erkennen lässt. Dass — entgegen der Angabe Schafhäutl's — wirklich Meteoreisen, wenn auch spärlich beigemengt ist (e), habe ich in dem Dünnschliffe, in dem zwei deutliche Körnchen Vorkommen, dadurch festgestellt, dass ich auf die stahlgrau glänzenden Flächen Kupfervitriollösung brachte, wobei sich sofort die Ausscheidung metallischen Kupfers beobachten lässt.
 
 Schwieriger zu erklären ist die Natur der grossen Einsprenglinge, zu denen im Dünnschliff die Parthien x und y gehören. Der grössere x ist parallelstreifig und querrissig, dunkelolivengrün bis röthlich braun, wenig durchsichtig, i. p. L. farbig. Er möchte als ein etwas veränderten Augitfragment zu betrachten sein. Das zweite Fragment y ist gelblich, sehr feinkörnig, fast dicht, schwach duschscheinend nnd mit feinsten schwarzen Staubteilchen durchsprengt. Es gleicht am ehesten dem Bruchstücke eines Chondritkörnchens. Dergleichen Einschlüsse mögen noch von sehr verschiedener Beschaffenheit in der Grundmasse eingebettet sein. Obwohl eine deutliche ChondritenStruktur nicht vorhanden ist, verhalten sich doch diese Einschlüsse und die als Grundmasse auftretenden Mineralien so ähnlich den Bestandteilen der Chondrite, dass auch dem Meteorstein von Massing eine ganz analoge Entstehung, wie die der letzteren, zugesprochen werden muss.
 
@@ -404,7 +404,7 @@ Aus diesen Angaben lässt sich berechnen, dass der in Salzsäure zersetzbare Ant
 Schwefeleisen 9,64  
 Meteoreisen 26,25  
 Olivin 34,78  
-Feldspath-Mineral 29,33  
+Feldspat-Mineral 29,33  
 
 Für den Olivinbestandteil ist in Rechnung zu setzen:
 
@@ -415,7 +415,7 @@ MgO | 11,55 | 33
 
 entsprechend der Zusammensetzung des Hyalosiderits.
 
-Wir finden dann weiter für den etwas zersetzten Feldspathartigen Bestandteil:
+Wir finden dann weiter für den etwas zersetzten Feldspatartigen Bestandteil:
 
 SiO₂ | 11,65 | 39,71 | Sauerstoff 21,3  
 Al₂O₃ | 9,45 | 32,21 | Sauerstoff 15,0  
@@ -424,7 +424,7 @@ Ka₂O | 1,33 | 4,54 | Sauerstoff 0,77
 Na₂O | 3,18 | 10,84 | Sauerstoff 2,8  
  | 29,33 | 100,00  
 
-Das Sauerstoffverhältniss der Kieselsäure, der Thonerde und der alkalischen Basen 3:2:1 steht nicht in Uebereinstimmung mit jenen der eigentlichen Feldspathe, sondern entspricht dem der Skapolithgruppe (Mejonit). Die Anwesenheit eines derartigen Minerals würde aueh zu dem optischen Verhalten besser passen, als die Annahme eines Anorthits oder Plagioklases überhaupt, weil i. p. L. die weissen oder glashellen Teilchen keine parallelen Farbenstreifchen erkennen lassen.
+Das Sauerstoffverhältniss der Kieselsäure, der Thonerde und der alkalischen Basen 3:2:1 steht nicht in Uebereinstimmung mit jenen der eigentlichen Feldspate, sondern entspricht dem der Skapolithgruppe (Mejonit). Die Anwesenheit eines derartigen Minerals würde aueh zu dem optischen Verhalten besser passen, als die Annahme eines Anorthits oder Plagioklases überhaupt, weil i. p. L. die weissen oder glashellen Teilchen keine parallelen Farbenstreifchen erkennen lassen.
 
 In dem von Salzsäure nicht zersetzten Reste ist der Gehalt an Nickel und Phosphor bemerkenswerth. Wir müssen diess, da nicht anzunehmen ist, dass dieser Gehalt von einem Rest zufällig unzersetzt gebliebenen Meteoreisens herrühre, als ein Zeichen der Beimengung von Schreibersit ansehen. Das dazu gehörige Eisen erscheint natürlich in der Analyse unter dem Eisenoxydul. Daraus mag sich auch der Ueberschuss der Summe über 100 z. Th. erklären. Obwohl ausserdem noch sicher Thonerde-haltiges Chromeisen vorhanden ist, kommt doch eine so bedeutende Menge von Thonerde neben einem beträchtlichen Quantum von Natron zum Vorschein, dass in dem Rest weiter auch ein feldspathiger Gemengteil vorausgesetzt werden muss, während dessen Hauptbestandteil offenbar ein augitisches Mineral ausmacht. Bringt man für letzteres die Gemengteile eines Bisilikats in Abzug, so bleibt ein Rest, in dem das Sauerstoffverhältniss zwischen Thonerde nnd der übrig bleibenden Kieselsäure zwar nahezu wie 3:9 verhält, es fehlt aber dann an der erforderlichen Menge der Kalkerde und Alkalien. Es lässt sich daher dieser von Säuren nicht zerlegte Anteil nur ungefähr berechnet als bestehend aus:
 
@@ -560,7 +560,7 @@ Kalkerde | 4,0 | 2,0 + | 2,0
 Kali | 2,5 | - | 2,5  
  | 100,00 | 57,8 | 42,2  
 
-Wir können dieses I. zerlegen in A und B und erhalten dadurch ein Mineral der Augitgruppe und ein Mineral der Feldspathgruppe, das erste bronzitartig (Sauerstoffverhältniss wie 16:8,1), das zweite mit einem Sauerstoffverhältniss nahezu wie 6:3:1 (genauer 16,9:3:1) oder labradorartig, zu dem der Thonerde- und Alkali-haltige Anteil des durch Salzsäure zerlegten Teiles zu rechnen wäre.
+Wir können dieses I. zerlegen in A und B und erhalten dadurch ein Mineral der Augitgruppe und ein Mineral der Feldspatgruppe, das erste bronzitartig (Sauerstoffverhältniss wie 16:8,1), das zweite mit einem Sauerstoffverhältniss nahezu wie 6:3:1 (genauer 16,9:3:1) oder labradorartig, zu dem der Thonerde- und Alkali-haltige Anteil des durch Salzsäure zerlegten Teiles zu rechnen wäre.
 
 Man kann mithin annehmen, dass im Durchschnitt der Meteorstein von Erähenberg in seiner Hauptmasse besteht aus:
 
@@ -569,7 +569,7 @@ Schwefeleisen 8,25
 Chromeisen 1,21  
 Olivin 41,65  
 Augitmineral (? Bronizt) 23,48  
-Feldspathmineral (? Labrador) 19,14  
+Feldspatmineral (? Labrador) 19,14  
 
 Was nun die in grösseren Brocken im Gestein eingebetteten härteren, dichteren und dunkleren Teile anbelangt, welche bereits früher erwähnt wurden, so bestehen diese, möglichst von den anhaftenden Splittern der Hauptmassen befreit, nach der von Ass. A. Schwager vorgenommenen Analyse aus:
 
@@ -587,7 +587,7 @@ Kali | 1,48 | 1,73 | 1,04
 Natron | 1,81 | 1,13 | 3,05  
  | 99,25 | 99,48 | 100,31  
 
-Zunächst ist bemerkenswerth, dass wir es gleichfalls mit einer aus verschiedenen Mineralien zusammengesetzten Masse zu tun haben, welche sich in einen durch Salzsäure zerlegbaren und nicht zerlegbaren Anteil trennen lässt und dass im Ganzen eine grosse Aehnlichkeit in ihrer Zusammensetzung im Vergleiche mit jener der Hauptmasse nicht zu verkennen ist. Abweichend erweist sich dagegen besonders der hohe Gehalt an Eisenoxydul und Kalkerde und der geringe an Bittererde, wenn wir die Masse als Ganzes betrachten, während in dem Salzsäureauszug neben denselben Verhältnissen noch die relativ grosse Menge an Kieselsäure in die Augen fällt. Auch in dem Restanteil ist es die Kalkerde, welche in ungewöhnlicher Menge auftritt. Es lässt sich daraus kaum mehr, als^die Vermutung schöpfen, dass neben Hyalosiderit ein eisen- und kalkreiches Mineral der Augitgruppe vielleicht Diopsid mit Anorthit-artigem Feldspath als Hauptgemengteile anzunehmen sind.
+Zunächst ist bemerkenswerth, dass wir es gleichfalls mit einer aus verschiedenen Mineralien zusammengesetzten Masse zu tun haben, welche sich in einen durch Salzsäure zerlegbaren und nicht zerlegbaren Anteil trennen lässt und dass im Ganzen eine grosse Aehnlichkeit in ihrer Zusammensetzung im Vergleiche mit jener der Hauptmasse nicht zu verkennen ist. Abweichend erweist sich dagegen besonders der hohe Gehalt an Eisenoxydul und Kalkerde und der geringe an Bittererde, wenn wir die Masse als Ganzes betrachten, während in dem Salzsäureauszug neben denselben Verhältnissen noch die relativ grosse Menge an Kieselsäure in die Augen fällt. Auch in dem Restanteil ist es die Kalkerde, welche in ungewöhnlicher Menge auftritt. Es lässt sich daraus kaum mehr, als^die Vermutung schöpfen, dass neben Hyalosiderit ein eisen- und kalkreiches Mineral der Augitgruppe vielleicht Diopsid mit Anorthit-artigem Feldspat als Hauptgemengteile anzunehmen sind.
 
 Die weitere Untersuchung des Steins hat einige interessante Eigentümlichkeiten desselben kennen gelehrt. Zunächst lenken (die zahlreichen, denselben durchziehenden schwarzen Streifchen und Aederchen, welche schon vom Rath genau beschrieben hat, die Aufmerksamkeit auf sich. Sie bestehen, soweit ich sehen konnte, aus einer der äusseren Schmelzrinde gleichen, auch Meteoreisen enthaltenden Substanz und scheinen mir Sprünge und Zerklüftungen darzustellen, auf welchen, wie an der Aussenfläche, eine Schmelzung stattfand. An einzelnen derselben bemerkte ich gegen Aussen deutlich eine blasige und schaumige Beschaffenheit. Ganz ausgezeichnet sind glatte und gestreifte Ablösungsflächen, die genau Rutschflächen gleichsehen, ohne dass sich jedoch eine Verschiebung einzelner Teile gegen einander erkennen lässt. Sie müssen wohl schon vorhanden gewesen sein, ehe der Stein in die Atmosphäre unserer Erde gelangt war und hier nur stellenweis eine Schmelzrinde erhalten haben.
 

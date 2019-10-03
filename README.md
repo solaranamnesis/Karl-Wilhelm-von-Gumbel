@@ -1,5 +1,7 @@
 # Dr. Karl Wilhelm von Gümbel
-Dr. Karl (Carl) Wilhelm von Gümbel (1823 - 1898) Meteorite Lectures
+Dr. Karl (Carl) Wilhelm von Gümbel (1823 - 1898)
+
+Meteorite Essays
 
 Attempt at translations from the original German to English, I welcome all pull requests of submitted translations and/or edits.
 

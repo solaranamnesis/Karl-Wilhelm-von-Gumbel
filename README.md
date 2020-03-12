@@ -10,11 +10,11 @@ Attempt at translations from the original German to English, I welcome all pull 
 English - Plain Text  
 English - PDF  
 [German - Plain Text](Bayern-Steinmeteoriten/full-text-german.md)   
-[German - PDF](https://solaranamnesis.b-cdn.net/Gumbel/Bayern/gumbel_bayern_1878_german_PDFlaTex.pdf)  
+[German - PDF](https://cdn.solaranamnesis.com/Gumbel/Bayern/gumbel_bayern_1878_german_PDFlaTex.pdf)  
 
 ## Iowa Steinmeteoriten
 
 English - Plain Text  
 English - PDF  
 [German - Plain Text](Iowa-Steinmeteoriten/full-text-german.md)  
-German - PDF  
+[German - PDF](https://cdn.solaranamnesis.com/Gumbel/Iowa/gumbel_iowa_1875_german-PDFlaTex.pdf)  

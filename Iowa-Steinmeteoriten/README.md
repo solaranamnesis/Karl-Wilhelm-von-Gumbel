@@ -5,4 +5,4 @@ Attempt at translations from the original German to English, I welcome all pull 
 English - Plain Text  
 English - PDF  
 [German - Plain Text](full-text-german.md)  
-[German - PDF]()  
+[German - PDF](https://cdn.solaranamnesis.com/Gumbel/Iowa/gumbel_iowa_1875_german-PDFlaTex.pdf)  

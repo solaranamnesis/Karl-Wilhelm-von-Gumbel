@@ -22,6 +22,6 @@ The Iowa [Homestead] meteorite belongs to that most commonly occurring class of 
 
 *) Comptes rendus d. s. de l'Acad. d. sc. 1875. p. 1175.
 
-The considerably sharp-edged, acute-angled, unevenly tetrahedral stone is coated all around with a black fusion crust, and in the inside light grayish white, furnished with abundant small black nodules and granules of meteoritic and sulphuric iron and seemingly scattered small rust stains.
+The considerably sharp-edged, acute-angled, unevenly tetrahedral stone is coated all around with a black fusion crust, and in the inside light grayish white, furnished with abundant small black nodules and granules of meteoritic and sulphuric iron and seemingly scattered small rust stains. The stone is rather hard and cannot be crushed with the hand.
 
 ...

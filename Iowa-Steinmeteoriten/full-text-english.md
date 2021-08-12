@@ -32,4 +32,6 @@ The exterior, fairly sharp-edged and angular form of the stones in these falls, 
 
 ## Crust.
 
+The available stone meteorite from Iowa is externally, apart from a minor man-made break, coated all over with a black, matte luster, slightly rugose crust on average 0.05 m thick.
+
 ...

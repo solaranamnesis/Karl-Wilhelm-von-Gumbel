@@ -28,7 +28,7 @@ The exterior, fairly sharp-edged and angular form of the stones in these falls, 
 
 *) Comptes rendus d. s. de l'Acad. d. sc. 1875. 1175.
 
-*) Cours de géologie comparée. Compare with: Tschermak, Bildung der Meteoriten, Sitzungsberichte der Akademie der Wissenschaften in Wien. Bd. LXXI, 2. Abth. 1875.
+*) Cours de géologie comparée. Compare with: Tschermak, The Formation of the Meteorites, Minutes of the Academy of Sciences in Vienna. Volume LXXI, Section 2. 1875.
 
 ## Crust.
 

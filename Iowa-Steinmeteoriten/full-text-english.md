@@ -34,4 +34,6 @@ The exterior, fairly sharp-edged and angular form of the stones in these falls, 
 
 The available stone meteorite from Iowa is externally, apart from a minor man-made break, coated all over with a black, matte lustered, slightly rugose crust on average 0.05 m thick. This glass-like coating is coarsely cracked, fissured, and quite easily detaches from the main mass, whereby pieces of the latter remain adhered to it. In the interior of the stones one does not detect the presence of any veins or smooth surfaces similar to the crust, which for example so often pervade the stones of Pultusk.
 
+This crust, based on closer examination, is comprised of a strongly transparent, glass-like mass, which easily refracts the light and in numerous places enclose vesicles and porosities, but not in so singluar a manner, as I have observed in the crust substance from the stones of Pultusk.
+
 ...

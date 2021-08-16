@@ -36,6 +36,6 @@ The available stone meteorite from Iowa is externally, apart from a minor man-ma
 
 This crust, based on closer examination, is comprised of a highly transparent, glass-like mass, which easily refracts the light and in numerous places encloses vesicles and porosities, but not in so singluar a manner, as I have observed in the crust substance from the stones of Pultusk. The crust is not completely spread out in a uniform way; at distinct locations one discerns, with a gentle rub, protruding meteoritic iron particles with a metallic gleam, on shifting it is very thin and tinted a little brighter, or else even thicker and at the same time usually shining even stronger. As thin sections indicate, finely crusted places match up with olivine grains intruding into the crust region, while a thicker fusion crust is formed where sulphuric iron occurs.
 
-It is very challenging, due to the deep coloration, to obtain transparent crust in thin sections.
+It is very challenging, due to the deep coloration, to obtain transparent crust in thin sections. It works out more easily to crush smaller chippings between two glass plates.
 
 ...

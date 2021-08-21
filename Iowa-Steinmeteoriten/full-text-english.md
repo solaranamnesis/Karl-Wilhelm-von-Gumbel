@@ -42,4 +42,6 @@ It is very challenging, due to the deep coloration, to obtain transparent crust 
 
 Having said this, I do not think that the fine small veins mentioned above were a molten mass that infiltrated into the interior of the stones from the crust, but that the stone was broken or fissured in such places, and that these breaks were accessible to the atmosphere which performed the same melting process through friction, as on the surface itself.
 
+## Stone Mass.
+
 ...

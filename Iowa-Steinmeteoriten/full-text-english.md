@@ -50,7 +50,7 @@ The image included in the lithograph table shows the sort of distribution of the
 
 Explanation of the Annotations of the Lithograph  
 _o_ Olivine,  
-_a_ Augite'ish piece,  
+_a_ Augite piece,  
 _f_ Meteoritic iron,  
 _s_ Sulphuric iron,  
 _ch_ Chrome iron,  

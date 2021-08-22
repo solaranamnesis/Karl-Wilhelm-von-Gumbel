@@ -44,6 +44,6 @@ Having said this, I do not think that the fine small veins mentioned above were 
 
 ## Stone Mass.
 
-The main mass of the stone, which is rather hard and not friable with the fingers, is made of an aggreate of debris particles, which are agglutinated together without any intermediate substance, as neither a glass-like nor even a distinctive binding agent between the distinct granules can be observed. 
+The main mass of the stone, which is rather hard and not friable with the fingers, is made of an aggreate of debris particles, which are agglutinated together without any intermediate substance, as neither a glass-like nor even a distinctive binding agent between the distinct granules can be observed. In great number in the main mass are found tiny little slivers of minerals with totally irregular contours, such as those resulting from the destruction of crystals or crystalline masses.
 
 ...

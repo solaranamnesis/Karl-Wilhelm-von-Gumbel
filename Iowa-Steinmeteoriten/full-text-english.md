@@ -48,4 +48,21 @@ The main mass of the stone, which is rather hard and not friable with the finger
 
 The image included in the lithograph table shows the sort of distribution of these constituent minerals in a thin section in 25 times magnification.
 
+Explanation of the Annotations of the Lithograph
+_o_ Olivine,
+_a_ Augite'ish piece,
+_f_ Meteoritic iron,
+_s_ Sulphuric iron,
+_ch_ Chrome iron,
+_k_ Piece with well-behaved crystal contours,
+_io_ Olivine granule in meteoritic iron,
+_g_ Reddish garnet-like inclusion,
+_c_ Spheroidal chondrules, namely:
+_cc_ with concentric structure,
+_sc_ with fibrous structure,
+_fc_ with radial structure,
+_kc_ with granular structure,
+_oc_ consisting of olivine,
+_dc_ opaque finely granulated spherules.
+
 ...

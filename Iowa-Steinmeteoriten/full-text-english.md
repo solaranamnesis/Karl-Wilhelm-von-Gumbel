@@ -65,6 +65,6 @@ _kc_ with granular structure,
 _oc_ consisting of olivine,  
 _dc_ opaque finely granulated globules.
 
-A peculiar occurrence with practically all the constituent minerals, excluding the metallic ones, is demonstrated by the existence of an astonishing quantity of thin and very fine cracks that permeate individual pieces. 
+A peculiar occurrence with practically all the constituent minerals, excluding the metallic ones, is demonstrated by the existence of an astonishing quantity of thin and very fine cracks that permeate individual pieces. With some constituent minerals, a certain regularity is seen in the direction of these unending fissures due to a parallel progression of the cracks, which probably are related to the cleavage direction of the relevant minerals.
 
 ...

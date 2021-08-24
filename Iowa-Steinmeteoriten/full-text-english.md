@@ -65,4 +65,6 @@ _kc_ with granular structure,
 _oc_ consisting of olivine,  
 _dc_ opaque finely granulated spherules.
 
+A peculiar occurrence with practically all the constituent minerals, excluding the metallic ones, is demonstrated by the existence of an astonishing quantity of thin and very fine cracks that permeate individual pieces. 
+
 ...

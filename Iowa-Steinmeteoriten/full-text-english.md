@@ -69,4 +69,6 @@ A peculiar occurrence with practically all the constituent minerals, excluding t
 
 Due to this cracked condition of most of the constituent minerals, the comprehensive inner nature is often obscured, so that it is but rarely in individual larger particles that what seem to be common vesicles can be discerned — only so far as my observations suffice — devoid of fluid inclusions. Utterly fine, dust-like mixtures are also frequently present in the otherwise clear mineral particles, while actual microliths seem to be missing.
 
+As far as the mineralogical nature of the distinct constituent minerals is concerned, a great number of them cannot be associated with simple minerals, but rather represent stone fragments composed of a more or less regular intergrowth of different minerals.
+
 ...

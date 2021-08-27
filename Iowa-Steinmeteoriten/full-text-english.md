@@ -71,4 +71,6 @@ Due to this cracked condition of most of the constituent minerals, the comprehen
 
 As far as the mineralogical nature of the distinct constituent minerals is concerned, a great number of them cannot be associated with simple minerals, but rather represent stone fragments composed of a more or less regular intergrowth of different minerals.
 
+Olivine undoubtedly takes first place among the simple mineral parts.
+
 ...

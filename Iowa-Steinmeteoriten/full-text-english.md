@@ -8,7 +8,7 @@
 
 ### In Commission with G. Franz.
 
-### Mr. Karl Wilhelm von Gümbel Gives a Lecture:
+### Mr. Carl Wilhelm von Gümbel Gives a Lecture:
 
 #### "On the of Nature of the Stone Meteorites from the Fall of February 12, 1875 in Iowa County North America"
 

@@ -71,6 +71,6 @@ Due to this cracked condition of most of the constituent minerals, the comprehen
 
 As far as the mineralogical nature of the distinct constituent minerals is concerned, a great number of them cannot be associated with simple minerals, but rather represent stone fragments composed of a more or less regular intergrowth of different minerals.
 
-Olivine undoubtedly takes first place among the simple mineral parts. Not only in the exterior appearance, the color, the peculiar shine pointed out on lots of the larger granules, and the tiny crystal fragments of olivine, but also this stipulation finds confirmation in the decomposition of these particles by hydrochloric acid, in the browning through annealing, and in the motley play of colors with the application of poliarized light in thin sections.
+Olivine undoubtedly takes first place among the simple mineral parts. Not only in the exterior appearance, the color, the peculiar sheen pointed out on lots of the larger granules, and the tiny crystal fragments of olivine, but also this stipulation finds confirmation in the decomposition of these particles by hydrochloric acid, in the browning through annealing, and in the motley play of colors with the application of poliarized light in thin sections.
 
 ...

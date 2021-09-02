@@ -75,4 +75,6 @@ Olivine undoubtedly takes first place among the simple mineral parts. Not only i
 
 I was not able to detect feldspathic component parts with certainty, even though individual water-clear small needles exhibit the peculiar pale yellow and blue colors, so characteristic of feldspar, and even though I, with all certainty, observed them in great quantity in the meteorite of L'Aigle (fell on April 26, 1803), which incorporated numerous little feldspar needles in the stone debris. The chemical analysis also confirms that at any rate feldspathic components are only contributing to the composition in a most minor way.
 
+If one treats quite a lot of fine powder with hydrochloric acid in heat for a long time, a large part of the stone mass — of the olivine portion — separates into a slimier silicic acid without actually forming a gel.
+
 ...

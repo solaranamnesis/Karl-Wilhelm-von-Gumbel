@@ -16,9 +16,9 @@ There took place, according to information from John Lawrence Smith,* on Februar
 
 The Iowa [Homestead] meteorite belongs to that most commonly occurring class of stones, which one refers to by the name of chondrites, or according to [Gabriel Auguste] Daubrée, in the domain of the sporadosiderite and in the group of the oligosiderite, as Prof. Hinrichs had correctly noted* in his accompanying letter to the Paris Academy, which included a portion of all these meteorites, and corroborated by Daubrée himself.
 
-*) _Comptes rendus d. seance de l'Academie d. sc. à Paris_. T. LXXX. Nr. 23. 1875. p. 1451.
+*) _Comptes rendus d. seance de l'Academie d. sc. à Paris_. T. 80. Nr. 23. 1875. p. 1451.
 
-*) _The Americ. Journ. ob. sc. a arts. f. Dana a. Silliman_. Mai 1875. Vol. IX. Nr. 53. p. 407.
+*) _The Americ. Journ. ob. sc. a arts. f. Dana a. Silliman_. May 1875. Vol. 9. Nr. 53. p. 407.
 
 *) _Comptes rendus d. s. de l'Acad. d. sc_. 1875. p. 1175.
 
@@ -28,7 +28,7 @@ The exterior, fairly sharp-edged and angular form of the stones in these falls, 
 
 *) _Comptes rendus d. s. de l'Acad. d. sc_. 1875. p. 1175.
 
-*) _Cours de géologie comparée_. Compare with: Tschermak, _The Formation of the Meteorites, Minutes of the Academy of Sciences in Vienna_. Volume LXXI, Section 2. 1875.
+*) _Cours de géologie comparée_. Compare with: Tschermak, _The Formation of the Meteorites, Minutes of the Academy of Sciences in Vienna_. Volume 71, Section 2. 1875.
 
 ## Crust.
 

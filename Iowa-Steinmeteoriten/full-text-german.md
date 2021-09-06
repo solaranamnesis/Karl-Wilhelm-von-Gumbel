@@ -6,7 +6,7 @@
 
 ### Akademische Buchdruckerei von F. Straub.
 
-### 1875.
+### 4. Dezember 1875.
 
 #### In Kommission bei G. Franz.
 

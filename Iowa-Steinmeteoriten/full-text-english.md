@@ -4,7 +4,7 @@
 
 ### Munich.
 
-### 1875.
+### December 4, 1875.
 
 ### In Commission with G. Franz.
 

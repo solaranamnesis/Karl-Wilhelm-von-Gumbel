@@ -83,4 +83,8 @@ Nothing but a chemical analysis has the ability to provide information about the
 
 Concerning the the formation of these curious constituent components of the meteoritic stones, Daubrée* assumed that they had formed by a solidification during a vortical flight through gases, Tschermak* was in favor of a development as a result of a tumbling of already solid debris through a prolonged flow, such as is produced during a volcanic explosion, referring to similar such round globules in the trachytic tuffs of [Bad] Gleichenberg, etc. The latter hypothesis explains the peculiarities perceived in many of the globules, that their inner chamfered structure is devoid of any relation to the external spherical shape. Even for the globules with a clearly concentric structure, this mode of formation may be held, if one assumes that, as is quite likely, the concentric strips and shelled dissociations are merely secondary phenomena, as a result of mechanical and chemical variations, that are to be understood as incurred only after the tumbling of the rounded grain.
 
+*) Journ. d. savants. 1870. p. 38.
+
+*) Sitz. d. k. Ac. d. Wiss. Wien. Bd. LXXI. 2. Abth. 1875. Aprilheft S. 9 u. 10.
+
 ...

@@ -85,6 +85,8 @@ Concerning the the formation of these curious constituent components of the mete
 
 *) Journ. d. savants. 1870. p. 38.
 
-*) Sitz. d. k. Ac. d. Wiss. Wien. Bd. LXXI. 2. Abth. 1875. Aprilheft S. 9 u. 10.
+*) Sitz. d. k. Ac. d. Wiss. Vienna. Vol. 71. Section 2. 1875. April Issue. pp. 9-10.
+
+It shows up spread into tiny irregularly defined spots, sandwiched, so to speak, between the constituent fragments.
 
 ...

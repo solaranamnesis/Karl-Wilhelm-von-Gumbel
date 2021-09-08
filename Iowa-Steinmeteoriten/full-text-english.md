@@ -91,6 +91,6 @@ Sulphuric iron makes up a significant portion of the composition of the stone fr
 
 That the stone incorporates water requires no further evidence, as the not so rare rust stains — hyrdated iron oxide — reveal.
 
-Various types of gas have already been accounted for by Wriht* in this meteorite from Iowa.
+Various types of gas have already been accounted for by Wriht* in this meteorite from Iowa. The provisional experiments of Wriht yielded a gas content of which almost half was made of carbon dioxide and carbon monoxide (CO2 = 35; CO = 14), with the remaining being comprised primarily of hydrogen.
 
 ...

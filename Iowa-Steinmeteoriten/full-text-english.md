@@ -16,9 +16,9 @@ There took place, according to information from John Lawrence Smith,* on Februar
 
 The Iowa [Homestead] meteorite belongs to that most commonly occurring class of stones, which one refers to by the name of chondrites, or according to [Gabriel Auguste] Daubrée, in the domain of the sporadosiderite and in the group of the oligosiderite, as Prof. Hinrichs had correctly noted* in his accompanying letter to the Paris Academy, which included a portion of all these meteorites, and corroborated by Daubrée himself.
 
-*) _Comptes rendus d. seance de l'Academie d. sc. à Paris_. T. 80. Nr. 23. 1875. p. 1451.
+*) _Comptes rendus of the Academy of Sciences in Paris_. T. 80. Nr. 23. 1875. p. 1451.
 
-*) _The Americ. Journ. ob. sc. a arts. f. Dana a. Silliman_. May 1875. Vol. 9. Nr. 53. p. 407.
+*) _The American Journal of Science and Arts_. Dana and Silliman. May 1875. Vol. 9. Nr. 53. p. 407.
 
 *) _Comptes rendus d. s. de l'Acad. d. sc_. 1875. p. 1175.
 
@@ -26,7 +26,7 @@ The considerably sharp-edged, acute-angled, unevenly tetrahedral stone is coated
 
 The exterior, fairly sharp-edged and angular form of the stones in these falls, which is only slightly obscured by the thin, superficial fusion crust, undoubtedly indicates debris of a larger, fragmented stone mass, which was formed from the destruction of an already completely finished solid substance. That this dismemberment partly took place during the fall through the Earth's atmosphere is implied by Smith's* observation that stated that a number of the stones looked as if they were freshly broken and that melting had only started to appear on these fractured surfaces. Incidentally, however, one detects neither rounding, nor filamentous expanding or cord-like twisting, striped formations, such as a soft, malleable body would obtain while moving along a cosmic orbit, or in flight during a volcano-like eruption, as one is obliged to suppose, like the lapilli and volcanic bombs. Even the inner, grainy debris-like nature without traces of glass- or lava-like particles, which cannot be brought into direct agreement with a molten liquid fire mass, decidedly rejects the notion of an eruption product in the style of our volcanoes. The external form and internal nature of this kind of meteorite does not speak, from a petrographic standpoint, in favor of the conjecture that these meteoritic stones were ejected from the Moon as creations of huge volcano-like eruptions. Also, equally implausible is their origin out of the host of shooting stars, because the times of the meteorite falls, insofar as the observations suffice, do not coincide with the times at which the shooting stars appear to fall at their maximum. What's more, this conjecture barely explains the very striking homogeneity in the composition of the stone meteorites. Hence the point of view is gaining more feasibility, that they are fragments from a celestial body, which through a destruction, engendered as a consequence of collision or due to a kind of pulverization from interior sources, whereby the centrifugal force of the excess of weight exceeds the original ability of attraction and the debris managed to come into the vicinity of Earth's pull, forced them to fall. Whether they are members of asteroid bodies or, as Meunier desires, a second satellite of the Earth reserves to be decided on by astronomical considerations, and is far from the point.
 
-*) _Comptes rendus d. s. de l'Acad. d. sc_. 1875. p. 1175.
+*) _Comptes rendus of the Academy of Sciences_. 1875. p. 1175.
 
 *) _Cours de géologie comparée_. Compare with: Tschermak, _The Formation of the Meteorites, Meeting Reports of the Academy of Sciences in Vienna_. Volume 71, Section 2. 1875.
 

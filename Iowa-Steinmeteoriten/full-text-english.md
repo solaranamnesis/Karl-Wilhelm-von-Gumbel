@@ -91,4 +91,6 @@ Sulphuric iron makes up a significant portion of the composition of the stone fr
 
 That the stone incorporates water requires no further evidence, as the not so rare rust stains — hyrdated iron oxide — reveal.
 
+Various types of gas have already been accounted for by Wriht* in this meteorite from Iowa.
+
 ...

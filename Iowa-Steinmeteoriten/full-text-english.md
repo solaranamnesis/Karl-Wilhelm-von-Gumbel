@@ -87,6 +87,6 @@ Concerning the the formation of these curious constituent components of the mete
 
 *) Sitz. d. k. Ac. d. Wiss. Vienna. Vol. 71. Section 2. 1875. April Issue. pp. 9-10.
 
-Sulphuric iron makes up a significant portion of the composition of the stone from Iowa. It shows up spread into tiny irregularly defined spots, sandwiched, so to speak, between the constituent fragments.
+Sulphuric iron makes up a significant portion of the composition of the stone from Iowa. It shows up spread into tiny irregularly defined spots, sandwiched, so to speak, between the constituent pieces.
 
 ...

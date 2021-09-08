@@ -93,4 +93,6 @@ That the stone incorporates water requires no further evidence, as the not so ra
 
 Various types of gas have already been accounted for by Wriht* in this meteorite from Iowa. The provisional experiments of Wriht yielded a gas content of which almost half was made of carbon dioxide and carbon monoxide (CO2 = 35; CO = 14), with the remaining being comprised primarily of hydrogen.
 
+The specific weight of the stone in its interior mass amounts to 3.75; that of a piece of crust is 3.55 at 20° C.
+
 ...

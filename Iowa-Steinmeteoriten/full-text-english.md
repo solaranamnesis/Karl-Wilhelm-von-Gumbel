@@ -20,7 +20,7 @@ The Iowa [Homestead] meteorite belongs to that most commonly occurring class of 
 
 *) _The American Journal of Science and Arts_. Dana and Silliman. May 1875. Vol. 9. Nr. 53. p. 407.
 
-*) _Comptes rendus d. s. de l'Acad. d. sc_. 1875. p. 1175.
+*) _Comptes rendus of the Academy of Sciences_. 1875. p. 1175.
 
 The considerably sharp-edged, acute-angled, unevenly tetrahedral stone is coated all over with a black fusion crust, and inside light grayish white, furnished with abundant small black nodules and granules of meteoritic and sulphuric iron and seemingly scattered small rust stains. The stone is rather hard and cannot be crushed with the hand. Its overall character is not much different from the stone meteorite of Pultusk, in that, apart from the meteoritic and sulphuric iron, its main mass is whitish and yellowish, in which the individual shiny glass olivine granules contrast with the partly dark, partly light, sometimes opaque globules (chondrule spheres). Daubrée* compares it with the stone meteorites of Vouillé (May 13, 1831) and of Aumale in Algiers (August 25, 1865). Through this fall the tally of this type of most prevalent meteoritic stone, the chondrite, already above all others, is again increased by one and the impression of a unitary source of all these fragments from a once connected whole, which Meunier* also recently so strongly stressed, is significantly reinforced.
 

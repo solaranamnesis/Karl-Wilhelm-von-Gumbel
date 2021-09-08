@@ -87,6 +87,6 @@ Concerning the the formation of these curious constituent components of the mete
 
 *) Sitz. d. k. Ac. d. Wiss. Vienna. Vol. 71. Section 2. 1875. April Issue. pp. 9-10.
 
-Sulphuric iron makes up a significant portion of the composition of the stone from Iowa. It shows up spread into tiny irregularly defined spots, sandwiched, so to speak, between the constituent pieces. When the stone powder is treated with hydrochloric acid, hydrogen sulfide emerges, without sulphur precipitating. Hence, it is justified to denote this sulphuric iron as troilite.
+Sulphuric iron makes up a significant portion of the composition of the stone from Iowa. It shows up spread into tiny irregularly defined spots, sandwiched, so to speak, between the constituent pieces. When the stone powder is treated with hydrochloric acid, hydrogen sulfide emerges, without sulphur precipitating. Hence, it is justified to denote this sulphuric iron as troilite. Appearing even more frequently are granules of the stone mass consisting of admixed little clumps of meteoritic iron, which are usually jagged, angularly bent, and often tapered into fine points, and, wherever they are found, cling tightly to the non-metallic portions such as if this iron had only been deposited at the end, perhaps due to reduction at the location.
 
 ...

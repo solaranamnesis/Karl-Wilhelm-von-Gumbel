@@ -99,4 +99,6 @@ The specific weight of the stone in its interior mass amounts to 3.75; that of a
 
 ### Chemical Analysis
 
+I had slightly more than 1.5 grams of material available to carry out a chemical analysis.
+
 ...

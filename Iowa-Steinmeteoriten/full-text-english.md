@@ -99,6 +99,6 @@ The specific weight of the stone in its interior mass amounts to 3.75; that of a
 
 ### Chemical Analysis
 
-I had slightly more than 1.5 grams of material available to carry out a chemical analysis. To begin with, the meteoritic iron was extracted from the finely pulverized powder with all due care and by repeating this process as much as possible liberating all the adhering stone pieces, thereupon analyzed in particular.
+I had slightly more than 1.5 grams of material available to carry out a chemical analysis. To begin with, the meteoritic iron was extracted from the finely pulverized powder with all due care and by repeating this process as much as possible to liberate all the adhering stone pieces, thereupon analyzed in particular.
 
 ...

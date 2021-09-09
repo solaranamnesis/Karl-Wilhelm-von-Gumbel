@@ -99,7 +99,7 @@ Das spezifische Gewicht des Steins in der inneren Masse beträgt = 3,75; das ein
 
 *) The Americ. Journ. o. sc. a. arts. J. Dana a. Silliman May 1875. Vol. IX. Nr. 54. p. 459; auch Ann. d. Phys. u. Chem. Ergänz. Bd. VII Stück 2.
 
-Chemische Analyse.
+### Chemische Analyse.
 
 Zur Vornahme einer chemischen Analyse stand mir etwas über 1,5 Gramm Substanz zur Verfügung. Aus dem fein zerriebenen Pulver wurde zuerst mit aller Sorgfalt das Meteoreisen mit dem Magnet ausgezogen und dies durch wiederholtes Verfahren möglichst von allen anhaftenden Gesteinsteilen befreit, alsdann besonders analysiert. Ein Teil diente zur Schwefelbestimmung, das übrige wurde zuerst mit kochender Salzsäure behandelt, der auf diese Weise zersetzte Anteil und ebenso der unzersetzte mittelst Barythydrat aufgeschlossene weiter analysiert.
 

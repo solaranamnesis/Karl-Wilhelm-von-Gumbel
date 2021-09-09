@@ -97,6 +97,6 @@ The specific weight of the stone in its interior mass amounts to 3.75; that of a
 
 *) _The American Journal of Science and Arts_. James Dana and Silliman. May 1875. Vol. 9. Nr. 54. p. 459; also _Ann. d. Phys. u. Chem. Ergänz._ Volume 7, Part 2.
 
-## Chemical Analysis
+### Chemical Analysis
 
 ...

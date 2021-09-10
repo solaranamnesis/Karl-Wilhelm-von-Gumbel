@@ -116,4 +116,25 @@ Iron 83.38
 Nickel (containing a little cobalt with sulphur and phosphorus) 16.62  
 hence, likely Fe<sub>5</sub>Ni  
 
+The part* decomposable in hydrochloric acid (calculated without meteoritic and sulphuric iron) made of
+
+Silicon dioxide 38.38 Oxygen: 19.76  
+Iron(II) oxide 28.58 Oxygen: 6.33  
+Manganese(II) oxide 0.53 Oxygen: 0.12  
+Magnesium oxide 31.49 Oxygen: 12.59  
+Aluminum oxide 1.01 Oxygen: 0.47  
+Calcium oxide, alkalis, traces of water  
+
+The rest, undecomposed in hydrochloric acid, consists of*
+
+Silicon dioxide 53.96 Oxygen: 28.74  
+Aluminum oxide 2.01 Oxygen: 0.94  
+Iron(II) oxide 25.18 Oxygen: 5.57  
+Magnesium oxide 8.91 Oxygen: 3.56  
+Calcium oxide 4.04 Oxygen: 1.16  
+Manganese(II) oxide traces  
+Chromium(II) oxide 1.42 Oxygen: 1.16  
+Natron 2.39 Oxygen: 0.59  
+Potash 1.67 Oxygen: 0.29  
+
 ...

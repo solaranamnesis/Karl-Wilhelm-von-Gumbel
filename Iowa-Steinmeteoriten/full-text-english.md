@@ -139,4 +139,6 @@ Potash 1.67 Oxygen: 0.29
 
 *) These analyses were performed by assistant Mr. Ad. Schwager. (1875. 3. Math.-Phys. Class)
 
+As concerns the meteoritic iron and the ordinary sulphuric iron, there is not much need for discussion over this.
+
 ...

@@ -93,7 +93,7 @@ Einen wesentlichen Anteil an der Zusammensetzung des Steins von Iowa nimmt das S
 
 Dass das Gestein Wasser enthält, bedarf nicht erst eines Nachweises, da dies die nicht seltenen Rostflecke — Eisenoxydhydrat — zum Voraus verraten.
 
-Auch verschiedene Gasarten sind bereits durch Wriht* in diesem Meteorite von Iowa nachgewiesen. Die vorläufigen Versuche Wriht's ergaben einen Gehalt an Gas, welches fast zur Hälfte aus Kohlensäure und Kohlenoxyd (CO2 = 35; CO = 14), im Übrigen hauptsächlich aus Wasserstoff besteht.
+Auch verschiedene Gasarten sind bereits durch Wriht* in diesem Meteorite von Iowa nachgewiesen. Die vorläufigen Versuche Wriht's ergaben einen Gehalt an Gas, welches fast zur Hälfte aus Kohlensäure und Kohlenoxyd (CO<sub>2</sub> = 35; CO = 14), im Übrigen hauptsächlich aus Wasserstoff besteht.
 
 Das spezifische Gewicht des Steins in der inneren Masse beträgt = 3,75; das eines Rindenstückes = 3,55 bei 20° C.
 

@@ -105,15 +105,15 @@ The findings were as follows here:
 
 The stone is comprised of
 
-Meteoritic iron 12.32
-Troilite 5.25
-the portion decomposable in hydrochloric acid 48.11
-the portion indecomposable in hydrochloric acid 34.32
+Meteoritic iron 12.32  
+Troilite 5.25  
+the portion decomposable in hydrochloric acid 48.11  
+the portion undecomposable in hydrochloric acid 34.32  
 
 Excluding traces of copper and sulphur, the latter presumably stemming from bits adhering to the troilite, the nickel iron is comprised of
 
-Iron 83.38
-Nickel (containing a little cobalt with sulphur and phosphorus) 16.62
-hence, likely Fe<sub>5</sub>Ni
+Iron 83.38  
+Nickel (containing a little cobalt with sulphur and phosphorus) 16.62  
+hence, likely Fe<sub>5</sub>Ni  
 
 ...

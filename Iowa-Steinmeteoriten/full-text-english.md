@@ -123,7 +123,7 @@ Iron(II) oxide 28.58 Oxygen: 6.33
 Manganese(II) oxide 0.53 Oxygen: 0.12  
 Magnesium oxide 31.49 Oxygen: 12.59  
 Aluminum oxide 1.01 Oxygen: 0.47  
-Calcium oxide, alkalis, traces of water  
+Traces of calcium oxide, alkalis, water  
 
 The rest, undecomposed in hydrochloric acid, consists of*
 

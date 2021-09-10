@@ -116,7 +116,7 @@ Iron 83.38
 Nickel (containing a little cobalt with sulphur and phosphorus) 16.62  
 hence, likely Fe<sub>5</sub>Ni  
 
-The part* decomposable in hydrochloric acid (calculated without meteoritic and sulphuric iron) made of
+The part* decomposable in hydrochloric acid (calculated without meteoritic and sulphuric iron) is made of
 
 Silicon dioxide 38.38 Oxygen: 19.76  
 Iron(II) oxide 28.58 Oxygen: 6.33  

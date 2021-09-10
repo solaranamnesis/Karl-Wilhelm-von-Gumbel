@@ -97,7 +97,7 @@ The specific weight of the stone in its interior mass amounts to 3.75; that of a
 
 *) _The American Journal of Science and Arts_. James Dana and Silliman. May 1875. Vol. 9. Nr. 54. p. 459; also _Ann. d. Phys. u. Chem. Ergänz._ Volume 7, Part 2.
 
-### Chemical Analysis
+### Chemical Analysis.
 
 I had slightly more than 1.5 grams of material available to carry out a chemical analysis. To begin with, the meteoritic iron was extracted from the finely pulverized powder with all due care and by repeating this process as much as possible to liberate all the adhering stone pieces, thereupon analyzed in particular. One portion served for the measurement of sulfur, while the leftover was first treated with boiling hydrochloric acid, and in this way a decomposed and an undecomposed fraction, still further dissolved by means of hydrated barite, was analyzed.
 

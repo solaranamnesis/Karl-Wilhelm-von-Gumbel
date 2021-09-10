@@ -101,4 +101,19 @@ The specific weight of the stone in its interior mass amounts to 3.75; that of a
 
 I had slightly more than 1.5 grams of material available to carry out a chemical analysis. To begin with, the meteoritic iron was extracted from the finely pulverized powder with all due care and by repeating this process as much as possible to liberate all the adhering stone pieces, thereupon analyzed in particular. One portion served for the measurement of sulfur, while the leftover was first treated with boiling hydrochloric acid, and in this way a decomposed and an undecomposed fraction, still further dissolved by means of hydrated barite, was analyzed.
 
+The findings were as follows here:
+
+The stone is comprised of
+
+Meteoritic iron 12.32
+Troilite 5.25
+the portion decomposable in hydrochloric acid 48.11
+the portion indecomposable in hydrochloric acid 34.32
+
+Excluding traces of copper and sulphur, the latter presumably stemming from bits adhering to the troilite, the nickel iron is comprised of
+
+Iron 83.38
+Nickel (containing a little cobalt with sulphur and phosphorus) 16.62
+hence, likely Fe5Ni
+
 ...

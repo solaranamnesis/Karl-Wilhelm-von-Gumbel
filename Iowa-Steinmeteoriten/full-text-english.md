@@ -137,4 +137,6 @@ Chromium(II) oxide 1.42 Oxygen: 1.16
 Natron 2.39 Oxygen: 0.59  
 Potash 1.67 Oxygen: 0.29  
 
+*) These analyses were performed by the Honorable Assistent Ad. Schwager. (1875. 3. Math.-Phys. Class)
+
 ...

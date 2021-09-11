@@ -173,7 +173,7 @@ The round globules did not get further consideration in the account, which certa
 
 Among the chondrites analyzed up till now, it is only that of Tadjera with a similar composition*, though poorer in silicon dioxide and richer in calcium oxide.
 
-*) Rammelsberg, _The Chemical Nature of the Meteorites_, p. 157.
+*) Rammelsberg. _The Chemical Nature of the Meteorites_. p. 157.
 
 Bringing together the findings of this survey of the stone meteorite of Iowa, they justify the following conclusions:
 

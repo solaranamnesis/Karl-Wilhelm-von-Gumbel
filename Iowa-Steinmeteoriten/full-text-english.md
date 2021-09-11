@@ -177,6 +177,6 @@ Bringing together the findings of this survey of the stone meteorite of Iowa, th
 
 1) The stone mass is comprised of irregular little mineral fragments of olivine and a substance related to augite, and appears to have been taken from a shattered rock. These same distinct small pieces are assembled from different admixed minerals. Also, a feldspathic substance seems to be present in low quantities. Finely pulverized pieces of these minerals seem to surrender the filling agent.
 
-2) Aside from the alluded to small mineral pieces, a significant part of the substance of the stone is made of the roundish globules. They partly belong to olivine and partly represent lamellar intergrowth of minerals or exist as a radial fibrous mass.
+2) Aside from the alluded to small mineral pieces, a significant part of the substance of the stone is made of the roundish globules. They partly belong to olivine and partly represent lamellar intergrowth of minerals or exist as a radial, fibrous mass.
 
 ...

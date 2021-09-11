@@ -173,4 +173,6 @@ Among the chondrites analyzed up till now, it is only that of Tadjera with a sim
 
 *) Rammelsberg, _The Chemical Nature of the Meteorites_, p. 157.
 
+Bringing together the findings of this survey of the stone meteorite of Iowa, they justify the following conclusions:
+
 ...

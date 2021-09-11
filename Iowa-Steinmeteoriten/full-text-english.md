@@ -18,7 +18,7 @@ The Iowa [Homestead] meteorite belongs to that most commonly occurring class of 
 
 *) _Comptes rendus of the Academy of Sciences in Paris_. Vol. 80. No. 23. 1875. p. 1451.
 
-*) _The American Journal of Science and Arts_. Dana and Silliman. May 1875. Vol. 9. Nr. 53. p. 407.
+*) _The American Journal of Science and Arts_. Dana and Silliman. May 1875. Vol. 9. No. 53. p. 407.
 
 *) _Comptes rendus of the Academy of Sciences_. 1875. p. 1175.
 

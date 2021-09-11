@@ -179,4 +179,6 @@ Bringing together the findings of this survey of the stone meteorite of Iowa, th
 
 2) Aside from the alluded to small mineral pieces, a significant part of the substance of the stone is made of the roundish globules. They partly belong to olivine and partly represent lamellar intergrowth of minerals or exist as a radial, fibrous mass. A portion of these appear to be of a feldspathic substance. They owe their form to a mechanical rounding.
 
+3) The meteoritic iron granules are nestled between the little mineral slivers and globules, as if they were formed retroactively due to reduction.
+
 ...

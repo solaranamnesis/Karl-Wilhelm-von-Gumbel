@@ -15,6 +15,6 @@ English - PDF
 ## Iowa Steinmeteoriten
 
 [English - Plain Text](Iowa-Steinmeteoriten/full-text-english.md)  
-English - PDF  
+[English - PDF](https://cdn.solaranamnesis.com/Gumbel/Iowa/gumbel_iowa_1875_english_PDFlaTex.pdf)  
 [German - Plain Text](Iowa-Steinmeteoriten/full-text-german.md)  
 [German - PDF](https://cdn.solaranamnesis.com/Gumbel/Iowa/gumbel_iowa_1875_german-PDFlaTex.pdf)  

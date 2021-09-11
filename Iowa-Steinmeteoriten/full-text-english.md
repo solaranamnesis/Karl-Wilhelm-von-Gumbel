@@ -167,4 +167,6 @@ Pyroxene 37.55
 Troilite 5.82
 Nickel iron 12.54
 
+The round globules did not get further consideration in the account, which certainly does not seem natural, because these globules cannot be considered as consisting of augite.
+
 ...

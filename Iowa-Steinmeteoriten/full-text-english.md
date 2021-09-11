@@ -175,6 +175,6 @@ Among the chondrites analyzed up till now, it is only that of Tadjera with a sim
 
 Bringing together the findings of this survey of the stone meteorite of Iowa, they justify the following conclusions:
 
-1) The stone mass is comprised of irregular little mineral fragments of olivine and an augite-like substance, which appears to have been taken from a shattered rock.
+1) The stone mass is comprised of irregular little mineral fragments of olivine and an augite-like substance, and appears to have been taken from a shattered rock.
 
 ...

@@ -1,5 +1,5 @@
 # Dr. Karl Wilhelm von Gümbel
-Dr. Karl (Carl) Wilhelm von Gümbel (1823 - 1898)
+Dr. Karl Wilhelm von Gümbel (1823 - 1898)
 
 Meteorite Treatises
 

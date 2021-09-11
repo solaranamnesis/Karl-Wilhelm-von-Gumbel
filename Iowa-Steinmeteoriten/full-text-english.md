@@ -141,4 +141,30 @@ Potash 1.67 Oxygen: 0.29
 
 As concerns the meteoritic iron and the ordinary sulphuric iron, there is not much need for discussion over this. In the portion decomposable by hydrochloric acid, the oxygen ratio of the bases and acids is nearly 1:1 and indeed, here as well, it hardly requires any further explanation that this portion is largely derived from an olivine with a preponderance of rich iron(II) oxide. Far more difficult is the interpretation of the best of those undecomposable in hydrochloric acid, whose constituent parts and their oxygen ratios do not match any defined mineral. This also completely agrees with the optical analysis in which, following the removal of the parts soluble in hydrochloric acid, a light, cracked mineral and tiny black grains were detected, besides the spheroidal chondrules with their highly diverse nature. That the former are comprised of chrome iron is now hardly in doubt, according to the results of the analysis. The light, cracked mineral is likely sure to belong to the augite group. Totally unusual is the high iron(II) oxide content, even if one makes an allowance for an appropriate portion being associated with chromium(II) oxide on the chromium iron, whereas the lack of magnesium oxide and calcium oxide on the other hand is striking. The high content of alkali still seems to have more connection to the composition of the globules and indicates their feldspathic compounds. Presumably, the aluminum oxide is part of these constituent components in correspondance with the amount of silicon dioxide, as was finally figured out — though always just incidentally corresponding to an iron-rich augite composition, such as found in the eucrites, for instance as highlighted in those from Juvinas. Still the intimate nature of these augitic constituent components remains difficult to determine. Even though the analysis of the Iowa meteorites that J. L. Smith* communicated does not exactly hold true with the above, it nevertheless indicates an unusually high iron(II) oxide content in the portion insoluble in acid, namely 27.41%. In order to compare, Smith's statements are included here:
 
+The entire stone is comprised out of:
+
+Stony mass 81.64
+Troilite 5.82
+Nickel iron 12.54
+
+The stony part contains:
+
+A) 54.15 decomposable in acids,
+B) 45.85 substances undecomposed in acids.
+
+This is further comprised of
+
+Silicon dioxide 35.61 55.02
+Iron(II) oxide 27.20 27.41
+Magnesium oxide 33.45 13.12
+Aluminum oxide 0.71 0.84
+Alkalis, iron, etc. 1.45 2.01
+
+Smith then calculates the composition of the meteorite as:
+
+Olivine 44.09
+Pyroxene 37.55
+Troilite 5.82
+Nickel iron 12.54
+
 ...

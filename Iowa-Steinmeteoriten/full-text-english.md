@@ -143,29 +143,29 @@ As concerns the meteoritic iron and the ordinary sulphuric iron, there is not mu
 
 The entire stone is comprised out of:
 
-Stony mass 81.64
-Troilite 5.82
-Nickel iron 12.54
+Stony mass 81.64  
+Troilite 5.82  
+Nickel iron 12.54  
 
 The stony part contains:
 
-A) 54.15 decomposable in acids,
-B) 45.85 substances undecomposed in acids.
+A) 54.15 decomposable in acids,  
+B) 45.85 substances undecomposed in acids.  
 
 This is further comprised of
 
-Silicon dioxide 35.61 55.02
-Iron(II) oxide 27.20 27.41
-Magnesium oxide 33.45 13.12
-Aluminum oxide 0.71 0.84
-Alkalis, iron, etc. 1.45 2.01
+Silicon dioxide 35.61 55.02  
+Iron(II) oxide 27.20 27.41  
+Magnesium oxide 33.45 13.12  
+Aluminum oxide 0.71 0.84  
+Alkalis, iron, etc. 1.45 2.01  
 
 Smith then calculates the composition of the meteorite as:
 
-Olivine 44.09
-Pyroxene 37.55
-Troilite 5.82
-Nickel iron 12.54
+Olivine 44.09  
+Pyroxene 37.55  
+Troilite 5.82  
+Nickel iron 12.54  
 
 The round globules did not get further consideration in the account, which certainly does not seem natural, because these globules cannot be considered as consisting of augite.
 

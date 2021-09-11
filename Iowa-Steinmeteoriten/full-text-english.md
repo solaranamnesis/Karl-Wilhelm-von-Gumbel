@@ -169,4 +169,6 @@ Nickel iron 12.54
 
 The round globules did not get further consideration in the account, which certainly does not seem natural, because these globules cannot be considered as consisting of augite.
 
+Among the chondrites analyzed up till now, it is only that of Tadjera with a similar composition*, though poorer in silicon dioxide and richer in calcium oxide.
+
 ...

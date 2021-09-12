@@ -9,3 +9,7 @@
 ### Mr. [Carl Wilhelm von] Gümbel speaks:
 
 #### "About the stone meteorites found in Bavaria."
+
+Among the stone meteorites that have fallen and been located in Bavarian areas, are quite a few whose chemical composition is known to us solely from antiquated analyses, while still no chemical investigation has been undertaken on any of them up till the present moment.
+
+...

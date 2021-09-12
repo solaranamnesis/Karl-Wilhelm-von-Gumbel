@@ -6,6 +6,8 @@
 
 ### In Commission with G. Franz.
 
+### February 9, 1878.
+
 ### Mr. [Carl Wilhelm von] Gümbel speaks:
 
 #### "About the stone meteorites found in Bavaria."

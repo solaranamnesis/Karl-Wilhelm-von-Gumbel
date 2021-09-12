@@ -10,7 +10,7 @@
 
 #### In Kommission bei G. Franx.
 
-### Sitzung vom 9. Februar 1878.
+#### Sitzung vom 9. Februar 1878.
 
 #### Herr Gümbel spricht:
 

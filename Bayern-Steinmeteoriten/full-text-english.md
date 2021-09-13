@@ -12,6 +12,6 @@
 
 #### "About the stone meteorites found in Bavaria."
 
-Among the stone meteorites that have fallen and been located in Bavarian areas, there are quite a few whose chemical composition is known to us only from antiquated analyses, while still no chemical investigation has been undertaken on any of them up till the present moment.
+Among the stone meteorites that have fallen and been located in Bavarian areas, there are quite a few whose chemical composition is known to us only from antiquated analyses, while still no chemical investigation has been undertaken on any of them up till the present moment. Moreover, since many of them lack an exhaustive survey, such as has been recently performed on types of stone by means of a thin section and microscope, it thus seemed to me sufficiently interesting to carry out such work and compile the results with the earlier findings.
 
 ...

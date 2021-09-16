@@ -32,4 +32,6 @@ I first came upon information of a sixth meteoritic stone in [Ludwig Wilhelm] Gi
 
 *) The Scotch Monasteries were established in 1140, 1803 saeculo 1819 part of the church was restored for worship, the choir in fact, the rest served as a military depot. The complete description and history of Wieland is in the archive of the _Historical Association of Lower Franconia and Aschaffenburg_ Vol. 16.
 
+#### The Meteoritic Stone from Mauerkirchen
+
 ...

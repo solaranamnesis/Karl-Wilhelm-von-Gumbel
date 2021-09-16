@@ -34,6 +34,6 @@ I first came upon information of a sixth meteoritic stone in [Ludwig Wilhelm] Gi
 
 #### The Meteoritic Stone from Mauerkirchen
 
-(Figure 1 in the accompanying table)
+([Figure 1](https://cdn.solaranamnesis.com/Gumbel/Bayern/Fig-1.png) in the accompanying table)
 
 ...

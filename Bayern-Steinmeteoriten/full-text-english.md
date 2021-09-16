@@ -28,4 +28,6 @@ These five stone meteorites are:
  
 5) The stone from Krähenberg by Homburg in the Rhenish Pfalz from the fall on May 5, 1869 at six thirty in the evening.
 
+I first came upon information of a sixth meteoritic stone in Gilbert's _Annals of Physics_, 15th volume page 317, where it is cited that Gaspar Schott's _Physica curiosa_, 11th volume 19th chapter, gives an account: "that in our city of Herbipolis [Würzburg] is preserved in the temple of St. Jacobi across the rampart, in the monastery of the Scots,* chained to the temple column... it is hard and with an iron nature." 
+
 ...

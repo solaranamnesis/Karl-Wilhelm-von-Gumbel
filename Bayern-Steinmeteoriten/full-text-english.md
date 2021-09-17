@@ -36,6 +36,6 @@ I first came upon information of a sixth meteoritic stone in [Ludwig Wilhelm] Gi
 
 ([Figure 1](https://cdn.solaranamnesis.com/Gumbel/Bayern/Fig-1.png) in the accompanying table)
 
-A short booklet initially told about this fall: "News and Reports from some Stones Dropped out of the Air on November 20, 1768 in Bavaria not far from Mauerkirchen" (Straubingen 1769). Referring to the same, Chladni shares in his chronological list of stone and iron masses that fell down with a firey meteor (Gilbert's _Annals of Physics_, 1803. Vol. 15. p. 316), that sundry ordinary folk near Mauerkirchen, who swore to it when questioned, stated that in the evening on the mentioned day after four o'clock the skies noticeably darkened towards the west, heard an extraordinary roar and a powerful bang in the air like thunder and with shooting fragments.
+A short booklet initially told about this fall: "News and Reports from some Stones Dropped out of the Air on November 20, 1768 in Bavaria not far from Mauerkirchen" (Straubingen 1769). Referring to the same, Chladni shares in his chronological list of stone and iron masses that fell down with a firey meteor (Gilbert's _Annals of Physics_, 1803. Vol. 15. p. 316), that sundry ordinary folk near Mauerkirchen, who swore to it when questioned, stated that in the evening on the mentioned day after four o'clock the skies noticeably darkened against the west, heard an extraordinary roar and a powerful bang in the air like thunder and with shooting fragments.
 
 ...

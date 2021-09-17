@@ -36,6 +36,6 @@ I first came upon information of a sixth meteoritic stone in [Ludwig Wilhelm] Gi
 
 ([Figure 1](https://cdn.solaranamnesis.com/Gumbel/Bayern/Fig-1.png) in the accompanying table)
 
-A short little paper initially told about this fall: "News and Reports from some Stones Dropped out of the Air on November 20, 1768 in Bavaria not far from Maurkirchen." (Straubingen 1769).
+A short little document initially told about this fall: "News and Reports from some Stones Dropped out of the Air on November 20, 1768 in Bavaria not far from Maurkirchen." (Straubingen 1769).
 
 ...

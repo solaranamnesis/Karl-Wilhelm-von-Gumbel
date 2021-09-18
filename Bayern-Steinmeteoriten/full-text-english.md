@@ -42,4 +42,6 @@ A short booklet initially told about this fall: "News and Reports from some Ston
 
 Professor Imhof supplemented this account (_Bavarian Electoral Palatinate. Weekly Paper_. 1804. Section 4) with the following particulars: "The fallen stone was located the day after hearing the noise, on the so-called Schinperpoint in an oblique hole going inward two and a half schuh deep." Imhof identified the specific weight as 3.452 and described the grayish black, one-quarter linie [line (unit)] thick crust as giving sparks on steel, furthermore as constituent components:
 
+1) reguline iron, which has fused with much of the exterior crust in little kernels and tines, is very pliable and viscous and makes a white, thick shiny filing streak,
+
 ...

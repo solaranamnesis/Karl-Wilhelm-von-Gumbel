@@ -59,6 +59,6 @@ Sulphur and losses 2.08
 
 (Compare with Otto Büchner's _Meteorites in Collections_ 1863 p. 9.)
 
-Closer examination of the stone further revealed to me that the matt black, slightly glossy in spots, 0.7 — 0.3 mm. thick crust, like with other meteoritic stones, is merely fusion crust, which merges against the inner main mass without a sharp boundary, because it is strenthened by the tiny iron pieces that border it, where sure enough faint amber granules are located and appear more glossy in the latter spots. Frequently the same small mineral pieces are melted and embedded in the crust or protrude into it.
+Closer examination of the stone further revealed to me that the matt black, slightly glossy in spots, 0.7 — 0.3 mm. thick crust, like with other meteoritic stones, is merely fusion crust, which merges against the inner main mass without a sharp boundary because this is strenthened by the tiny iron pieces that border it, where sure enough faint amber granules are located and appear more glossy in the latter spots. Frequently the same small mineral pieces are melted and embedded in the crust or protrude into it.
 
 ...

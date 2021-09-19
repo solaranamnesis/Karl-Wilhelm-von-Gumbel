@@ -50,4 +50,11 @@ Professor Imhof supplemented this account (_Bavarian Electoral Palatinate. Weekl
 
 4) still other tiny kernels of a white and yellow color that are translucent and shimmering. According to his analysis, the meteoritic stone is comprised of:
 
+Silica 25.40  
+Iron oxide 40.24  
+Iron 2.33  
+Nickel 1.20  
+Magnesia 28.75  
+Sulphur and losses 2.08  
+
 ...

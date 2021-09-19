@@ -1,5 +1,4 @@
 # Otto Büchner's Meteorite Works
-Dr. Karl Wilhelm von Gümbel (1823 - 1898)
 
 Meteorite Treatises
 

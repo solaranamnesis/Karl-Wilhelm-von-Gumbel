@@ -44,4 +44,10 @@ Professor Imhof supplemented this account (_Bavarian Electoral Palatinate. Weekl
 
 1) reguline iron, which has fused with much of the exterior crust in little kernels and tines, is very pliable and viscous and makes a white, thick shiny filing streak,
 
+2) pyrites,
+
+3) small, flattened, angular grains, which are distinguished by their blackish gray color, shell-like breakage, glistening appearance, and greater hardness,
+
+4) still other tiny kernels of whiter and yellowish color, the translucent and shimmering be. According to his analysis, the meteoritic stone is comprised of:
+
 ...

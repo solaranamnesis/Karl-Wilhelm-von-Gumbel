@@ -61,4 +61,6 @@ Sulphur and losses 2.08
 
 Closer examination of the stone further revealed to me that the matt black, slightly glossy in spots, 0.7 — 0.3 mm. thick crust, like with other meteoritic stones, is merely fusion crust, which merges against the inner main mass without a sharp boundary because this is strenthened by the tiny iron pieces that border it, where sure enough faint amber granules are located and appear more glossy in the latter spots. Frequently the same small mineral pieces are melted and embedded in the crust or protrude into it. The main mass of the stone is colored light gray, dotted black due to the interspersed meteoritic iron, and, at many of these black spots, stained a rust color due to the effects of iron oxidation. The stone may easily be crushed between the fingers and has the impression of a trachytic tuff.
 
+Out of the utterly fine, crumbly, almost dust-like matrix there arise quite a number of interspersed, roundish, poppy seed to millet sized granules, which are usually somewhat dark black or yelowish in color, matt on the exterior, and shiny like glass without cleavage surfaces when shattered, that have the character of chondrules and therefore imprint upon this stone the seal of the chondrites.
+
 ...

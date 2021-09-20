@@ -24,7 +24,7 @@ These five stone meteorites are:
 
 3) The stone from Massing near Altötting in southern Bavaria from the fall on December 13, 1803 between the hours of ten and eleven in the morning.
 
-4) The stone from Schönenberg next to Burgau and Swabia, fallen on December 25, 1846 at two o'clock in the afternoon and
+4) The stone from Schönenberg next to Burgau and Swabia, which fell on December 25, 1846 at two o'clock in the afternoon and
  
 5) The stone from Krähenberg by Homburg in the Rhenish Pfalz from the fall on May 5, 1869 at six thirty in the evening.
 

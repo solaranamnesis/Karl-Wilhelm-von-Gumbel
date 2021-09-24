@@ -69,4 +69,6 @@ After treating the finely crushed (not pulverized) material with saltpeter hydro
 
 So that the chemical analysis was correct as well, the gentleman assistant Adolf Schwager was separately supervising examinations conducted at the same time. The measurement of the meteoritic and sulphuric iron was done through individual experiments. The analyses yielded:
 
+*) Anything extractable was taken out of the crushed powder with the magnet and these component parts containing meteoritic iron were specially analyzed with the application of copper vitriol and copper chloride.
+
 ...

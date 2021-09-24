@@ -82,8 +82,8 @@ Phosphorus | 0.14 | 0.22 | -. -
 Chromium(II) oxide | 0.39 | -. - | 0.84  
 Calcium oxide | 2.27 | 1.51 | 4.35  
 Magnesium oxide | 21.73 | 29.13 | 7.70  
-Potash | 0.48 | Sp. | 1.40  
-Natron | 1.00 | Sp. | 2.91  
+Potash | 0.48 | Traces | 1.40  
+Natron | 1.00 | Traces | 2.91  
 Sum | 100.75 | 100.86 | 101.18  
 
 ...

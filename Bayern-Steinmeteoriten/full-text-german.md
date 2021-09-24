@@ -88,7 +88,7 @@ Kali | 0,48 | Sp. | 1,40
 Natron | 1,00 | Sp. | 2,91  
 Summe | 100,75 | 100,86 | 101.18  
 
-Es schließt sich demnach der Steinmeteorit von Mauerkirchen der Anfangsreihe der an Kieselsäure ärmsten Chondriten, wie jenen von Seres, Buchhof, Ensisheim und Chateau-Renard an. Es lässt sich daraus der Gehalt berechnen, nämlich an:
+Es schließt sich demnach der Steinmeteorit von Mauerkirchen der Anfangsreihe der an Kieselsäure ärmsten Chondriten, wie jenen von Seres, Buchhof [Buschhof], Ensisheim und Château-Renard an. Es lässt sich daraus der Gehalt berechnen, nämlich an:
 
 Meteoreisen 2,81%  
 Schwefeleisen 5,72  

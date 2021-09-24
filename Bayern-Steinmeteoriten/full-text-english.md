@@ -86,4 +86,6 @@ Potash | 0.48 | Traces | 1.40
 Natron | 1.00 | Traces | 2.91  
 Sum | 100.75 | 100.86 | 101.18  
 
+It therefore logically follows that the stone meteorite of Mauerkirchen tops the list of silica impoverished chondrites, like those of Seres, Buchhof [Buschhof], Ensisheim, and Château-Renard.
+
 ...

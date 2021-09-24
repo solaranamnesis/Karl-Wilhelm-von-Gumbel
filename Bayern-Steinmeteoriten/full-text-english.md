@@ -88,4 +88,9 @@ Sum | 100.75 | 100.86 | 101.18
 
 It therefore logically follows that the stone meteorite of Mauerkirchen tops the list of silica impoverished chondrites, like those of Seres, Buchhof [Buschhof], Ensisheim, and Château-Renard.
 
+Meteoritic iron 2.81%  
+Sulphuric iron 5.72  
+Chrome iron 0.75  
+Silicates 90.72  
+
 ...

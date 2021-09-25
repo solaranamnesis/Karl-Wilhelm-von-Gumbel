@@ -93,6 +93,6 @@ Iron(II) sulfide 5.72
 Chromite 0.75  
 Silicates 90.72  
 
-As far as the interpretation of the silicates is concerned, we have to first envisage the essential elements decomposable in hydrochloric acid. The relatively low content of silicon dioxide here is especially striking.
+As far as the interpretation of the silicates is concerned, we have to first envisage the essential elements decomposable in hydrochloric acid. The relatively low content of silicon dioxide here is especially striking. Nonetheless, a similar ratio repeats itself several times, for instance in the cases of the meteoritic stones of Seres, Tjabé (Java September, 19 1869), Khetri (India), and others. Removing the meteoritic iron and iron(II) sulfide content, we obtain for component elements:
 
 ...

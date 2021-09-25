@@ -95,7 +95,7 @@ Schwefeleisen 5,72
 Chromeisen 0,75  
 Silikate 90,72  
 
-Was die Interpretation der Silikate anbelangt, so haben wir zunächst den durch Salzsäure zersetzbaren Bestandteil ins Auge zu fassen. Hierin ist der relativ geringe Kieselsäuregehalt besonders auffallend. Doch wiederholt sich ein ähnliches Verhältnis« mehrfach wie z. B. bei den Meteorsteinen von Seres, Tjabé (Java 19. Sept. 1869), Khettre (Indien) u. A. Ziehen wir den Gehalt an Meteoreisen und Schwefeleisen ab, so erhalten wir für diesen Bestandteil:
+Was die Interpretation der Silikate anbelangt, so haben wir zunächst den durch Salzsäure zersetzbaren Bestandteil ins Auge zu fassen. Hierin ist der relativ geringe Kieselsäuregehalt besonders auffallend. Doch wiederholt sich ein ähnliches Verhältniss mehrfach wie z. B. bei den Meteorsteinen von Seres, Tjabé (Java 19. Sept. 1869), Khettre (Indien) u. A. Ziehen wir den Gehalt an Meteoreisen und Schwefeleisen ab, so erhalten wir für diesen Bestandteil:
 
 SiO₂ 26,45  
 Al₂O₃ 1,35  

@@ -71,7 +71,7 @@ So that the chemical analysis was correct as well, the gentleman assistant Adolf
 
 *) Anything extractable was taken out of the crushed powder with the magnet and these component parts containing meteoritic iron were specially analyzed with the application of copper vitriol and copper chloride.
 
-Compounds: | Bulk analysis 65.45% portion decomposable in hydrochloric acid | 34.55% remainder elemental parts
+Compounds: | Bulk analysis, 65.45% portion decomposable in hydrochloric acid | 34.55% remainder elemental parts
 
 Silicon dioxide | 38.14 | 23.23 | 61.39  
 Aluminium oxide | 2.51 | 1.20 | 5.00  

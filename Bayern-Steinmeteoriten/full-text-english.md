@@ -50,7 +50,7 @@ Professor Imhof supplemented this account (_Bavarian Electoral Palatinate. Weekl
 
 4) still other tiny kernels of a white and yellow color that are translucent and shimmering. According to his analysis, the meteoritic stone is comprised of:
 
-Silica 25.40  
+Silicon dioxide 25.40  
 Iron oxide 40.24  
 Iron 2.33  
 Nickel 1.20  
@@ -73,7 +73,7 @@ So that the chemical analysis was correct as well, the gentleman assistant Adolf
 
 Compounds: | Bulk analysis 65.45% portion decomposable in hydrochloric acid | 34.55% remainder elemental parts
 
-Silica | 38.14 | 23.23 | 61.39  
+Silicon dioxide | 38.14 | 23.23 | 61.39  
 Aluminium oxide | 2.51 | 1.20 | 5.00  
 Iron(II) oxide | 25.70 | 32.72 | 17.59  
 Iron & Nickel | 6.30 | 9.65 | -. -  

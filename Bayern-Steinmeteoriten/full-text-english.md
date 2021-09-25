@@ -54,7 +54,7 @@ Silicon dioxide 25.40
 Iron oxide 40.24  
 Iron 2.33  
 Nickel 1.20  
-Magnesia 28.75  
+Magnesium oxide 28.75  
 Sulphur and losses 2.08  
 
 (Compare with Otto Büchner's _Meteorites in Collections_ 1863 p. 9.)

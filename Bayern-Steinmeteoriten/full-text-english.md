@@ -93,4 +93,6 @@ Iron(II) sulfide 5.72
 Chromite 0.75  
 Silicates 90.72  
 
+As far as the interpretation of the silicates is concerned, we have to first envisage the essential elements decomposable in hydrochloric acid.
+
 ...

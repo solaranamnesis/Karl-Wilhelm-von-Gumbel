@@ -101,4 +101,6 @@ FeO 37.30
 CaO 1.70  
 MgO 33.20  
 
+wherein, if the aluminium oxide and calcium oxide are counted towards a decomposed feldspar, as is likely, and a fraction of the iron(II) oxide subtracted as still originating from meteoritic iron, then the constituent elements decomposed by acids may not be interpreted in any way except as good and proper olivine.
+
 ...

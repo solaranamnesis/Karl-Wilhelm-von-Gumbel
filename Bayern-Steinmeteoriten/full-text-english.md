@@ -103,4 +103,6 @@ MgO 33.20
 
 wherein, if the aluminum oxide and calcium oxide are counted towards a decomposed feldspar, as is likely, and a fraction of the iron(II) oxide subtracted as still originating from meteoritic iron, then the constituent elements decomposed by acids may not be interpreted in any way except as good and proper olivine. That a portion of the iron is oxidized, and thereby appears to slightly increase the content of alkalis, is already indicated by the rust patches, which are present in the mass and sometimes quite widespread.
 
+As far as this or the silicates of the leftover components are concerned, the relatively high silica and aluminum oxide content, in addition to that of the alkalis, arguably gives room to the presumption that, besides an augite mineral, there is also still a feldspar one present.
+
 ...

@@ -74,7 +74,7 @@ So that the chemical analysis was correct as well, the gentleman assistant Adolf
 Compounds: | Bulk analysis, 65.45% portion decomposable in hydrochloric acid | 34.55% remainder elemental parts
 
 Silicon dioxide | 38.14 | 23.23 | 61.39  
-Aluminium oxide | 2.51 | 1.20 | 5.00  
+Aluminum oxide | 2.51 | 1.20 | 5.00  
 Iron(II) oxide | 25.70 | 32.72 | 17.59  
 Iron & Nickel | 6.30 | 9.65 | -. -  
 Sulfur | 2.09 | 3.20 | -. -  
@@ -101,6 +101,6 @@ FeO 37.30
 CaO 1.70  
 MgO 33.20  
 
-wherein, if the aluminium oxide and calcium oxide are counted towards a decomposed feldspar, as is likely, and a fraction of the iron(II) oxide subtracted as still originating from meteoritic iron, then the constituent elements decomposed by acids may not be interpreted in any way except as good and proper olivine.
+wherein, if the aluminum oxide and calcium oxide are counted towards a decomposed feldspar, as is likely, and a fraction of the iron(II) oxide subtracted as still originating from meteoritic iron, then the constituent elements decomposed by acids may not be interpreted in any way except as good and proper olivine.
 
 ...

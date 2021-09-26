@@ -105,7 +105,7 @@ wherein, if the aluminum oxide and calcium oxide are counted towards a decompose
 
 As far as this or the silicates of the leftover components are concerned, the relatively high silica and aluminum oxide content, in addition to that of the alkalis, arguably gives room to the presumption that, besides an augite mineral, there is also still a feldspar one present. At the same time though, even with this conjecture, there still remains a large excess of silica, which one cannot assume develops in the form of a precipitated quartz mineral, because on examination of thin sections in reflected light there is no trace of an admixture with anything usually recognizable due to the intense sparkle that can be observed in quartz. This behavior is only provisionally unexplained.
 
-The same meteoritic stone has recently been subjected to a chemical analysis from another aspect. Rammelsberg uses (_The Chemical Nature of the Meteorites_, papers of the Academy of Sciences in Berlin, for 1870 p. 148 and following) as the result of the investigation performed by [Frank] Crook*: Composition:
+The same meteoritic stone has recently been subjected to a chemical analysis from another aspect. [Carl] Rammelsberg uses (_The Chemical Nature of the Meteorites_, papers of the Academy of Sciences in Berlin, for 1870 p. 148 and following) as the result of the investigation performed by [Frank] Crook*: Composition:
 
 *) On the chemical constitution of the meteoric stones. Göttingen Dissert. (Not available to me).
 

@@ -101,6 +101,6 @@ FeO 37.30
 CaO 1.70  
 MgO 33.20  
 
-wherein, if the aluminum oxide and calcium oxide are counted towards a decomposed feldspar, as is likely, and a fraction of the iron(II) oxide subtracted as still originating from meteoritic iron, then the constituent elements decomposed by acids may not be interpreted in any way except as good and proper olivine.
+wherein, if the aluminum oxide and calcium oxide are counted towards a decomposed feldspar, as is likely, and a fraction of the iron(II) oxide subtracted as still originating from meteoritic iron, then the constituent elements decomposed by acids may not be interpreted in any way except as good and proper olivine. That a portion of the iron is oxidized, and thereby appears to slightly increase the content of alkalis, is already indicated by the rust patches, which are present in the mass and sometimes quite widespread.
 
 ...

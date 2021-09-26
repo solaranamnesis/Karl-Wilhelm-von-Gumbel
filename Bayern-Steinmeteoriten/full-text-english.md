@@ -107,6 +107,6 @@ As far as this or the silicates of the leftover components are concerned, the re
 
 The same meteoritic stone has recently been subjected to a chemical analysis from another aspect. [Carl] Rammelsberg uses (_The Chemical Nature of the Meteorites_, papers of the Academy of Sciences in Berlin, for 1870 p. 148 and following) as the result of the investigation performed by [Frank] Crook*: Composition:
 
-*) On the chemical constitution of the meteoric stones. Göttingen Dissert. (Not available to me).
+*) On the Chemical Constitution of the [Ensisheim, Mauerkirchen, Shergotty, and Muddoor] Meteoric Stones. Göttingen Dissertation. (Not available to me).
 
 ...

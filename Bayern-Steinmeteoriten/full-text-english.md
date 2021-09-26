@@ -109,4 +109,20 @@ The same meteoritic stone has recently been subjected to a chemical analysis fro
 
 *) _On the Chemical Constitution of the [Ensisheim, Mauerkirchen, Shergotty, and Muddoor] Meteoric Stones_. Göttingen Dissertation. (Not available to me).
 
+3.52% Meteoritic iron  
+1.92% Iron(II) sulfide  
+0.72% Chromium iron  
+92.68% Silicates  
+100.00 in fact:  
+the silicates are present as:
+
+Substance: | Bulk analysis as a whole | in which 61% is decomposable by acids. Fraction. | in which 39% is undecomposable in acids. Fraction.  
+Silica | 44.81 | 32.68 | 3.94  
+Aluminum oxide | 1.24 | 9.36 | 4.17  
+Iron(II) oxide | 24.55 | 28.91 | 17.71  
+Magnesium oxide | 26.10 | 37.44 | 8.20  
+Calcium oxide | 2.28 | 0.61 | 4.91  
+Natron | 0.26 | - | 0.67  
+Potash | 0.16 | - | 0.40  
+
 ...

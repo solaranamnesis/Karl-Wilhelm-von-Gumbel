@@ -117,7 +117,7 @@ The same meteoritic stone has recently been subjected to a chemical analysis fro
 the silicates are present as:
 
 Substance: | Bulk analysis as a whole | in which 61% is decomposable by acids. Fraction. | in which 39% is undecomposable in acids. Fraction.  
-Silica | 44.81 | 32.68 | 3.94  
+Silicon dioxide | 44.81 | 32.68 | 3.94  
 Aluminum oxide | 1.24 | 9.36 | 4.17  
 Iron(II) oxide | 24.55 | 28.91 | 17.71  
 Magnesium oxide | 26.10 | 37.44 | 8.20  

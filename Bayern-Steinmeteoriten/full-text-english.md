@@ -125,6 +125,6 @@ Calcium oxide | 2.28 | 0.61 | 4.91
 Natron | 0.26 | - | 0.67  
 Potash | 0.16 | - | 0.40  
 
-These results deviate so considerably from those communicated earlier, that for this no other grounds can be found except for the wide inequality in the composition of the meteoritic stones, which all the more expresses the greater level of importance of the findings of this examination, with one being obliged to work with ever smaller quantities. The microscopic examination of the thin sections directly supported this supposition, by allowing the broadest inconsistency in the manner of distribution of the constituent pieces to be perceived.
+These results deviate so considerably from those communicated earlier, that for this no other grounds can be found except for the wide inequality in the composition of the meteoritic stones, which all the more expresses the greater level of importance of the findings of this examination, with one being obliged to work with ever smaller quantities. The microscopic examination of the thin sections directly supported this supposition, by allowing the broadest inconsistency in the manner of distribution of the constituent pieces to be perceived. A larger grain of this or that consitutent member mixed into the expended sample, in the case of low quantities, affects the numbers in a sizable way.
 
 ...

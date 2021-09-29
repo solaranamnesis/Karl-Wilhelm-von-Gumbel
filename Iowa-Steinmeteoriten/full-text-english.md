@@ -183,4 +183,4 @@ Bringing together the findings of this survey of the stone meteorite of Iowa, th
 
 3) The meteoritic iron granules are nestled between the little mineral slivers and globules, as if they were formed retroactively due to reduction.
 
-4) There is nothing to be found in the rock of glass or lava-like admixtures (with the exception of the fusion crust). It is not a crystalline rock that solidified from a melt flow, but rather a clastic rock, the aggregate particles of which do not have the properties of volcanic ash.
+4) There is nothing to be found in the rock of glass- or lava-like admixtures (with the exception of the fusion crust). It is not a crystalline rock that solidified from a melt flow, but rather a clastic rock, the aggregate particles of which do not have the properties of volcanic ash.

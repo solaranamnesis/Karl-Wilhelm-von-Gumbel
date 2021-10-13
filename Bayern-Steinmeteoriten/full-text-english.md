@@ -135,6 +135,6 @@ The thin sections, which are challenging to produce because of the effortless fr
 
 ([Figure 2](https://cdn.solaranamnesis.com/Gumbel/Bayern/Fig-2.png) in the accompanying table)
 
-Concerning the fall of these stones, it was told that in the so-called Wittmes, a wooded area about five kilometers to the west of Eichstädt [Eichstätt], on February 19, 1785 in the afternoon between twelve and one o'clock, a laborer at a brick mill saw, after a thunder-like roar, a great black rock fall onto ground covered with snow on which bricks were lying around.
+Concerning the fall of these stones, it was told that in the so-called Wittmes, a wooded area about five kilometers to the west of Eichstädt [Eichstätt], on February 19, 1785 in the afternoon between twelve and one o'clock, a laborer at a brick mill saw, after a thunder-like roar, a great black rock fall onto ground covered with snow on which bricks were lying around. When he went to the spot, he found the stone, which had shattered a brick, one hand deep in the ground and so hot that he at first had to cool it down with snow so that he could take hold of it.
 
 ...

@@ -137,4 +137,20 @@ The thin sections, which are challenging to produce because of the effortless fr
 
 Concerning the fall of these stones, it was told that in the so-called Wittmes, a wooded area about five kilometers to the west of Eichstädt [Eichstätt], on February 19, 1785 in the afternoon between twelve and one o'clock, a laborer at a brick mill saw, after a thunder-like roar, a great black rock fall onto ground covered with snow on which bricks were lying around. When he went to the spot, he found the stone, which had shattered a brick, one hand deep in the ground and so hot that he at first had to cool it down with snow so that he could take hold of it. The stone was approximately a foot in diameter and, parenthetically, weighed three kilograms. Schafhäutl (academic notice in the Academy of Sciences in Munich, 1847 p. 559.) describes the same as follows: "Its structure is considerably coarse-grained, the grains being more roundish than is the case in all those remaining aerolites; indeed, even completely elliptical, polished looking granules of a grayish color are found, with compact, kind of matt, flat breaks in them, devoid of perceivable crystalline texture. Alongside these are situated greenish, olivine-like grains with glassy, conchoidal breaks. Ferrous sulfide, nickel iron, and magnetite are dissiminated among these grains, so that of all the meteoritic stones in our collection (Munich's State Collection), it has the strongest effect on the magnetic needle."
 
+The specific weight* is given:
+
+from Schreibers as 3.700  
+from Rumler as 3.599  
+
+*) Vergl. Moll's Annal, d. Berg- u. Hüttenk. Vol. 3. p. 251.
+
+Klaproth has analyzed this stone and gives (Gilberts Ann. 13. 338) as its component parts:
+
+Solid iron 19.00  
+Nickel metal 1.50  
+Brown iron oxide 16.50  
+Magnesium oxide 21.50  
+Silicas 37.00  
+Loss (with sulfur) 4.50  
+
 ...

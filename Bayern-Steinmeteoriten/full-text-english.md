@@ -153,4 +153,6 @@ Magnesium oxide 21.50
 Silicas 37.00  
 Loss (with sulfur) 4.50  
 
+The piece stored in the Munich State Collection shows a black, matt-glossed, rugose crust, and a whitish gray, coarse-grained chondritic, easily broken main mass, dotted yellowish here and there by numerous rust stains, and from which huge chondrules can often easily be disengaged.
+
 ...

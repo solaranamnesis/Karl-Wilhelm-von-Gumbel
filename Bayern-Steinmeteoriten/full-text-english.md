@@ -159,12 +159,12 @@ As concerns its composition, the analysis (Assistant A. Schwager) has yielded th
 
 22.98 meteoritic iron,  
 3.82 iron(II) sulfide,  
-32.44 decomposable in hydrochloric acid,  
-40.76 minerals not decomposable in hydrochloric acid.
+32.44 decomposable in acids,  
+40.76 minerals not decomposable in acids.
 
 The composition is on the whole A, then  
-B silicates decomposable in CI H  
-C components not decomposable in CI H:  
+B silicates decomposable in HCl  
+C components not decomposable in HCl:  
 
 | A. | B. | C.  
 Silica | 33.31 | 34.45 | 55.53  

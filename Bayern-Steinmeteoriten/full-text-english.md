@@ -180,7 +180,7 @@ Potash | 0.40 | 0.68 | 0.56
 Natron | 1.04 | 1.31 | 1.62  
 | 99.15 | 99.81 | 100.70
 
-The content of the constituent parts decomposable by hydrochloric acid, excluding the olivine, indicates a feldspar. Though we have in it:
+The content of the constituent parts decomposable by acids, excluding the olivine, indicates a feldspar. Though we have in it:
 
 SiO₂ 34.45 with 18.37 oxygen  
 Al₂O₃ 0.86 with 0.40  

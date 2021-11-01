@@ -165,8 +165,8 @@ Was seine Zusammensetzung anbelangt, so hat die Analyse (Ass. A. Schwager) ergeb
 40,76 in Salzsäure nicht zersetzbaren Mineralien.  
 
 Die Zusammensetzung ist im Ganzen A, dann  
-B in den durch CI H zersetzbaren Silicaten  
-C in dem durch CI H nicht zersetzbaren Bestandteil:  
+B in den durch Cl H zersetzbaren Silicaten  
+C in dem durch Cl H nicht zersetzbaren Bestandteil:  
 
  | A. | B. | C.  
 Kieselerde | 33,31 | 34,45 | 55,53  

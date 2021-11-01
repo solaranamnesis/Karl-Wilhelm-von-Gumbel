@@ -190,4 +190,6 @@ CaO 0.68 with 0.19
 Ka₂O 0.68 with 0.11  
 Na₂O 1.31 with 0.34  
 
+Out of this one sees that if we precipitate a unisilicate the oxygen proportion is still not fully sufficient to completely satisfy the requirements, therefore the analysis does not transmit to us any information about the nature of the silicates still present, other than some more olivine.
+
 ...

@@ -192,4 +192,15 @@ Na₂O 1.31 with 0.34
 
 Out of this one sees that if we precipitate a unisilicate the oxygen proportion is still not fully sufficient to completely satisfy the requirements, therefore the analysis does not transmit to us any information about the nature of the silicates still present, other than some more olivine.
 
+Finally, in the rest of that not decomposed by acids, the ratios provide the following measure:
+
+Silica 55.53 with 29.62 O = 22.6 + 7  
+Iron(II) oxide 16.66 with 3.70 O = 3.58 + 0.12  
+Magnesium oxide 19.34 with 7.73 O  
+Chromium oxide 0.73 with 0.23 O  
+Aluminium oxide 5.13 with 2.39 O = 2.33 + 0.06  
+Calcium oxide 1.13 with 0.32 O  
+Potash 0.56 with 0.10 O  
+Natron 1.62 with 0.42 O  
+
 ...

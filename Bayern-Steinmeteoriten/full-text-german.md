@@ -194,7 +194,7 @@ Na₂O 1,31 mit 0,34
 
 Daraus er sieht man, dass, wenn wir ein Singulosilikat ausscheiden, die vorhandene Sauerstoffmenge noch nicht einmal vollständig ausreicht, den Bedarf ganz zu decken, dass mithin die Analyse uns keinen Aufschluss über die Natur des etwa noch außer Olivin vorhandenen Silikats weitergibt.
 
-In dem von Säuren nicht zersetzbaren Best endlich stellen sich die Verhältnisse folgender Maassen:
+In dem von Säuren nicht zersetzbaren Rest endlich stellen sich die Verhältnisse folgender Maassen:
 
 Kieselerde 55,53 mit 29,62 O = 22,6 + 7  
 Eisenoxydul 16,66 mit 3,70 O = 3,58 + 0,12  

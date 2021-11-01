@@ -155,4 +155,39 @@ Loss (with sulfur) 4.50
 
 The piece stored in the Munich State Collection shows a black, matt-glossed, rugose crust, and a whitish gray, coarse-grained chondritic, easily broken main mass, dotted yellowish here and there by numerous rust stains, and from which huge chondrules can often easily be disengaged. They are found up to about 3 mm. wide in diameter, they are very hard, at the surface matt, knobbed like strawberries and grubbed in such a manner that the connected little mineral fragments of the main mass appear as if cemented to the surface. Moreover, one notices small reflective stripes in many places, whereby it appears faceted, so to speak. Tightly intergrown little meteoritic iron bits also occur, which are sometimes sunk into the surface. A smoothing of the surface never presents itself, as deposits must, if the globules were caused by abrasion and tumbling. They rather resemble, according to their external texture, the pig iron stone pellets that are found in slags. If one shatters them, then they reveal a flat conchoidal surface break, a matt glassy luster, a blackish grey color and with further fragmentation, they prove themselves under the microscope to be not a homogeneous, but a composite mass. One can clearly discern a clear glass pervaded with numerous small vesicles, in polarized light exceptional motley colored constituent parts alongside merely translucent cloudy ones, as though composed of the tiniest dust particles, but, in polarized light still clearly colored, the main body is at times finely striped and distinctly a translucent intense yellowish-brown, distingusihed in polarized light by unaffected tinted small stripes. In thin sections one sees their structure even more clearly, although here they are situated in a dark colored main mass and obtaining good transparency is challenging. Due to the occurrence of quite a lot of mixed pieces of meteoritic iron that are in large part already slightly corroded and surrounded by a small ring of yellowish brown color, the clarity of those little mineral pieces, which otherwise stand out by their transparency, also suffer. The yellow color is due to the ferric oxyhydroxide, which was formed by the exposure of the meteoritic iron to the humid air of our atmosphere, primarily retroactive throughout the time that the stone has lain on the Earth or in our collections. This ferric oxyhydroxide penetrates into the finest little rifts and seams or any spaces in between, but can easily be removed by acids. Apart from the meteoritic iron there are added little mineral chips, irregularly scattered and seldomly containing parallel lines, of the aggregate material that comprises the meteoritic stone. Sometimes there are water-clear, slightly cracked little remains, sometimes striated with a system of straight parallel lines or are traversed by jagged rips at oblique downward angles, something like it is found preserved in augite, or else by a cell network similar to certain moss lamella, a curiously elongated and transversly divided mesh structure (_d_) stands out. Occasionally in a piece of the debris a number of systems of such little parallel strips bump together. In between these larger fragments lie smaller ones entirely of the same character as the greater aggregate. In polarized light all the small parts, which in general are merely transparent, show up in variegated colors, inside which are distributed individual aggregate-like slivers, and occasionally run parallel, striped or belt-like. Ultimately, the spheroidal inclusions already alluded to turn out to be exceptionally common components. Of the the manifold forms they possess, we emphasize merely a few that are commonly found. Considerably numerous are the chondrules with an eccentric, radially fibrous assemblage (_a_), which as a rule emanates from a more granular section located near the rim and in quite a few cases is detached, in a similar way mesh-like and cross-divided tufts of rays taper off. This structure agrees so well with those already described, which we come across on other regularly defined little fragments, that we have to consider the latter as the derivatives of broken, larger chondrules. Others of the latter are composed of different systems of darker little striations traversing at acute and obtuse angles (_b_), a structure that can be considered as the inception of a crystalline mode of periodic disrupted formation. In addition, other chondrules occur with a cloudy dust-like, slightly translucent substance, often in which very numerous, densely packed, lighter little strips (_c_) are noticeably dispersed groupwise following different angles. Finally, it is not uncommon for globules to occur, which seem sintered together, so to speak, from larger, lighter granules (_e_) separated from each other by dark little strips in between. From all of this, it is sufficiently clear that in the stone of Eichstädt we have in front of us a chondrite of the finest kind. It can really be held as the type of this kind of structure, which is well-known as being prevalent in the meteoritic stones.
 
+As concerns its composition, the analysis has yielded that the stone is comprised of: 
+
+22.98 meteoritic iron,  
+3.82 iron(II) sulfide,  
+32.44 decomposable in hydrochloric acid,  
+40.76 minerals not decomposable in hydrochloric acid.
+
+The composition is on the whole A, then  
+B silicates decomposable in CI H  
+C components not decomposable in CI H:  
+
+| A. | B. | C.  
+Silica | 33.31 | 34.45 | 55.53  
+Aluminium oxide | 2.31 | 0.86 | 5.13  
+Iron(II) oxide | 15.34 | 24.52 | 16.66  
+Iron (with phosphorus) | 24.64 | - | -  
+Nickel | 0.94 | - | -  
+Calcium oxide | 0.74 | 0.68 | 1.13  
+Sulfur | 1.42 | - | -  
+Chromium oxide | 0.15 | - | 0.73  
+Magnesium oxide | 18.86 | 37.31 | 19.34  
+Potash | 0.40 | 0.68 | 0.56  
+Natron | 1.04 | 1.31 | 1.62  
+| 99.15 | 99.81 | 100.70
+
+The content of the constituent parts decomposable by hydrochloric acid, excluding the olivine, indicates a feldspar. Though we have in it:
+
+SiO₂ 34.45 with 18.37 oxygen  
+Al₂O₃ 0.86 with 0.40  
+FeO 24.52 with 5.45  
+MgO 37.31 with 14.90  
+CaO 0.68 with 0.19  
+Ka₂O 0.68 with 0.11  
+Na₂O 1.31 with 0.34  
+
 ...

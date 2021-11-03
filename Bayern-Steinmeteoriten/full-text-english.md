@@ -215,4 +215,6 @@ Mineral of the augite group 31.90
 Andesine-like feldspar 8.46  
 Feldspar-like mineral 1.54  
 
+The frequent occurrence and relative size of the chondrules led to a special analysis these globules.
+
 ...

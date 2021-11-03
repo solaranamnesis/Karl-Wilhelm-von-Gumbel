@@ -203,7 +203,7 @@ Calcium oxide 1.13 with 0.32 O
 Potash 0.56 with 0.10 O  
 Natron 1.62 with 0.42 O  
 
-Out of this is worked out a bisilicate, chromium iron (of the composition of those of L'Aigle), and an andesine-like feldspar in a proportion of approximately 79 : 1 : 21.
+Out of this is worked out a bisilicate, chromium iron (of the composition of L'Aigle), and an andesine-like feldspar in a proportion of approximately 79 : 1 : 21.
 
 So, in total, the Eichstädt meteorite is roughly made of:
 

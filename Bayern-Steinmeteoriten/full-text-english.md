@@ -207,4 +207,12 @@ Out of this is worked out a bisilicate, chromium iron (of the composition of tho
 
 So, in total, the Eichstädt meteorite is roughly made of:
 
+Meteoritic iron 22.98  
+Iron(II) sulfide 3.82  
+Chromium iron 0.40  
+Olivine 31.00  
+Mineral of the augite group 31.90  
+Andesine-like feldspar 8.46  
+Feldspar-like mineral 1.54  
+
 ...

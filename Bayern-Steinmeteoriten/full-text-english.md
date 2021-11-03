@@ -215,6 +215,6 @@ Mineral of the augite group 31.90
 Andesine-like feldspar 8.46  
 Feldspar-like mineral 1.54  
 
-The frequent occurrence and relative size of the chondrules led to a special analysis these globules.
+The frequent occurrence and relative size of the chondrules led to a special analysis these globules. In order to be sure that the processed material was free of the smallest adhering mineral pieces, the chondrules were rubbed back and forth on a dull sanding glass plate, until their surface was made completely smooth and shiny.
 
 ...

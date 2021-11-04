@@ -234,4 +234,6 @@ Calcium oxide | 1.00 with 0.29 O | 3.67 with 1.05 O
 Alkalis | 8.00 with 1.70 O | - -  
 | 99.98 | 98.16  
 
+To begin with, it is noteworthy that, as has already been noted on another page, the composition of the chondrules is almost the same as that of the whole mass, and can themselves be dissolved into two similar portions through treatment with acids. 
+
 ...

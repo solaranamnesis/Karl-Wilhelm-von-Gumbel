@@ -236,7 +236,7 @@ Kalkerde | 1,00 mit 0,29 O | 3,67 mit 1,05 O
 Alkalien | 8,00 mit 1,70 O | - -  
  | 99,98 | 98,16  
 
-Es ist zunächst hervorzuheben, dass, wie auch schon von anderer Seite bemerkt wurde, die Zusammensetzung der Chondren nahezn die nämliche ist, wie die der ganzen Masse und sich durch die Behandlung mit Säuren in zwei ähnliche Teile scheiden lässt.
+Es ist zunächst hervorzuheben, dass, wie auch schon von anderer Seite bemerkt wurde, die Zusammensetzung der Chondren nahezu die nämliche ist, wie die der ganzen Masse und sich durch die Behandlung mit Säuren in zwei ähnliche Teile scheiden lässt.
 
 Der in Salzsäure zerlegbare Teil, abgesehen von Resten eines Gehaltes an Meteoreisen und Schwefeleisen, schließt sich am engsten an Olivin an. Aber es mangelt auch hier, wie in zahlreichen Fällen bei analysierten Chondriten an Kieselsäure. Ich möchte vermuten, dass dies hier von einem Überschass an Eisenoxydul herrührt, das, anstatt von zersetzem Olivin, von fein beigemengtem Meteoreisen abstammt. Tonerde, Kalkerde und Alkalien weisen auf eine Beimengung feldspatartiger Teilchen, wie bei der Hauptmasse der Chondrite hin. Doch bietet die Interpretation dieses Teils immerhin Schwierigkeiten, die bis jetzt noch nicht beseitigt sind.
 

@@ -220,8 +220,8 @@ The frequent occurrence and relative size of the chondrules led to a special ana
 I found the composition as:
 
 Iron(II) sulfide 1.53  
-1. Decomposable in acid 53.05  
-2. Indecomposable in acid 45.42  
+1\. Decomposable in acid 53.05  
+2\. Indecomposable in acid 45.42  
 
 The composition of the silicates of 1 and 2 was also found  
 

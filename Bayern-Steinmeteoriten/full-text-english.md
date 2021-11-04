@@ -215,13 +215,13 @@ Mineral of the augite group 31.90
 Andesine-like feldspar 8.46  
 Feldspar-like mineral 1.54  
 
-The frequent occurrence and relative size of the chondrules led to a special analysis of these globules. In order to be sure that the processed material was free of the smallest adhering mineral pieces, the chondrules were rubbed back and forth on a dull sanding glass plate, until their surface was made completely smooth and shiny. Unfortunately, the amount at my disposal was only very small (0.12 Gr.) and as a result the analysis was not able to be made with greater accuracy. From preliminary studies it had already been ascertained that the substance of the chondrules separates into a decomposable and an indecomposable mass in acid. The former additionally includes ferrous sulfide, which, as the examination in thin sections teaches, is found as tiny granules tightly grown together and, so to speak, sunk into the globules.
+The frequent occurrence and relative size of the chondrules led to a special analysis of these globules. In order to be sure that the processed material was free of the smallest adhering mineral pieces, the chondrules were rubbed back and forth on a dull sanding glass plate, until their surface was made completely smooth and shiny. Unfortunately, the amount at my disposal was only very small (0.12 Gr.) and as a result the analysis was not able to be made with greater accuracy. From preliminary studies it had already been ascertained that the substance of the chondrules separates into a decomposable and an indecomposable mass in hydrochloric acid. The former additionally includes ferrous sulfide, which, as the examination in thin sections teaches, is found as tiny granules tightly grown together and, so to speak, sunk into the globules.
 
 I found the composition as:
 
 Iron(II) sulfide 1.53  
-1\. Decomposable in acid 53.05  
-2\. Indecomposable in acid 45.42  
+1\. Decomposable in hydrochloric acid 53.05  
+2\. Indecomposable in hydrochloric acid 45.42  
 
 The composition of the silicates of 1 and 2 was also found  
 

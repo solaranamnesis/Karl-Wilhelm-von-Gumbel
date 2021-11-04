@@ -223,7 +223,7 @@ Iron(II) sulfide 1.53
 1. Decomposable in acid 53.05  
 2. Indecomposable in acid 45.42  
 
-The composotion of the silicates of 1 and 2 was also found  
+The composition of the silicates of 1 and 2 was also found  
 
 | 1 | 2  
 Silica | 26.26 with 14.22 O | 53.21 with 28.38 O  

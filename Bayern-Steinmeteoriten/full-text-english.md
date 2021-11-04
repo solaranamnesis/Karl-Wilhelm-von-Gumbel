@@ -217,4 +217,21 @@ Feldspar-like mineral 1.54
 
 The frequent occurrence and relative size of the chondrules led to a special analysis these globules. In order to be sure that the processed material was free of the smallest adhering mineral pieces, the chondrules were rubbed back and forth on a dull sanding glass plate, until their surface was made completely smooth and shiny. Unfortunately, the amount at my disposal was only very small (0.12 Gr.) and as a result the analysis was not able to be made with greater accuracy. From preliminary studies it had already been ascertained that the substance of the chondrules separates into a decomposable and an indecomposable mass in acid. The former additionally includes ferrous sulfide, which, as the examination in thin sections teaches, is found as tiny granules tightly grown together and, so to speak, sunk into the globules.
 
+I found the composition as:
+
+Iron(II) sulfide 1.53  
+1. Decomposable in acid 53.05  
+2. Indecomposable in acid 45.42  
+
+The composotion of the silicates of 1 and 2 was also found  
+
+| 1 | 2  
+Silica | 26.26 with 14.22 O | 53.21 with 28.38 O  
+Iron(II) oxide | 30.09 with 6.67 O | 14.86 with 3.30 O  
+Magnesium oxide | 31.53 with 12.60 O | 26.42 with 10.56 O  
+Aluminium oxide | 2.70 with 1.26 O | - -  
+Calcium oxide | 1.00 with 0.29 O | 3.67 with 1.05 O  
+Alkalis | 8.00 with 1.70 O | - -  
+| 99.98 | 98.16  
+
 ...

@@ -236,6 +236,6 @@ Alkalis | 8.00 with 1.70 O | - -
 
 To begin with, it is noteworthy that, as has already been noted on another page, the composition of the chondrules is almost the same as that of the whole mass, and can themselves be dissolved into two similar portions through treatment with acids. 
 
-The part dissolvable in hydrochloric acid, except for some residual content of meteoritic iron and ferrous sulfide, concurs closely with olivine. Though here too, as in numerous cases of analyzed chondrites, there is a lack of silica. I would like to assume that this originates from a surplus of ferrous oxide, which, instead of decomposed olivine, stems from finely admixed meteoritic iron.
+The part dissolvable in hydrochloric acid, except for some residual content of meteoritic iron and ferrous sulfide, concurs closely with olivine. Though here too, as in numerous cases of analyzed chondrites, there is a lack of silica. I would like to assume that this originates from a surplus of ferrous oxide, which, instead of decomposed olivine, stems from finely admixed meteoritic iron. Aluminum oxide, calcium oxide, and alkalis point to an admixture of small feldspar-like parts, as with the main mass of the chondrite.
 
 ...

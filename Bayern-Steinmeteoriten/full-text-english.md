@@ -248,4 +248,6 @@ About the nearby circumstances of the fall of these meteorites, Prof. Imhof (Bav
 
 *) Gilberts Ann. of Phys. 18. 330.
 
+"According to the administrative reports of the electoral provincial office, many of the country folk, who lived around the market town of Mässing (Massing) in the district of Eggenfelden, heard a bang like cannon fire, nine to ten times, on December 13, 1803 in the morning between ten and eleven o'clock.
+
 ...

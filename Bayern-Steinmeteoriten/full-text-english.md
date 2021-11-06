@@ -246,4 +246,6 @@ The remaining part, undecomposed in hydrochloric acid, fits much better with the
 
 About the nearby circumstances of the fall of these meteorites, Prof. Imhof (Bavarian Electoral Palatinate. Weekly Paper 1804 p. 3 and following) shares:
 
+*) Gilberts Ann. of Phys. 18. 330.
+
 ...

@@ -238,4 +238,6 @@ To begin with, it is noteworthy that, as has already been noted on another page,
 
 The part dissolvable in hydrochloric acid, except for some residual content of meteoritic iron and ferrous sulfide, concurs closely with olivine. Though here too, as in numerous cases of analyzed chondrites, there is a lack of silica. I would like to assume that this originates from a surplus of ferrous oxide, which, instead of decomposed olivine, stems from finely admixed meteoritic iron. Aluminum oxide, calcium oxide, and alkalis point to an admixture of small feldspar-like parts, as with the main mass of the chondrite. Yet, offering an interpretation of these components presents complications, which up till now are still not resolved.
 
+The remaining part, undecomposed in hydrochloric acid, fits much better with the measure of a bisilicate; even if a little bit of the silica is missing here, it can be considered a consequence of losses during the analysis itself, likely due to the low amount utilized in the analysis.
+
 ...

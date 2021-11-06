@@ -240,4 +240,8 @@ The part dissolvable in hydrochloric acid, except for some residual content of m
 
 The remaining part, undecomposed in hydrochloric acid, fits much better with the measure of a bisilicate; even if a little bit of the silica is missing here, it can be considered a consequence of losses during the analysis itself, likely due to the low amount utilized in the analysis.
 
+#### The Meteoritic Stone from Massing
+
+([Figure 3](https://cdn.solaranamnesis.com/Gumbel/Bayern/Fig-3.png) in the accompanying table)
+
 ...

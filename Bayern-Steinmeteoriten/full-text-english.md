@@ -260,6 +260,6 @@ About the nearby circumstances of the fall of these meteorites, Prof. Imhof (Bav
 
 5\. also white grains of an erratic form are sprinkled, some of which are over three linie thick,
 
-6\. under the microscope one additionally spots an off-white, simulating yellow, metal that obeys the magnet and is probably metallic nickel.
+6\. under the microscope one additionally spots an off-white, blending into yellow, metal that obeys the magnet and is probably metallic nickel.
 
 ...

@@ -256,4 +256,10 @@ About the nearby circumstances of the fall of these meteorites, Prof. Imhof (Bav
 
 3\. larger and smaller flattened, angular masses, some of a dark brown, others of a darker color, which differ from those due to their shimmery quality and greater hardness,
 
+4\. here and there one detects cubical granules and translucent flakes of a yellowish color and with a glassy luster, looking like quartz, though not possessing the hardness of quartz,
+
+5\. also white grains of an erratic form are sprinkled, some of which are over three Linien thick,
+
+6\. under the microscope one event spots an off-white, simulating yellow, metal that obeys the magnet and is probably metallic nickel.
+
 ...

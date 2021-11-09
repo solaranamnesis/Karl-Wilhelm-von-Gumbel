@@ -271,6 +271,6 @@ Magnesia 23.25
 Silicas 31.00  
 Losses in sulfur and nickel 10.06  
 
-Ammler gives (O. Büchner a a. O. p. 17) the specific weight as 3.3636.
+Ammler gives (O. Büchner _ibid_. p. 17) the specific weight as 3.3636.
 
 ...

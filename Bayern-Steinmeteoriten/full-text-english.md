@@ -262,7 +262,7 @@ About the nearby circumstances of the fall of these meteorites, Prof. Imhof (Bav
 
 6\. under the microscope one additionally spots an off-white, blending into yellow, metal that obeys the magnet and is probably metallic nickel.
 
-According to the analysis of this researcher, the stone divided into 100 fractions is made of:
+According to the analysis of this researcher, the stone, divided into 100 fractions, is made of:
 
 Reguline iron 1.80  
 Reguline nickel 1.35  

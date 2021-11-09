@@ -273,6 +273,6 @@ Losses in sulfur and nickel 10.06
 
 Ammler gives (O. Büchner _ibid_. p. 17) the specific weight as 3.3636.
 
-Prof. von Schafhäutl describes (_ibid_. p. 558) this stone "with the appearance of pumice porphyry, in which the constituent silicates occur in such large aggregates, that one is able to easily discern them with the naked eye.
+Prof. von Schafhäutl describes (_ibid_. p. 558) this stone, "with the appearance of pumice porphyry, in which the constituent silicates occur in such large aggregates, that one is able to easily discern them with the naked eye.
 
 ...

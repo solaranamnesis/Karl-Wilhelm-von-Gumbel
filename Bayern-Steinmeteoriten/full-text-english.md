@@ -273,6 +273,6 @@ Losses in sulfur and nickel 10.06
 
 Ammler gives (O. Büchner _ibid_. p. 17) the specific weight as 3.3636.
 
-Prof. von Schafhäutl describes (_ibid_. p. 558) this stone, "with the appearance of pumice porphyry, in which the constituent silicates occur in such large aggregates, that one is able to easily discern them with the naked eye. The stone is comprised of milky white grains with sheet-like radial structures, of granular olivine-like pea-sized masses, and partly of dull, basalt-like fragments, which, however, from time to time show up with augite-like cleavage planes, even shiny like glass. Scattered, cracked, iridescent ferrous sulfide and granules of chromium iron are found sparingly. The stone does not have an effect on the magnetic needle.
+Prof. von Schafhäutl describes (_ibid_. p. 558) this stone, "with the appearance of pumice porphyry, in which the constituent silicates occur in such large aggregates, that one is able to easily discern them with the naked eye. The stone is comprised of milky white grains with sheet-like radial structures, of granular olivine-like pea-sized masses, and partly of dull, basalt-like fragments, which, however, from time to time show up with augite-like cleavage planes, even shiny like glass. Scattered, cracked, iridescent ferrous sulfide and granules of chromium iron are found sparingly. The stone does not have an effect on the magnetic needle. With the Lötrohr it quite easily melts and is covered with a glassy, shiny glaze, like the aerolite from Stannern."
 
 ...

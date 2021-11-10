@@ -279,7 +279,7 @@ Prof. v. Schafhäutl beschreibt (a. a. O. S. 558) diesen Stein „vom Aussehen d
 
 Nach meinen Beobachtungen besitzt der Stein eine braunschwarze glasglänzende Rinde und besteht in seiner graulich weißen, ziemlich leicht zerreiblichen Masse aus:
 
-1) einem gelblich grünen bis hellgrünen, etwas parallelrissigen, in rundlich und unregelmäßigen Körnchen (wie in Krystallform) vorkommenden, ziemlich großen, 1 — 1 1/2 mm. im Durchmesser breiten, nur sporadisch erscheinenden Gemengteil, der durch Säuren leicht zersetzt wird and als Olivin gelten muss.
+1) einem gelblich grünen bis hellgrünen, etwas parallelrissigen, in rundlich und unregelmäßigen Körnchen (wie in Krystallform) vorkommenden, ziemlich großen, 1 — 1 1/2 mm. im Durchmesser breiten, nur sporadisch erscheinenden Gemengteil, der durch Säuren leicht zersetzt wird und als Olivin gelten muss.
 
 2) aus einem weißen, oft glasartig durchsichtigen oder staubig trüben, nur durchscheinenden, stark rissigen, selten parallelstreifigen, zuweilen mit deutlichen Spaltflächen versehenen Mineral, das i. p. L. lebhaft ein- oder fleckig vielfarbig erscheint und von Säuren gleichfalls zersetzt wird, einem Feldspat entsprechend,
 

@@ -277,4 +277,6 @@ Prof. von Schafhäutl describes (_ibid_. p. 558) this stone, "with the appearanc
 
 According to my observations, the stone has a brownish black crust, shiny like glass, and its grayish white, easily friable mass is comprised of:
 
+1\. yellowish green to light green, somewhat parallely cracked, considerably large 1 - 1 1/2 mm. wide in diameter, rounded and irregular granules (as in crystalline form) that occur only sporadically as seemingly admixed pieces, which are easily disintegrated by acids and must be held as olivine.
+
 ...

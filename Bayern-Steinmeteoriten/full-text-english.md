@@ -279,4 +279,6 @@ According to my observations, the stone has a brownish black crust, shiny like g
 
 1\. yellowish green to light green, somewhat parallely cracked, considerably large 1 - 1 1/2 mm. wide in diameter, rounded and irregular granules (as in crystalline form) that occur only sporadically as seemingly admixed pieces, which are easily disintegrated by acids and must be held as olivine.
 
+2\. of a white mineral, often transparent like glass or merely translucent like a dusty cloud, heavily cracked, seldomly with parallel stripes, furnished at times with clear cleavage surfaces that in polarized light come across as vivid single- or multi-colored patches, and that is also disintegrated by acids, in accordance with a feldspar.
+
 ...

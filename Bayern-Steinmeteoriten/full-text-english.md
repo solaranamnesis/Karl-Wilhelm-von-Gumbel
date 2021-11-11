@@ -287,4 +287,6 @@ According to my observations, the stone has a brownish black crust, shiny like g
 
 4\. of black, intensely shiny chromium iron, not decomposable in acids, that provides a magnificent green glass in the phosphate test.
 
+5\. finally, of dark, metallic granules, to some extent pulled by the magnet, which are in most cases related to ferrous sulfide, or at least meteoritic iron.
+
 ...

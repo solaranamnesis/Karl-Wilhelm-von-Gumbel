@@ -341,4 +341,12 @@ Alkalis | 15 | -
 
 Furthermore, considering that the ratio decomposable and not decomposable in hydrochloric acid is 21.33 to 78.67, one is able, in accordance with the above mentioned interpretation, to roughly imagine a composition made of: 
 
+Olivine 2.00  
+Iron(II) sulfide 0.75  
+Meteoritic iron 0.25  
+Chromium iron 2.00  
+Anorthite 18.00  
+2nd feldspathic substance 11.00  
+Augite mineral 66.00  
+
 ...

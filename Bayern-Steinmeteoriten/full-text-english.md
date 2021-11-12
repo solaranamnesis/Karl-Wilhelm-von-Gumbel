@@ -325,4 +325,18 @@ Alkalis | 6 | -
 
 As concerns the remaining 78.67% fraction, not decomposable by acids, one must even here presume a small percentage of feldspar in addition to chromium iron and augite, on the order of:
 
+2.5% Chromium iron  
+13.5% Feldspar-like substance (A)  
+84.0% Augite mineral (B).
+
+Both of the latter (A and B) would come up with a composition as follows:
+
+| A | B  
+Silica | 66 | 86  
+Aluminium oxide | 19 | -  
+Iron(II) oxide | - | 36  
+Calcium oxide | - | 4  
+Magnesium oxide | - | 14  
+Alkalis | 15 | -  
+
 ...

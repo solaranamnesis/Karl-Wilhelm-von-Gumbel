@@ -291,4 +291,20 @@ According to my observations, the stone has a brownish black crust, shiny like g
 
 All of these larger, prevalently roundish, irregularly cornered (not longish spear-shaped) small pieces are situated in a fine particulate-like, granular, gray matrix, which seems to be comprised of the same little and tiny slivers as was just mentioned. Here too, a glass-like binding mass is not detected.
 
+The analysis of A. Schwager's yielded:
+
+Substance: | Bulk Analysis | 21.33% decomposable in hydrochloric acid | 78.67% not decomposable in hydrochloric acid  
+Silica | 52.115 | 39.59 | 56.71  
+Aluminium oxide | 8.204 | 29.51 | 2.54  
+Iron(II) oxide | 19.138 | 2.83 | 23.46  
+Iron | 0.523 | 2.49 | -  
+Nickel | Traces | Traces | -  
+Chromium oxide | 0.979 | - | 1.24  
+Calcium oxide | 5.786 | 15.70 | 3.15  
+Magnesium oxide | 8,485 | 3.33 | 10.74  
+Potash | 1.188 | 4.78 | 0.85  
+Natron | 1.928 | 4.78 | 1.17  
+Sulfur | 0.374 | 1.78 | -  
+| 99.720 | 100.06 | 99.86
+
 ...

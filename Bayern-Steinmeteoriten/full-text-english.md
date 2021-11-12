@@ -329,7 +329,7 @@ As concerns the remaining 78.67% fraction, not decomposable by acids, one must e
 13.5% Feldspar-like substance (A)  
 84.0% Augite mineral (B).
 
-Both of the latter (A and B) would come up with a composition as follows:
+Both of the latter (A and B) have come up with a composition as follows:
 
 | A | B  
 Silica | 66 | 86  

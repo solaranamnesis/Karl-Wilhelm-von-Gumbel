@@ -285,7 +285,7 @@ According to my observations, the stone has a brownish black crust, shiny like g
 
 3\. of a wine yellow to greyish green, or faintly reddish brown, glass-like matte polished mineral, 1.5 to 2 mm. large, colored vividly in polarized light, through not dichroic, some longitudinal fibers (but unclear, striated) and suffused with abundant small bubbles. These component parts are not decomposed by acids and belong to the augite group.
 
-4\. of black, intensely shiny chromium iron, not decomposable in acids, that provides a magnificent green glass in the phosphate test.
+4\. of black, intensely shiny chromium iron, not decomposable in acids, that yielded a magnificent green glass in the phosphate test.
 
 5\. finally, of dark, metallic granules, to some extent pulled by the magnet, which are in most cases related to ferrous sulfide, or at least meteoritic iron.
 

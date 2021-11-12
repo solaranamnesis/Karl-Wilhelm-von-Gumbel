@@ -307,4 +307,20 @@ Natron | 1.928 | 4.78 | 1.17
 Sulfur | 0.374 | 1.78 | -  
 | 99.720 | 100.06 | 99.86
 
+The 21.33% fraction that can be decomposed by hydrochloric acid can be calculated, according to the observed content of sulfur, magnesium oxide, and aluminium oxide, as approximately consisting of:
+
+10% Olivine (hyalosiderite)  
+86% Anorthite with high alkali content  
+4% Iron(II) sulfide and meteoritic iron  
+
+In rounded numbers, feldspar A and olivine B would be comprised of:
+
+| A | B  
+Silica | 42 | 37.25  
+Aluminium oxide | 34 | -  
+Iron(II) oxide | - | 29.75  
+Calcium oxide | 18 | -  
+Magnesium oxide | - | 33.00  
+Alkalis | 6 | -
+
 ...

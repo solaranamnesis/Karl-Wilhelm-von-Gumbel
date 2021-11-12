@@ -339,4 +339,6 @@ Calcium oxide | - | 4
 Magnesium oxide | - | 14  
 Alkalis | 15 | -  
 
+Furthermore, considering that the ratio decomposable and not decomposable in hydrochloric acid is 21.33 to 78.67, one is able, in accordance with the above mentioned interpretation, to roughly imagine a composition made of: 
+
 ...

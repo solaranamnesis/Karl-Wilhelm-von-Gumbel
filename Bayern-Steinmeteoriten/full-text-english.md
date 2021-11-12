@@ -289,4 +289,6 @@ According to my observations, the stone has a brownish black crust, shiny like g
 
 5\. finally, of dark, metallic granules, to some extent pulled by the magnet, which are in most cases related to ferrous sulfide, or at least meteoritic iron.
 
+All of these larger, prevalently roundish, irregularly cornered (not longish spear-shaped) small pieces are situated in a fine particulate-like, granular, gray matrix, which seems to be comprised of the same little and tiny slivers as was just mentioned. Here too, a glass-like binding mass is not detected.
+
 ...

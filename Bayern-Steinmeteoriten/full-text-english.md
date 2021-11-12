@@ -323,4 +323,6 @@ Calcium oxide | 18 | -
 Magnesium oxide | - | 33.00  
 Alkalis | 6 | -
 
+As concerns the remaining 78.67% fraction, not decomposable by acids, one must even here presume a small percentage of feldspar in addition to chromium iron and augite, on the order of:
+
 ...

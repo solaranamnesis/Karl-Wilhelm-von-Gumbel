@@ -353,6 +353,6 @@ Up till now the stone of Massing has been placed on the side of Luotolax and Ram
 
 I think that it has more correspondence with the augite group of the eucrites because the olivine is very sparse in extant.
 
-We first want to see how this understanding of the optical examination of the thin sections, as shown in Figure 3, fits with such a view.
+We first want to see how this understanding of the optical examination of the thin sections, as shown in Figure 3, fits with such a view. Initially one notices large, irregularly cornered granules — not like the rounded ones typical of the chondrites, and a considerably uniform, fine main mass with distinct brightly shining, metallic, steel-grey and brass-yellow accumulated veins.
 
 ...

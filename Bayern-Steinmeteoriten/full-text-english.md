@@ -366,4 +366,8 @@ Aluminium oxide 10.25
 
 therefore nearly the composition of the chromium iron of Baltimore (Maryland), some more evidence for the homogeneity of the formation of the cosmic and telluric minerals.
 
+#### The Meteoritic Stone from Schönenberg
+
+([Figure 4](https://cdn.solaranamnesis.com/Gumbel/Bayern/Fig-4.png) in the accompanying table)
+
 ...

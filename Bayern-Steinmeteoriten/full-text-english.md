@@ -364,7 +364,7 @@ Iron(II) oxide 37.68
 Aluminium oxide 10.25  
 | 100.06  
 
-therefore nearly the composition of the chromium iron of Baltimore [Emmitsburg?] (Maryland), some more evidence for the homogeneity of the formation of the cosmic and telluric minerals.
+therefore nearly the composition of the chromium iron of Baltimore [Emmitsburg or Nanjemoy?] (Maryland), some more evidence for the homogeneity of the formation of the cosmic and telluric minerals.
 
 #### The Meteoritic Stone from Schönenberg
 

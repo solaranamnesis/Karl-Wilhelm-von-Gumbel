@@ -370,6 +370,6 @@ therefore nearly the composition of the chromium iron of Baltimore [Emmitsburg o
 
 ([Figure 4](https://cdn.solaranamnesis.com/Gumbel/Bayern/Fig-4.png) in the accompanying table)
 
-Professor von Schafhäutl gave a very extensive account on the fall of this meteoritic stone (_ibid_. 564).
+Professor von Schafhäutl gave a very extensive account on the fall of this meteoritic stone (_ibid_. 564). Extracting out of this, at the time of the fall on Dec. 25, 1846, after two o'clock in the afternoon, a thunder-like noise was heard over a region of approximately sixty kilometers.
 
 ...

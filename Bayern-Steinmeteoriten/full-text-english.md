@@ -408,10 +408,10 @@ Feldspar mineral 29.33
 
 For the olivine component part, it is established with calculation as:
 
-SiO₂ | 12.82 | 37
-FeO | 10.41 | 30
-MgO | 11.55 | 33
-| 34.78 | 100
+SiO₂ | 12.82 | 37  
+FeO | 10.41 | 30  
+MgO | 11.55 | 33  
+| 34.78 | 100  
 
 commensurate with the composition of the hyalosiderites.
 

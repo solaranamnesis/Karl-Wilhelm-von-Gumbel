@@ -424,4 +424,6 @@ Ka₂O | 1.33 | 4.54 | Oxygen 0.77
 Na₂O | 3.18 | 10.84 | Oxygen 2.8  
 | 29.33 | 100.00
 
+The oxygen ratio of the silica, the alumina, and the alkaline bases is 3:2:1, not in agreement with that of a true feldspar, but matching that of the scapolites (meionite).
+
 ...

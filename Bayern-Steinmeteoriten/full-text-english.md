@@ -380,6 +380,6 @@ The fusion crust is, according to my perception, dully shimmering, black, and in
 
 2\. white splintered little pieces, likewise dispersible by acid,
 
-3\. greenish, grey, matt glossy, irregular granules, which are cracked and do not get decomposed by acids,
+3\. greenish grey, matt glossy, irregular granules, which are cracked and do not get decomposed by acids,
 
 ...

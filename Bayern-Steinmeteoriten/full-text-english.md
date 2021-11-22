@@ -417,4 +417,11 @@ commensurate with the composition of the hyalosiderites.
 
 Further, we then find for the slightly decomposed feldspar-like component part:
 
+SiO₂ | 11.65 | 39.71 | Oxygen 21.3  
+Al₂O₃ | 9.45 | 32.21 | Oxygen 15.0  
+CaO | 3.72 | 12.70 | Oxygen 3.6  
+Ka₂O | 1.33 | 4.54 | Oxygen 0.77  
+Na₂O | 3.18 | 10.84 | Oxygen 2.8  
+| 29.33 | 100.00
+
 ...

@@ -424,6 +424,6 @@ Ka₂O | 1.33 | 4.54 | Oxygen 0.77
 Na₂O | 3.18 | 10.84 | Oxygen 2.8  
 | 29.33 | 100.00
 
-The oxygen ratio of the silica, the alumina, and the alkaline bases is 3:2:1, not in agreement with that of a true feldspar, but matching that of the scapolites (meionite).
+The oxygen ratio of the silica, the alumina, and the alkaline bases is 3:2:1, not in agreement with that of a true feldspar, but matching that of the scapolites (meionite). The presence of minerals of this sort would better match the optical behavior than the acceptance of an anorthite or plagioclase in general, since in polarized light one cannot detect any parallel stripes in the white or glass-clear little pieces.
 
 ...

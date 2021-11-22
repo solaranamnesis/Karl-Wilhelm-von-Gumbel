@@ -376,6 +376,6 @@ Coated all over with a dark brown, roughly sintered crust, von Schafhäutl descr
 
 The fusion crust is, according to my perception, dully shimmering, black, and in places where the iron particles exist in proximity, quite thick (up to 1/2 millimeter). The light gray, white, finely granulated, sparsely dotted black, rust-stained in patches, main mass is comprised, insofar as this provisional determination allows, out of:
 
-1\. larger, greenish yellow particles, decomposable by the use of hydrochloric acid, give a solution containing a lot of ferrous oxide and magnesia — also olivine-like,
+1\. larger, greenish yellow bits, decomposable by the use of hydrochloric acid, give a solution containing a lot of ferrous oxide and magnesia — also olivine-like,
 
 ...

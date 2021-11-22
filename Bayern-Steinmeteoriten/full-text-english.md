@@ -382,6 +382,6 @@ The fusion crust is, according to my perception, dully shimmering, black, and in
 
 3\. greenish grey, matt glossy, irregular granules, which are cracked and do not get decomposed by acids,
 
-4\. of various iron compounds, which are made noticeable by their metallic gloss and are frequently surrounded by a yellow, rust colored halo as a consequence of the decomposition occurring in the meteoritic iron.
+4\. various iron compounds, which are made noticeable by their metallic gloss and are frequently surrounded by a yellow, rust colored halo as a consequence of the decomposition occurring in the meteoritic iron.
 
 ...

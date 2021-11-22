@@ -415,4 +415,6 @@ MgO | 11.55 | 33
 
 commensurate with the composition of the hyalosiderites.
 
+Further, we then find for the slightly decomposed feldspar-like component part:
+
 ...

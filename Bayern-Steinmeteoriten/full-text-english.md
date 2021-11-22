@@ -399,4 +399,6 @@ Potash | 0.73 | 1.33 | Traces
 Natron | 2.20 | 3.18 | 1.02  
 | 100.00 | 100.00 | 101.24
 
+From this data it can be calculated that the fraction decomposable in hydrochloric acid is comprised out of:
+
 ...

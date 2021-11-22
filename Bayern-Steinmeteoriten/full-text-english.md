@@ -401,4 +401,9 @@ Natron | 2.20 | 3.18 | 1.02
 
 From this data it can be calculated that the fraction decomposable in hydrochloric acid is comprised out of:
 
+Iron(II) sulfide 9.64  
+Meteoritic iron 26.25  
+Olivine 34.78  
+Feldspar mineral 29.33  
+
 ...

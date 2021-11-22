@@ -167,7 +167,7 @@ B silicates decomposable in HCl
 C components not decomposable in HCl:  
 
 | A. | B. | C.  
-Silica | 33.31 | 34.45 | 55.53  
+Silicon dioxide | 33.31 | 34.45 | 55.53  
 Aluminium oxide | 2.31 | 0.86 | 5.13  
 Iron(II) oxide | 15.34 | 24.52 | 16.66  
 Iron (with phosphorus) | 24.64 | - | -  
@@ -194,7 +194,7 @@ Out of this one sees that if we precipitate a unisilicate the oxygen proportion 
 
 Finally, in the rest of that not decomposed by acids, the ratios provide the following measure:
 
-Silica 55.53 with 29.62 O = 22.6 + 7  
+Silicon dioxide 55.53 with 29.62 O = 22.6 + 7  
 Iron(II) oxide 16.66 with 3.70 O = 3.58 + 0.12  
 Magnesium oxide 19.34 with 7.73 O  
 Chromium oxide 0.73 with 0.23 O  
@@ -226,7 +226,7 @@ Iron(II) sulfide 1.53
 The composition of the silicates of 1 and 2 was also found  
 
 | 1 | 2  
-Silica | 26.26 with 14.22 O | 53.21 with 28.38 O  
+Silicon dioxide | 26.26 with 14.22 O | 53.21 with 28.38 O  
 Iron(II) oxide | 30.09 with 6.67 O | 14.86 with 3.30 O  
 Magnesium oxide | 31.53 with 12.60 O | 26.42 with 10.56 O  
 Aluminium oxide | 2.70 with 1.26 O | - -  
@@ -294,7 +294,7 @@ All of these larger, prevalently roundish, irregularly cornered (not longish spe
 The analysis of A. Schwager's yielded:
 
 Substance: | Bulk Analysis | 21.33% decomposable in hydrochloric acid | 78.67% not decomposable in hydrochloric acid  
-Silica | 52.115 | 39.59 | 56.71  
+Silicon dioxide | 52.115 | 39.59 | 56.71  
 Aluminium oxide | 8.204 | 29.51 | 2.54  
 Iron(II) oxide | 19.138 | 2.83 | 23.46  
 Iron | 0.523 | 2.49 | -  
@@ -316,7 +316,7 @@ The 21.33% fraction that can be decomposed by hydrochloric acid can be calculate
 In rounded numbers, feldspar A and olivine B would be comprised of:
 
 | A | B  
-Silica | 42 | 37.25  
+Silicon dioxide | 42 | 37.25  
 Aluminium oxide | 34 | -  
 Iron(II) oxide | - | 29.75  
 Calcium oxide | 18 | -  
@@ -332,7 +332,7 @@ As concerns the remaining 78.67% fraction, not decomposable by acids, one must e
 Both of the latter (A and B) have come up with a composition as follows:
 
 | A | B  
-Silica | 66 | 86  
+Silicon dioxide | 66 | 86  
 Aluminium oxide | 19 | -  
 Iron(II) oxide | - | 36  
 Calcium oxide | - | 4  

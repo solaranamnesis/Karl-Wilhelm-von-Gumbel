@@ -378,4 +378,8 @@ The fusion crust is, according to my perception, dully shimmering, black, and in
 
 1\. larger, greenish yellow bits, decomposable by the use of hydrochloric acid, give a solution containing a lot of ferrous oxide and magnesia — also olivine-like,
 
+2\. white splintered little pieces, likewise dispersible by acid,
+
+3\. greenish, grey, matt glossy, irregular granules, which are cracked and do not get decomposed by acids,
+
 ...

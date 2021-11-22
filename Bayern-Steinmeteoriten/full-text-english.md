@@ -384,4 +384,19 @@ The fusion crust is, according to my perception, dully shimmering, black, and in
 
 4\. various iron compounds, which are made noticeable by their metallic gloss and are frequently surrounded by a yellow, rust colored halo as a consequence of the decomposition occurring in the meteoritic iron. The content of this was ascertained through special experiments. In the leftover, the analysis gave:
 
+Substance: | Bulk analysis | 55.18% decomposed by hydrochloric acid | 44.82% not decomposed by hydrochloric acid  
+Silicon dioxide | 40.13 | 24.47 | 57.85  
+Aluminium oxide | 5.57 | 9.45 | 6.75  
+Iron | 13.77 | 30.56 | -  
+Nickel | 1.47 | 1.48 | 1.44  
+Sulfur | 1.93 | 3.52 | -  
+Phosphorus | 0.36 | 0.33 | 0.27  
+Chromium oxide | 0.60 | - | 1.35  
+Iron(II) oxide | 17.12 | 10.41 | 15.37  
+Calcium oxide | 2.31 | 3.72 | 0.56  
+Magnesium oxide | 13.81 | 11.55 | 16.63  
+Potash | 0.73 | 1.33 | Traces  
+Natron | 2.20 | 3.18 | 1.02  
+| 100.00 | 100.00 | 101.24
+
 ...

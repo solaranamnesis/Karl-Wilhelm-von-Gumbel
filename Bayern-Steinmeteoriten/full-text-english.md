@@ -426,6 +426,6 @@ Na₂O | 3.18 | 10.84 | Oxygen 2.8
 
 The oxygen ratio of the silica, the alumina, and the alkaline bases is 3:2:1, not in agreement with that of a true feldspar, but matching that of the scapolites (meionite). The presence of minerals of this sort would better match the optical behavior than the acceptance of an anorthite or plagioclase in general, since in polarized light one cannot detect any parallel stripes in the white or glass-clear little pieces.
 
-In the rest not decomposed by hydrochloric acid the content of nickel and phosphorus is noteable.
+In the rest not decomposed by hydrochloric acid the content of nickel and phosphorus is noteable. Because the assumption that this content originates from some residue of meteoritic iron, by chance undecomposed, we are forced to consider this as an indication of the admixture of schreibersite. 
 
 ...

@@ -433,7 +433,7 @@ Chromium iron 2.5
 Feldspathic mineral 4.0  
 Augitic mineral 89.0
 
-Thus as a whole the chondrite from Schonenberg is comprised out of:
+Thus as a whole the chondrite from Schönenberg is comprised out of:
 
 Olivine 19.0  
 Feldspar- and scapolite-like mineral 18.5  

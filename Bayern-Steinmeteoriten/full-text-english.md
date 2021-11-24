@@ -436,7 +436,7 @@ Augitic mineral 89.0
 Thus as a whole the chondrite from Schonenberg is comprised out of:
 
 Olivine 19.0  
-Feldspar- and scapolite-like mineral 18.5
+Feldspar- and scapolite-like mineral 18.5  
 Augitic mineral 40.0  
 Meteoritic iron 14.5  
 Iron(II) sulfide 5.0  

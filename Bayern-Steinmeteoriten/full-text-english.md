@@ -428,4 +428,19 @@ The oxygen ratio of the silica, the alumina, and the alkaline bases is 3:2:1, no
 
 In the rest not decomposed by hydrochloric acid the content of nickel and phosphorus is noteable. Because the assumption that this content originates from some residue of meteoritic iron, by chance undecomposed, we are forced to consider this as an indication of the admixture of schreibersite. To this end, the pertinent iron shows up naturally in the analysis among the ferrous oxide. This partly accounts for the excess in the sum being over one hundred. Although even more chromium iron containing alumina is certainly present, such a substantial amount of alumina, in addition to a considerable quantity of natron, turns up that in the rest a feldspathic admixed component must be implied, while its main constituent evidently constitutes an augitic mineral. If one takes an admixed bisilicate component for the latter, a balance remains, in which the oxygen ratio between the aluminim oxide and the residual lingering silicon dioxide is nearly 3:9, but then the required amount of calcium oxide and alkali is missing. As a result, this share that is not broken down by acids can only be approximately calculated as consisting out of:
 
+Schreibersite 4.5  
+Chromium iron 2.5  
+Feldspathic mineral 4.0  
+Augitic mineral 89.0
+
+Thus as a whole the chondrite from Schonenberg is comprised out of:
+
+Olivine 19.0  
+Feldspar- and scapolite-like mineral 18.5
+Augitic mineral 40.0  
+Meteoritic iron 14.5  
+Iron(II) sulfide 5.0  
+Schreibersite 2.0  
+Chromium iron 1.0  
+
 ...

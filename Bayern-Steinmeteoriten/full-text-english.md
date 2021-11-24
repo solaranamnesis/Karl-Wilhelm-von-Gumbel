@@ -443,4 +443,6 @@ Iron(II) sulfide 5.0
 Schreibersite 2.0  
 Chromium iron 1.0  
 
+Thin sections of this meteoritic stone (Figure 4 of the table) reveal to us the exceptionally fine-grained structure of the admixed constituents, which, as with all chondrites, are all irregularly splintered.
+
 ...

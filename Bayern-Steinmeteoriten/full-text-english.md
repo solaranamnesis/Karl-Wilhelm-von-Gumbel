@@ -457,6 +457,6 @@ The string-like strips perceptible on the surface of the stone appear to correso
 
 ([Figure 5](https://cdn.solaranamnesis.com/Gumbel/Bayern/Fig-5.png) and [Figure 6](https://cdn.solaranamnesis.com/Gumbel/Bayern/Fig-6.png) in the accompanying table)
 
-The stone from Krähenberg is one of the foremost falls in recent times and most thoroughly investigated meteoritic stones.
+The stone from Krähenberg is one of the foremost falls in recent times and most thoroughly investigated meteoritic stones. On the subject of the fall itself, Dr. G. Neumayer (_Proceedings of the Mathematical-Natural Science Class of the Academy of Sciences in Vienna_. vol. 60. 1869. p. 229), Otto Büchner (Poggendorf's _Annals of Physics_. vol. 137. p. 176) and Weiss (_New Yearbook_. 1869. p. 727 and Poggendorf's _Annals of Physics_. vol. 137. p. 617) give a detailed account, on the subject of the composition [Gerhard] vom Rath (Poggendorf's _Annals of Physics_. vol. 137. p. 328), but up till now a microscopic investigation of thin sections has been absent.
 
 ...

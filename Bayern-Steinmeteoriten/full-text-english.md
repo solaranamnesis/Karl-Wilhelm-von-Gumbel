@@ -453,6 +453,6 @@ The string-like strips perceptible on the surface of the stone appear to correso
 
 #### The Meteoritic Stone from Krähenberg
 
-([Figure 5](https://cdn.solaranamnesis.com/Gumbel/Bayern/Fig-5.png) and [Figure 6](https://cdn.solaranamnesis.com/Gumbel/Bayern/Fig-5.png) in the accompanying table)
+([Figure 5](https://cdn.solaranamnesis.com/Gumbel/Bayern/Fig-5.png) and [Figure 6](https://cdn.solaranamnesis.com/Gumbel/Bayern/Fig-6.png) in the accompanying table)
 
 ...

@@ -457,4 +457,6 @@ The string-like strips perceptible on the surface of the stone appear to correso
 
 ([Figure 5](https://cdn.solaranamnesis.com/Gumbel/Bayern/Fig-5.png) and [Figure 6](https://cdn.solaranamnesis.com/Gumbel/Bayern/Fig-6.png) in the accompanying table)
 
+The stone from Krähenberg is one of the foremost falls in recent times and most thoroughly investigated meteoritic stones.
+
 ...

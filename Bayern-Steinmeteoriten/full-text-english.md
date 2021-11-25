@@ -451,4 +451,8 @@ It follows from all of the foregoing that the Schönenberg meteorite, which was 
 
 The string-like strips perceptible on the surface of the stone appear to corresond to fracturing of the stone, in which, like on the surface, a fusion crust seems to have formed during the fall through the atmosphere.
 
+#### The Meteoritic Stone from Krähenberg
+
+([Figure 5](https://cdn.solaranamnesis.com/Gumbel/Bayern/Fig-5.png) and [Figure 6](https://cdn.solaranamnesis.com/Gumbel/Bayern/Fig-5.png) in the accompanying table)
+
 ...

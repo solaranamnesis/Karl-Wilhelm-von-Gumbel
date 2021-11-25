@@ -447,4 +447,6 @@ Thin sections of this meteoritic stone ([Figure 4](https://cdn.solaranamnesis.co
 
 Amongst the larger mineral pieces one is able to recognize ones with yellowish, highly irregularly cracked, more rounded outlines than those belonging to the olivine; they exhibit the most colorful aggregate colors in polarized light. The somewhat darker, colorful, often times slightly turning into reddish slivers of augitic minerals mark themselves by a parallel fissuring following two directions and also in polarized light very motley colored, while the whitish, feldspathic component parts in many cases fade into turbidity and in polarized light become dominated by blue and yellow color tones.
 
+It follows from all of the foregoing that the Schönenberg meteorite, which was previously not looked at chemically, belongs to the major group of the chondrites and, due to its low silica content, comes very close to the Ensisheim stone, but differs from it, as does all those compiled by Rammelsberg (_ibid_.), by the relatively very low content of magnesia, high alumina and natron content.
+
 ...

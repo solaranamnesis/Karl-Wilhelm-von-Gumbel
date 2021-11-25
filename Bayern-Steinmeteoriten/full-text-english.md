@@ -449,4 +449,6 @@ Amongst the larger mineral pieces one is able to recognize ones with yellowish, 
 
 It follows from all of the foregoing that the Schönenberg meteorite, which was previously not looked at chemically, belongs to the major group of the chondrites and, due to its low silica content, comes very close to the Ensisheim stone, but differs from it, as does all those compiled by Rammelsberg (_ibid_.), by the relatively very limited content of magnesia, high alumina and natron content.
 
+The string-like strips perceptible on the surface of the stone appear to corresond to fracturing of the stone, in which, like on the surface, a fusion crust seems to have formed during the fall through the atmosphere.
+
 ...

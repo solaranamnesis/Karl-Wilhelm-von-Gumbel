@@ -447,7 +447,7 @@ Der Dünnschliff dieses Meteorsteins ([Figur IV.](https://cdn.solaranamnesis.com
 
 Unter den größeren Mineralsplitterchen kann man die gelblichen, höchst unregelmäßig rissigen, im Umrisse mehr rundlichen als dem Olivin angehörig erkennen; sie zeigen i. p. L. die buntesten Aggregatfarben. Die etwas dunkler, farbigen, öfters etwas ins Rötliche spielenden Splitter des augitischen Minerals zeichnen sich durch eine mehr parallele Zerklüftung nach zwei Richtungen und i. p. L. gleichfalls sehr bunte Färbung aus, während die weißlichen, feldspatigen Bestandteile vielfach ins Trübe übergehen und i. p. L. von blauen und gelben Farbentönen beherrscht werden.
 
-Nach alledem gehört der früher chemisch noch nicht unter sucht gewesene Meteorstein von Schönenberg der großen Gruppe der Chondriten an und nähert sich unter diesen durch den niederen Kieselsäuregehalt sehr dem Stein von Ensisheim, unterscheidet sich aber von diesem, wie von allen den durch Rammeisberg (a. a. O.) zusammengestellten Arten durch den relativ sehr geringen Bittererde-, hohen Tonerde- und Natrongehalt.
+Nach alledem gehört der früher chemisch noch nicht unter sucht gewesene Meteorstein von Schönenberg der großen Gruppe der Chondriten an und nähert sich unter diesen durch den niederen Kieselsäuregehalt sehr dem Stein von Ensisheim, unterscheidet sich aber von diesem, wie von allen den durch Rammelsberg (a. a. O.) zusammengestellten Arten durch den relativ sehr geringen Bittererde-, hohen Tonerde- und Natrongehalt.
 
 Die an der Oberfläche des Steins bemerkbaren schnurartigen Streifen scheinen Zerklüftungen des Steins zu entsprechen, auf denen, wie auf der Oberfläche, eine Schmelzrinde beim Fall durch die Atmosphäre sich gebildet zu haben scheint.
 

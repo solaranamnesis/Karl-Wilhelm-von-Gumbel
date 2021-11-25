@@ -445,4 +445,6 @@ Chromium iron 1.0
 
 Thin sections of this meteoritic stone ([Figure 4](https://cdn.solaranamnesis.com/Gumbel/Bayern/Fig-4.png) of the table) reveal to us the exceptionally fine-grained structure of the admixed constituents, which, as with all chondrites, are all irregularly splintered. Larger mineral fragments are scarce, as are the chondrules (_a_) whose mass is white, cloudy, finely granulated like dust, and at the edges slightly translucent, but in polarized light they display colorful hues, less often eccentrically fibrous. Apart from these roundish granules there also occur irregularly cornered fragments of a cloudy, dust-like, and striated mass (_b_) and those peculiar, utterly fine, parallely striped and cross-divided structures, similar to the cell meshes of moss leaves (_c_), which characteristically recurs in so many chondrites. The meteoritic iron often forms elongated, trail-like small heaps (_d_), though also frequently wrapped around the chondrules as a thin outer layer.
 
+Amongst the larger mineral pieces one is able to recognize ones with yellowish, highly irregularly cracked, more rounded outlines than those belonging to olivine; they exhibit the most colorful aggregate colors in polarized light.
+
 ...

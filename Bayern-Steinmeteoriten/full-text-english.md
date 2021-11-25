@@ -443,6 +443,6 @@ Iron(II) sulfide 5.0
 Schreibersite 2.0  
 Chromium iron 1.0  
 
-Thin sections of this meteoritic stone (Figure 4 of the table) reveal to us the exceptionally fine-grained structure of the admixed constituents, which, as with all chondrites, are all irregularly splintered.
+Thin sections of this meteoritic stone ([Figure 4](https://cdn.solaranamnesis.com/Gumbel/Bayern/Fig-4.png) of the table) reveal to us the exceptionally fine-grained structure of the admixed constituents, which, as with all chondrites, are all irregularly splintered. Larger mineral fragments are scarce, as are the chondrules (_o_) whose mass is white, cloudy, finely granulated like dust, and at the edges slightly translucent, but in polarized light they display colorful hues, less often eccentrically fibrous.
 
 ...

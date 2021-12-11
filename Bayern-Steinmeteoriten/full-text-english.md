@@ -111,7 +111,7 @@ The same meteoritic stone has recently been subjected to a chemical analysis fro
 
 3.52% Meteoritic iron  
 1.92% Iron(II) sulfide  
-0.72% Chromium iron  
+0.72% Chromite  
 92.68% Silicates  
 100.00 in fact:  
 the silicates are present as:
@@ -203,13 +203,13 @@ Calcium oxide 1.13 with 0.32 O
 Potash 0.56 with 0.10 O  
 Natron 1.62 with 0.42 O  
 
-Out of this is worked out a bisilicate, chromium iron (of the composition of l'Aigle), and an andesine-like feldspar in a proportion of approximately 79 : 1 : 21.
+Out of this is worked out a bisilicate, chromite (of the composition of l'Aigle), and an andesine-like feldspar in a proportion of approximately 79 : 1 : 21.
 
 So, in total, the Eichstädt meteorite is roughly made of:
 
 Meteoritic iron 22.98  
 Iron(II) sulfide 3.82  
-Chromium iron 0.40  
+Chromite 0.40  
 Olivine 31.00  
 Mineral of the augite group 31.90  
 Andesine-like feldspar 8.46  
@@ -275,7 +275,7 @@ Losses in sulfur and nickel 10.06
 
 Ammler gives (O. Büchner _ibid_. p. 17) the specific weight as 3.3636.
 
-Prof. von Schafhäutl describes (_ibid_. p. 558) this stone, "with the appearance of pumice porphyry, in which the constituent silicates occur in such large aggregates, that one is able to easily discern them with the naked eye. The stone is comprised of milky white grains with sheet-like radial structures, of granular olivine-like pea-sized masses, and partly of dull, basalt-like fragments, which, however, from time to time show up with augite-like cleavage planes, even shiny like glass. Scattered, cracked, iridescent ferrous sulfide and granules of chromium iron are found sparingly. The stone does not have an effect on the magnetic needle. With the Lötrohr it quite easily melts and is covered with a glassy, shiny glaze, like the aerolite from Stannern."
+Prof. von Schafhäutl describes (_ibid_. p. 558) this stone, "with the appearance of pumice porphyry, in which the constituent silicates occur in such large aggregates, that one is able to easily discern them with the naked eye. The stone is comprised of milky white grains with sheet-like radial structures, of granular olivine-like pea-sized masses, and partly of dull, basalt-like fragments, which, however, from time to time show up with augite-like cleavage planes, even shiny like glass. Scattered, cracked, iridescent ferrous sulfide and granules of chromite are found sparingly. The stone does not have an effect on the magnetic needle. With the Lötrohr it quite easily melts and is covered with a glassy, shiny glaze, like the aerolite from Stannern."
 
 According to my observations, the stone has a brownish black crust, shiny like glass, and its grayish white, easily friable mass is comprised of:
 
@@ -285,7 +285,7 @@ According to my observations, the stone has a brownish black crust, shiny like g
 
 3\. of a wine yellow to greyish green, or faintly reddish brown, glass-like matte polished mineral, 1.5 to 2 mm. large, colored vividly in polarized light, through not dichroic, some longitudinal fibers (but unclear, striated) and suffused with abundant small bubbles. These component parts are not decomposed by acids and belong to the augite group.
 
-4\. of black, intensely shiny chromium iron, not decomposable in acids, that yielded a magnificent green glass in the phosphate test.
+4\. of black, intensely shiny chromite, not decomposable in acids, that yielded a magnificent green glass in the phosphate test.
 
 5\. finally, of dark, metallic granules, to some extent pulled by the magnet, which are in most cases related to ferrous sulfide, or at least meteoritic iron.
 
@@ -323,9 +323,9 @@ Calcium oxide | 18 | -
 Magnesium oxide | - | 33.00  
 Alkalis | 6 | -
 
-As concerns the remaining 78.67% fraction, not decomposable by acids, one must even here presume a small percentage of feldspar in addition to chromium iron and augite, on the order of:
+As concerns the remaining 78.67% fraction, not decomposable by acids, one must even here presume a small percentage of feldspar in addition to chromite and augite, on the order of:
 
-2.5% Chromium iron  
+2.5% Chromite  
 13.5% Feldspar-like substance (A)  
 84.0% Augite mineral (B).
 
@@ -344,7 +344,7 @@ Furthermore, considering that the ratio decomposable and not decomposable in hyd
 Olivine 2.00  
 Iron(II) sulfide 0.75  
 Meteoritic iron 0.25  
-Chromium iron 2.00  
+Chromite 2.00  
 Anorthite 18.00  
 2nd feldspathic substance 11.00  
 Augite mineral 66.00  
@@ -357,14 +357,14 @@ We first want to see how this understanding of the optical examination of the th
 
 The nature of the large inclusions is challenging to explain, labels _x_ and _y_ point to them in the thin section. The larger, _x_ is parallely streaked and cross-cracked, dark olive green to reddish brown, a little transparent, and colorful in polarized light. It should be considered as a slightly modified augite fragment. The second fragment, _y_ is yellowish, very fine grained, quite dense, weakly translucent and spread throughout with the finest dust particles. It most closely resembles the shards of a chondrite granule. Inclusions like these and others of very diverse qualities of structure are still embedded in the matrix. Although a clearly chondritic structure is not present, these inclusions and the minerals of the matrix behave so similarly to the integral parts of the chondrites that the meteoritic stone from Massing must be attributed with a completely analogous formation to the latter.
 
-The considerable content of chromium iron in these stones gives reason to investigate its composition in greater detail, because, as far as I know, the chromium iron of the meteoritic stone has not been isolated as a subject of analysis up till now. For this purpose, the chromium iron in the meteoritic stone of l'Aigle seemed better suited, as larger granules occur in it. It can be picked out very easily and completely clean. The analysis of this chromium iron yielded:
+The considerable content of chromite in these stones gives reason to investigate its composition in greater detail, because, as far as I know, the chromite of the meteoritic stone has not been isolated as a subject of analysis up till now. For this purpose, the chromite in the meteoritic stone of l'Aigle seemed better suited, as larger granules occur in it. It can be picked out very easily and completely clean. The analysis of this chromite yielded:
 
 Chromium oxide 52.13  
 Iron(II) oxide 37.68  
 Aluminium oxide 10.25  
 | 100.06  
 
-therefore nearly the composition of the chromium iron of Baltimore [Emmitsburg or Nanjemoy?] (Maryland), some more evidence for the homogeneity of the formation of the cosmic and telluric minerals.
+therefore nearly the composition of the chromite of Baltimore [Emmitsburg or Nanjemoy?] (Maryland), some more evidence for the homogeneity of the formation of the cosmic and telluric minerals.
 
 #### The Meteoritic Stone from Schönenberg
 
@@ -426,10 +426,10 @@ Na₂O | 3.18 | 10.84 | Oxygen 2.8
 
 The oxygen ratio of the silica, the alumina, and the alkaline bases is 3:2:1, not in agreement with that of a true feldspar, but matching that of the scapolites (meionite). The presence of minerals of this sort would better match the optical behavior than the acceptance of an anorthite or plagioclase in general, since in polarized light one cannot detect any parallel stripes in the white or glass-clear little pieces.
 
-In the rest not decomposed by hydrochloric acid the content of nickel and phosphorus is noteable. Because the assumption that this content originates from some residue of meteoritic iron, by chance undecomposed, we are forced to consider this as an indication of the admixture of schreibersite. To this end, the pertinent iron shows up naturally in the analysis among the ferrous oxide. This partly accounts for the excess in the sum being over one hundred. Although even more chromium iron containing alumina is certainly present, such a substantial amount of alumina, in addition to a considerable quantity of natron, turns up that in the rest a feldspathic admixed component must be implied, while its main constituent evidently constitutes an augitic mineral. If one takes an admixed bisilicate component for the latter, a balance remains, in which the oxygen ratio between the aluminim oxide and the residual lingering silicon dioxide is nearly 3:9, but then the required amount of calcium oxide and alkali is missing. As a result, the share that is not broken down by acids can only be approximately calculated as consisting out of:
+In the rest not decomposed by hydrochloric acid the content of nickel and phosphorus is noteable. Because the assumption that this content originates from some residue of meteoritic iron, by chance undecomposed, we are forced to consider this as an indication of the admixture of schreibersite. To this end, the pertinent iron shows up naturally in the analysis among the ferrous oxide. This partly accounts for the excess in the sum being over one hundred. Although even more chromite containing alumina is certainly present, such a substantial amount of alumina, in addition to a considerable quantity of natron, turns up that in the rest a feldspathic admixed component must be implied, while its main constituent evidently constitutes an augitic mineral. If one takes an admixed bisilicate component for the latter, a balance remains, in which the oxygen ratio between the aluminim oxide and the residual lingering silicon dioxide is nearly 3:9, but then the required amount of calcium oxide and alkali is missing. As a result, the share that is not broken down by acids can only be approximately calculated as consisting out of:
 
 Schreibersite 4.5  
-Chromium iron 2.5  
+Chromite 2.5  
 Feldspathic mineral 4.0  
 Augitic mineral 89.0
 
@@ -441,7 +441,7 @@ Augitic mineral 40.0
 Meteoritic iron 14.5  
 Iron(II) sulfide 5.0  
 Schreibersite 2.0  
-Chromium iron 1.0  
+Chromite 1.0  
 
 Thin sections of this meteoritic stone ([Figure 4](https://cdn.solaranamnesis.com/Gumbel/Bayern/Fig-4.png) of the table) reveal to us the exceptionally fine-grained structure of the admixed constituents, which, as with all chondrites, are all irregularly splintered. Larger mineral fragments are scarce, as are the chondrules (_a_) whose mass is white, cloudy, finely granulated like dust, and at the edges slightly translucent, but in polarized light they display colorful hues, less often eccentrically fibrous. Apart from these roundish granules there also occur irregularly cornered fragments of a cloudy, dust-like, and striated mass (_b_) and those peculiar, utterly fine, parallely striped and cross-divided structures, similar to the cell meshes of moss leaves (_c_), which characteristically recurs in so many chondrites. The meteoritic iron often forms elongated, trail-like small heaps (_d_), though also frequently wrapped around the chondrules as a thin outer layer.
 

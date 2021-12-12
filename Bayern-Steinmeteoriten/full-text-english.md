@@ -461,6 +461,6 @@ The stone from Krähenberg is one of the foremost falls in recent times and most
 
 *) G. Neumayer (_ibid_. 239) draws the conclusion from the information he has gathered that the Krähenberg stone, as it was still following the drift of its cosmic course, belongs to the meteor shower whose radiation point is located in the vicinity of 𝛿 Virginis.
 
-Vom Rath does not hold the ferrous sulfide for troilite, although it is not drawn by the magnet, but for pyrrhotite, because a richer amount of hydrogen sulfide arises during treatment with hydrochloric acid and a lot of sulfur is excreted.
+Vom Rath does not hold the ferrous sulfide for troilite, although it is not drawn by the magnet, but for pyrrhotite, because a richer amount of hydrogen sulfide arises during treatment with hydrochloric acid and a lot of sulfur is excreted. He set the content of pyrrhotite at 5.52%.
 
 ...

@@ -463,6 +463,6 @@ The stone from Krähenberg is one of the foremost falls in recent times and most
 
 Vom Rath does not hold the ferrous sulfide for troilite, although it is not drawn by the magnet, but for pyrrhotite, because a richer amount of hydrogen sulfide arises during treatment with hydrochloric acid and a lot of sulfur is excreted. He set the content of pyrrhotite at 5.52%.
 
-The dark grey to black grains, up to two millimeters in size, occasionally show an utterly fine, very easily detached, whitened hull. In addition, irregularly rounded, dark grains and spherical segments occur, which, like the former, possess only an imperfect fiber composition.
+The dark grey to black grains, up to two millimeters in size, occasionally show an utterly fine, very easily detached, whitened hull. In addition, irregularly rounded, dark grains and spherical segments occur, which, like the former, possess only an imperfect fiber composition. Still further, yellowish white grains, up to one millimeter large appear — presumably olivine with rounded faces and only hints of a crystalline outline.
 
 ...

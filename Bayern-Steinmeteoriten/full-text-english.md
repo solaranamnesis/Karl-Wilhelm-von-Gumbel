@@ -467,4 +467,6 @@ The dark grey to black grains, up to two millimeters in size, occasionally show 
 
 Microscopically, unusual admixed components are still found of: extraordinarly small, crimson crystal pieces, quite a few intense yellow granules with noticeable crystal faces, some light yellow, oblong prismatic forms and, finally, distinct, up to 1/2 millimeter large, red granules with conchoidal breakage that are translucent — likely a decomposition product of the ferrous sulfide, similar to _caput mortuum_ [_crocus metallorum_].
 
+The analysis of the non-magnetic part yielded, according to vom Rath:
+
 ...

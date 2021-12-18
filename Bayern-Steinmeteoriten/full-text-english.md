@@ -490,4 +490,6 @@ a ratio which does not differ significantly from that of the Pultusk stone (1:1.
 
 He holds the admixture of anorthite or labradorite as inadmissible, since calcium oxide and aluminum oxide are a part of the insoluble portion and can only be stripped off in low amounts with acids.
 
+Further, I am in debt to the information from a favorable message that the results of an analysis that the gentleman Professor Dr. Keller in Speyer performed, and which therefore is of greater importance since it was conducted with a considerable quantity, namely 5.71 grams; he found:
+
 ...

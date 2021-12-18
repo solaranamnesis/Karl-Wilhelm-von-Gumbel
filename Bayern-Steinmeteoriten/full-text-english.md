@@ -488,4 +488,6 @@ According to this, the sum total of the oxygen quantities of the bases to that o
 
 a ratio which does not differ significantly from that of the Pultusk stone (1:1.507). As essential admixed components, the chemical analysis also gave: olivine and a silica-rich mineral, whether enstatite or shepardite or both at once, vom Rath left undecided.
 
+He holds the admixture of anorthite or labradorite as inadmissible, since calcium oxide and aluminum oxide are a part of the insoluble portion and can only be stripped off in low amounts with acids.
+
 ...

@@ -482,4 +482,10 @@ Iron(II) oxide | 21.06 | 22.56 oxygen 5.01
 Manganese(II) oxide | Traces | -  
 Natron (losses) | 1.03 | 1.12 oxygen 0.29  
 
+According to this, the sum total of the oxygen quantities of the bases to that of the silicas is:
+
+1:1.448,
+
+a ratio which does not differ significantly from that of the Pultusk stone (1:1.507).
+
 ...

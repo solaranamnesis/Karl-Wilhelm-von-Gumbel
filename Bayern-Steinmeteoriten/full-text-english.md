@@ -490,6 +490,34 @@ a ratio which does not differ significantly from that of the Pultusk stone (1:1.
 
 He holds the admixture of anorthite or labradorite as inadmissible, since calcium oxide and aluminum oxide are a part of the insoluble portion and can only be stripped off in low amounts with acids.
 
-Further, I am in debt to the information from a favorable message that the results of an analysis that the gentleman Professor Dr. Keller in Speyer performed, and which therefore is of greater importance since it was conducted with a considerable quantity, namely 5.71 grams; he found:
+Further, I am in debt to the information from a favorable message that the results of an analysis that the gentleman Professor Dr. Keller in Speyer performed, and which therefore is of greater importance since it was conducted with a considerable quantity, namely 5.71 grams; it was found:
+
+Substances | Bulk Analysis | 57.69% decomposable in hydrochloric acid individually | 57.69% decomposable in hydrochloric acid in % | 42.31% not decomposable in hydrochloric acid individually | 42.31% not decomposable in hydrochloric acid in %  
+Silicon dioxide (a) | 41.12 | 15.76 | 27.28 | 25.36 | 61.76  
+Magnesium oxide (a) | 18.62 | 14.44 | 24.99 | 4.18 | 10.18  
+Manganese(II) oxide (a) | 0.78 | 0.78 | 1.35 | - | -  
+Iron(II) oxide (a) | 17.10 | 10.69 | 18.52 | 6.41 | 15.61  
+Iron (b) | 3.93 | 3.93 | 10.85 | - | -  
+Sulfur (b) | 2.35 | 2.35 | 10.85 | - | -  
+Iron (c) | 6.44 | 6.44 | 14.31 | - | -  
+Nickel (c) | 1.36 | 1.36 | 14.31 | - | -  
+Phosphorus (c) | 0.46 | 0.46 | 14.31 | - | -  
+Chromium(II) oxide (d) | 0.89 | - | - | 0.89 | -  
+Iron(II) oxide (d) | 0.32 | - | - | 0.32 | -  
+Aluminium oxide (e) | 3.22 | 0.76 | 1.31 | 2.46 | 5.99  
+Calcium oxide (e) | 2.06 | 0.42 | 0.73 | 1.64 | 4.00  
+Potash (e) | 1.22 | 0.21 | 0.36 | 1.01 | 2.46  
+Natron (e) | 0.17 | 0.17 | 0.30 | - | -  
+Tin(II) oxide (e) | 0.18 | Traces | - | 0.18 | -  
+
+*) Without chromite and tin(II) oxide.
+
+Out of this is calculated:
+
+a) Olivine 41.67  
+b) Iron(II) sulfide 6.28  
+c) Meteoritic iron 8.26  
+d) Chromite 1.21  
+e) Other silicates 42.58  
 
 ...

@@ -469,4 +469,17 @@ Microscopically, unusual admixed components are still found of: extraordinarly s
 
 The analysis of the non-magnetic part yielded, according to vom Rath:
 
+| 1. | 2.  
+| | After deduction of chromite and pyrrhotite  
+Chromite | 0.94 | -  
+Pyrrhotite sulfur | 2.25 | -  
+Pyrrhotite iron | 3.47 | -  
+Silica | 43.29 | 46.37 oxygen 24.73  
+Aluminum oxide | 0.63 | 0.67 oxygen 0.32  
+Magnesium oxide | 25.32 | 27.13 oxygen 10.85  
+Calcium oxide | 2.01 | 2.15 oxygen 0.61  
+Iron(II) oxide | 21.06 | 22.56 oxygen 5.01  
+Manganese(II) oxide | Traces | -  
+Natron (losses) | 1.03 | 1.12 oxygen 0.29  
+
 ...

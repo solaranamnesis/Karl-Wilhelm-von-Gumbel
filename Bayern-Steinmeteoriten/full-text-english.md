@@ -534,4 +534,6 @@ Calcium oxide | 2.15 | 2.45
 Potash | - | 1.44  
 Natron | 1.12 | 0.20
 
+Here, too, we observe very limited agreement in individual substances, namely in reference to alumina and magnesia, which again suggests a very uneven blend and distribution of the constituent parts.
+
 ...

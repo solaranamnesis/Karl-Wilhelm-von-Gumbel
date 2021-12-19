@@ -522,6 +522,6 @@ e) Other silicates 42.58
 
 The specific weight was ascertained at 3.432.
 
-We now compare the results of the latter (B) analysis with those formerly disclosed by vom Rath (A) through the simple conversion of both to silicate components so as to eliminate the impact of the admixed components of meteoritic iron, ferrous sulfide, and chromite, which clearly occurs very unequally distributed, in this way the following numbers result:
+We now compare the results of the latter (B) analysis with those formerly disclosed by vom Rath (A) through the simple conversion of both to silicate components so as to eliminate the impact of the admixed components of meteoritic iron, ferrous sulfide, and chromite, which clearly occurs in very unequal distributions, in this way the following numbers result:
 
 ...

@@ -534,6 +534,6 @@ Calcium oxide | 2.15 | 2.45
 Potash | - | 1.44  
 Natron | 1.12 | 0.20
 
-Here, too, we observe very limited agreement in individual substances, namely in reference to alumina and magnesia, which again suggests a very uneven blend and distribution of the constituent parts. In fact, upon performing a closer examination of the stone, which is stored in the district collection at Speyer, entire sections of it, as Weiss had already stressed, conspicuously stand out as patches of darker color, greater harndess, and a compact quality when compared to the remaining light gray, friable mass.
+Here, too, we observe very limited agreement in individual substances, namely in reference to alumina and magnesia, which again suggests a very uneven blend and distribution of the constituent parts. In fact, upon performing a closer examination of the stone, which is stored in the district collection at Speyer, entire sections of it, as Weiss has already stressed, conspicuously stand out as patches of darker color, greater harndess, and a compact quality when compared to the remaining light gray, friable mass.
 
 ...

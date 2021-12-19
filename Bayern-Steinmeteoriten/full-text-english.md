@@ -524,4 +524,14 @@ The specific weight was ascertained at 3.432.
 
 We now compare the results of the latter (B) analysis with those formerly disclosed by vom Rath (A) through the simple conversion of both to silicate components so as to eliminate the impact of the admixed components of meteoritic iron, ferrous sulfide, and chromite, which clearly occurs in very unequal distributions, in this way the following numbers result:
 
+| A | B.  
+Silicon dioxide | 46.37 | 48.78  
+Aluminium oxide | 0.67 | 3.82  
+Iron(II) oxide | 22.56 | 20.29  
+Manganese(II) oxide | Traces | 0.93  
+Magnesium oxide | 27.13 | 22.09  
+Calcium oxide | 2.15 | 2.45  
+Potash | - | 1.44  
+Natron | 1.12 | 0.20
+
 ...

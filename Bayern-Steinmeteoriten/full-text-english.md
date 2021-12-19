@@ -536,4 +536,19 @@ Natron | 1.12 | 0.20
 
 Here, too, we observe very limited agreement in individual substances, namely in reference to alumina and magnesia, which again suggests a very uneven blend and distribution of the constituent parts. In fact, upon performing a closer examination of the stone, which is stored in the district collection at Speyer, entire sections of it, as Weiss has already stressed, conspicuously stand out as patches of darker color, greater harndess, and a compact quality when compared to the remaining light gray, friable mass. They are clean shaped inclusions, angular, irregularly defined, broken pieces on a large scale as it were, like the small fragments of the main mass, though also with special qualities. I was placed into the pleasant position of being able to dispose of a little bit of the Speyer stone for my further investigation. Having said this, before I make much note of these special inclusions, I still have to enter into a closer consideration of the various mineral mixtures decomposable and not decomposable in hydrochloric acid.
 
+The silicate constituent parts decomposable in hydrochloric acid are calculated in terms of their composition:
+
+(+) Silica 36.46  
+(+) Iron(II) oxide 24.73  
+(+) Magnesium oxide 33.40  
+(+) Manganese(II) oxide 1.80  
+(^) Aluminium oxide 1.76  
+(^) Calcium oxide 0.97  
+(^) Potash 0.48  
+(^) Natron 0.40  
+
+(+) almost exactly the composition of olivine (hyalosiderite).
+
+(^) Residues of a difficult to decompose, feldspar-like admixed part in lesser quantities.
+
 ...

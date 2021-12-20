@@ -575,4 +575,18 @@ Feldspar mineral (? Labradorite) 19.14
 
 Now, concerning the harder, denser, and darker sections engrained in larger chunks in the stone, which were already alluded to earlier and are possibly adherent fragments of the main masses, these are comprised, according to the analysis undertaken by assistant A. Schwager, out of:
 
+Substance: | Bulk Analysis | 64% decomposable in hydrochloric acid | 39% indecomposable in hydrochloric acid  
+Silica | 39.08 | 28.44 | 57.96  
+Aluminium oxide | 2.08 | 1.46 | 5.79  
+Iron(II) oxide | 28.53 | 36.20 | 13.75  
+Iron (containing nickel) | 4.43 | 6.92 | -  
+Sulfur | 1.31 | 2.04 | -  
+Manganese(II) oxide | 0.82 | 1.28 | -  
+Chromium(II) oxide | 0.39 | - | 1.08  
+Calcium oxide | 13.35 | 14.55 | 11.24  
+Magnesium oxide | 5.97 | 5.73 | 6.40  
+Potash | 1.48 | 1.73 | 1.04  
+Natron | 1.81 | 1.13 | 3.05  
+| 99.25 | 99.48 | 100.31  
+
 ...

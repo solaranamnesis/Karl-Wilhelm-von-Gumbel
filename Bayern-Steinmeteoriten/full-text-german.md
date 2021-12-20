@@ -564,7 +564,7 @@ Kali | 2,5 | - | 2,5
 
 Wir können dieses I. zerlegen in A und B und erhalten dadurch ein Mineral der Augitgruppe und ein Mineral der Feldspatgruppe, das erste bronzitartig (Sauerstoffverhältnis wie 16:8,1), das zweite mit einem Sauerstoffverhältnis nahezu wie 6:3:1 (genauer 16,9:3:1) oder labradorartig, zu dem der Tonerde- und Alkali-haltige Anteil des durch Salzsäure zerlegten Teiles zu rechnen wäre.
 
-Man kann mithin annehmen, dass im Durchschnitt der Meteorstein von Erähenberg in seiner Hauptmasse besteht aus:
+Man kann mithin annehmen, dass im Durchschnitt der Meteorstein von Krähenberg in seiner Hauptmasse besteht aus:
 
 Meteoreisen 6,27  
 Schwefeleisen 8,25  

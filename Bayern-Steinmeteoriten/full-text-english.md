@@ -562,4 +562,6 @@ Calcium oxide | 4.0 | 2.0 + | 2.0
 Potash | 2.5 | - | 2.5  
 | 100.00 | 57.8 | 42.2
 
+We are able to break down (1) into A and B and thereby obtain as a result a mineral of the augite group and a mineral of the feldspar group, the first bronzite-like (oxygen ratio of 16:8.1), the second with an oxygen ratio of approximately 6:3:1 (more precisely 16.9:3:1) or labradorite-like, with this the alumina and alkai containing part decomposed by hydrochloric acid is estimated.
+
 ...

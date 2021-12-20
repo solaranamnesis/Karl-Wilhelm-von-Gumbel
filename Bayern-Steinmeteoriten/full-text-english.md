@@ -553,7 +553,7 @@ The silicate constituent parts decomposable in hydrochloric acid are calculated 
 
 Accounting for the chromite, the rest not decomposed by hydrochloric acid is comprised out of, incidentally:
 
-| 1. | A | B.  
+| (1) | A | B.  
 Silica | 61.7 or | 30.0 + | 31.7  
 Magnesium oxide | 10.2 | 10.2 | -  
 Iron(II) oxide | 15.6 | 15.6 | -  

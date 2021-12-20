@@ -564,4 +564,13 @@ Potash | 2.5 | - | 2.5
 
 We are able to break down (1) into A and B and thereby obtain as a result a mineral of the augite group and a mineral of the feldspar group, the first bronzite-like (oxygen ratio of 16:8.1), the second with an oxygen ratio of approximately 6:3:1 (more precisely 16.9:3:1) or labradorite-like, with this the alumina and alkai containing part decomposed by hydrochloric acid is estimated.
 
+One is therefore able to assume, that on average the main mass of the meteoritic stone from Krähenberg is comprise out of:
+
+Meteoritic iron 6.27  
+Iron(II) sulfide 8.25  
+Chromite 1.21  
+Olivine 41.65  
+Augite mineral (? Bronzite) 23.48  
+Feldspar mineral (? Labradorite) 19.14
+
 ...

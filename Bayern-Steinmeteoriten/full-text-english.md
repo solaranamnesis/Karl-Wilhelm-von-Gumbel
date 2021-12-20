@@ -573,4 +573,6 @@ Olivine 41.65
 Augite mineral (? Bronzite) 23.48  
 Feldspar mineral (? Labradorite) 19.14
 
+Now, concerning the harder, denser, and darker sections engrained in larger chunks in the stone, which were already alluded to earlier and are possibly adherent fragments of the main masses, these are comprised, according to the analysis undertaken by assistant A. Schwager, out of:
+
 ...

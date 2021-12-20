@@ -589,4 +589,6 @@ Potash | 1.48 | 1.73 | 1.04
 Natron | 1.81 | 1.13 | 3.05  
 | 99.25 | 99.48 | 100.31  
 
+First of all, it is noteworthy that we are likewise working with a mass composed of diverse minerals, which can be separated into parts that are separable and not separable by hydrochloric acid and that as a whole have great similarity in their composition, by comparision not to be confused with the main mass.
+
 ...

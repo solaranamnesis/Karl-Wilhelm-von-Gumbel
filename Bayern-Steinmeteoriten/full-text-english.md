@@ -607,4 +607,6 @@ Finally, as far as the external shape of the tiny meteoritic iron and ferrous su
 
 The most common type of stony meteorite is predominately that of the so-called chondrites, the composition and structure of which coincide so much that we do not see how a common origin and the initial cohesion of these chondrites — if not all meteorites — could be in doubt.
 
+The fact is that they enter our atmosphere as highly irregular pieces — apart from the shattering within into several fragments, which is common, but cannot be assumed in all cases, especially if, by direct observation the falling of only a single piece is confirmed; it can be further concluded that they make their orbits in the heavenly space as demolished pieces of a single larger celestial body and in their absent-mindedness occasionally fall to Earth when they enter into the region of Earth's attraction. The lack of original lava-like amorphous constituents in connection with the external irregular form is likely to exclude from the geo- or cosmological points of view the assumption that these meteorites are ejections of lunar volcanoes, as is often claimed.
+
 ...

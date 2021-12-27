@@ -603,4 +603,6 @@ If one examines the results of the investigation of this, albeit limited, group 
 
 *) Also, the chondrules drawn by G. von Drasche of the meteorite from Lancé (Tschermak's Miner. Mittb. 1875. Vol. 5. 1 H.) exactly match, in reference to the inner structure and outer form, our depiction.
 
+Finally, as far as the external shape of the tiny meteoritic iron and ferrous sulfide parts admixed with the chondrites is concerned, we do not notice any regular design at all in these either, neither in little strips corresponding to the nature of ilmenite, for instance in diabase, nor in roundish spherules, isolating the meteoritic iron is easy via a light crushing of the stony mass and extraction with the magnet, with this it is revealed that the surface of the small meteoritic iron pieces is powdery, as though coated over by tiny adhesive mineral particles.
+
 ...

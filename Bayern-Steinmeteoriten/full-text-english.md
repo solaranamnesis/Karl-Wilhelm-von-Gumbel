@@ -609,6 +609,6 @@ The most common type of stony meteorite is predominately that of the so-called c
 
 The fact is that they enter our atmosphere as highly irregular pieces — apart from the shattering within into several fragments, which is common, but cannot be assumed in all cases, especially if, by direct observation the falling of only a single piece is confirmed; it can be further concluded that they make their orbits in the heavenly space as demolished pieces of a single larger celestial body and in their absent-mindedness occasionally fall to Earth when they enter into the region of Earth's attraction. The lack of original lava-like amorphous constituents in connection with the external irregular form is likely to exclude from the geo- or cosmological points of view the assumption that these meteorites are ejections of lunar volcanoes, as is often claimed.
 
-The remark, which G. Neumayer made regarding the Krähenberg fall, namely, that this meteorite's cosmic orbit was associated with the meteor shower whose radiation point lies in the proximity of _δ Virginis_, can only help to make the above hypothesis more likely.
+The remark, which G. Neumayer made regarding the Krähenberg fall, namely, that this meteorite's cosmic orbit was associated with the meteor shower whose radiation point lies in the proximity of δ Virginis, can only help to make the above hypothesis more likely.
 
 ...

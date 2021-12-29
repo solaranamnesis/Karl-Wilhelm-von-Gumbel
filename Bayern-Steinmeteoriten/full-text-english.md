@@ -615,4 +615,6 @@ The remark, which G. Neumayer made regarding the Krähenberg fall,* namely, that
 
 *) Sitz. d. Ac. d. Wiss. in Wien math.-nat. Cl. Vol. 71. 1875. April issue.
 
+We have attempted to consider the chondrites as a whole to establish the plausibility of the origin of our chondrites, in so doing from the geological stand point the highly important question still remains unanswered, how could the individual chondrites have been formed as a stone mass, since when we envisage in greater detail their composition out of tiny mineral slivers, little iron pellets, and nodules (chondrules) without a lava-like cementing agent.
+
 ...

@@ -623,6 +623,6 @@ Daubrée has even attempted with success to corroborate this hyporthesis through
 
 Provided that in so doing the mineralogical aspect, so to speak, of the formation of the meteorites turns up confirmed, the uniquely shattered structure of the chondrites calls for further consideration.
 
-We learn from a more recent publication of Daubrée's* that he conceived of the origination of the chondrules as analogous to the deposition of olivine globules during one of his trials, in which he had melted olivine blended with coal.
+We learn from a more recent publication of Daubrée's* that he conceived of the origination of the chondrules as analogous to the deposition of olivine globules during one of his trials, in which he had melted olivine blended with coal. The comparision would be more comprehensive if the reduction process took place due to hydrogen.
 
 ...

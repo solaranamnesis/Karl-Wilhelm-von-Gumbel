@@ -621,4 +621,6 @@ We have attempted to consider the chondrites as a whole to establish the plausib
 
 Daubrée has even attempted with success to corroborate this hyporthesis through brilliantly conducted experiments. He also ascribes the origins of the olivine rocks of the Earth, which are encountered in the lowest depths, to a similar slagging process over the course of one of the first stages of formation, but unlike the development of the meteorites containing metallic iron, oxygen was available in excess to form both the silicates as well as — instead of the meteoritic iron — magnetite.
 
+Provided that in so doing the mineralogical aspect, so to speak, of the formation of the meteorites turns up confirmed, the uniquely shattered structure of the chondrites calls for further consideration.
+
 ...

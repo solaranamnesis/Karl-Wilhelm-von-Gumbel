@@ -619,6 +619,6 @@ We have attempted to consider the chondrites as a whole to establish the plausib
 
 *) The most important of Daubrée's publications pertinent here are: _Synthetic Experiments Relating to the Meteorites_, in: _Comptes Rendus_. Tact 62. 1866. _Bulletin of the Geological Society of France_ 2. Series A. 26 p. 95 and _Comptes Rendus_. 1877 N. 27.
 
-Daubrée has even attempted with success to corroborate this hyporthesis through brilliantly conducted experiments.
+Daubrée has even attempted with success to corroborate this hyporthesis through brilliantly conducted experiments. He also ascribes the origins of the olivine rocks of the Earth, which are encountered in the lowest depths, to a similar slagging process over the course of one of the first stages of formation, but unlike the development of the meteorites containing metallic iron, oxygen was available in excess to form both the silicates as well as — instead of the meteoritic iron — magnetite.
 
 ...

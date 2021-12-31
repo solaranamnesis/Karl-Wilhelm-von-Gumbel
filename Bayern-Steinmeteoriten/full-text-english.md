@@ -629,4 +629,6 @@ We learn from a more recent publication of Daubrée's* that he conceived of the 
 
 *) _Comptes Rendus_. 1877. No. 27.
 
+In accordance with the processes of Haidinger, Tschermak has also recently undertaken detailed studies on the formation of the meteorites and disclosed in further writings the findings of this highly interesting examination.
+
 ...

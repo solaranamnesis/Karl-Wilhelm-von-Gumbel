@@ -625,4 +625,8 @@ Provided that in so doing the mineralogical aspect, so to speak, of the formatio
 
 We learn from a more recent publication of Daubrée's* that he conceived of the origination of the chondrules as analogous to the deposition of olivine globules during one of his trials, in which he had melted olivine blended with coal. The comparision would be more comprehensive if the reduction process took place due to hydrogen.
 
+*) _Bulletin of the Geological Soceity of France_. 1. 26a. 1868-1869. p. 98 and further on.
+
+*) _Comptes Rendus_. 1877. No. 27.
+
 ...

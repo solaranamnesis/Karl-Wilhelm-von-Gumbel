@@ -655,6 +655,6 @@ I encountered partially similar views, to which my study of the chondrites led, 
 
 *) _The Geological Magazine_, 2. 1865 p. 447.
 
-I would like to add to these remarks some results of observations that I obtained in the carbonaceous meteorites from Bokkeveld and Kaba.
+I would like to add to these remarks some observational results that I obtained in the carbonaceous meteorites from Bokkeveld and Kaba.
 
 ...

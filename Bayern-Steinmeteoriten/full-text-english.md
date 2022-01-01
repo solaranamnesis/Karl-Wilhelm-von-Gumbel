@@ -645,4 +645,6 @@ I have selected the facts which have come to light for all the chondrites — an
 
 4\. that the inner structure of the chondrules has a genetic connection, be it eccentrically fibrous, or granular, or merging into a powdery density, with elongated, round, reminiscent of the egg shape figure, as the nature of the bundles of rays unambiguously shows;
 
+5\. that precipitations in the interior of the globules are occasionally found that correspond to the surface shape and
+
 ...

@@ -649,4 +649,6 @@ I have selected the facts which have come to light for all the chondrites — an
 
 6\. finally, that the chondrules' surface is not polished, as in the case of an origination through tumbling, but rough and bumpy, as if particle after particle had outwardly settled into it,
 
+I have to think, in partial agreement with the cited scholars, that the material out of which the chondrites are comprised arose through a disturbed crystallization process and fragmentation as a consequence of an explosive process within a space, which was composed of a vapor providing the mineral compounds and suffused with hydrogen gas that hindered further oxidation of the meteoritic iron.
+
 ...

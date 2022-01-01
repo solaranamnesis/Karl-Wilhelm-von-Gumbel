@@ -637,6 +637,6 @@ So ingenious are these hypotheses of Daubrée's and Tschermak's, however, I cann
 
 I have selected the facts which have come to light for all the chondrites — and handle them here,
 
-1\. that they are comprised out of only fine or coarser little mineral fragments or out of angular or hemispherical shattered pieces of chondrules and of these themselves;
+1\. that they are merely comprised out of fine or coarser little mineral fragments or out of angular or hemispherical shattered pieces of chondrules and of these themselves;
 
 ...

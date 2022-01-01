@@ -647,4 +647,6 @@ I have selected the facts which have come to light for all the chondrites — an
 
 5\. that precipitations in the interior of the globules are occasionally found that correspond to the surface shape and
 
+6\. finally, that the chondrules' surface is not polished, as in the case of an origination through tumbling, but rough and bumpy, as if particle after particle had outwardly settled into it,
+
 ...

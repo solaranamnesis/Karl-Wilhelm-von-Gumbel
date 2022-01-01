@@ -643,4 +643,6 @@ I have selected the facts which have come to light for all the chondrites — an
 
 3\. that neither the admixed meteoritic iron nor ferrous sulfide nor chromite possess the form of the chondrules and not a trace of sustained tumbling can be detected;
 
+4\. that the inner structure of the chondrules has a genetic connection, be it eccentrically fibrous, or granular, or merging into a powdery density, with elongated, round, reminiscent of the egg shape figure, as the nature of the bundles of rays unambiguously shows;
+
 ...

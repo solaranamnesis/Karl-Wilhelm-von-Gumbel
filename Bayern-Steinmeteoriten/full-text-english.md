@@ -641,4 +641,6 @@ I have selected the facts which have come to light for all the chondrites — an
 
 2\. that there is no trace of lava- or slag-like admixtures nor binding agents; all slagging that is found is only secondary phenomena resulting from the movement of the meteorite within the terrestrial atmosphere;
 
+3\. that neither the admixed meteoritic iron nor ferrous sulfide nor chromite possess the form of the chondrules and not a trace of sustained tumbling can be detected;
+
 ...

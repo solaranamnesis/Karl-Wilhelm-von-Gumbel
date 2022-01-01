@@ -653,4 +653,6 @@ I have to think, in partial agreement with the cited scholars, that the material
 
 I encountered partially similar views, to which my study of the chondrites led, even with Sorby, who in the past had already indicated this in the essay: "On the Physical History of Meteorites."
 
+*) _The Geological Magazine_, 2. 1865 p. 447.
+
 ...

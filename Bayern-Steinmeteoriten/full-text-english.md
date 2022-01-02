@@ -20,13 +20,13 @@ These five stone meteorites are:
 
 1) The stone from Mauerkirchen, now in the Austrian Innviertel, from the fall on November 20, 1768, at four hours past midday.
 
-2) The stone from Eichstädt, which fell five kilometers from the town in the so-called Wittmes [forest] on February 19, 1785 at twelve o'clock midday.
+2) The stone from Eichstädt, which fell five kilometers from the town in the so-called Wittmes [forest] on the 19th of February 1785, at twelve o'clock midday.
 
-3) The stone from Massing near Altötting in southern Bavaria from the fall on December 13, 1803 between the hours of ten and eleven in the morning.
+3) The stone from Massing near Altötting in southern Bavaria from the fall on December 13, 1803, between the hours of ten and eleven in the morning.
 
-4) The stone from Schönenberg next to Burgau and Swabia, which fell on December 25, 1846 at two o'clock in the afternoon and
+4) The stone from Schönenberg next to Burgau and Swabia, which fell on December 25, 1846, at two o'clock in the afternoon and
  
-5) The stone from Krähenberg by Homburg in the Rhenish Pfalz from the fall on May 5, 1869 at six thirty in the evening.
+5) The stone from Krähenberg by Homburg in the Rhenish Pfalz from the fall on the 5th of May 1869, at six thirty in the evening.
 
 I first came upon information of a sixth meteoritic rock in [Ludwig Wilhelm] Gilbert's _Annals of Physics_, 15th volume page 317, where it is cited that Gaspar Schott's _Physica curiosa_, 11th volume 19th chapter, reports: "here in our city of Herbipolis [Würzburg] is preserved in the temple of St. Jacobi across the bastion, in the monastery of the Scots,* chained to the temple column... it is hard and with an iron nature." Hence, it works out that it was presumably an iron meteorite. I put forward my inquiries about vestiges of this rock to the gentleman Professor Sandberger in Würzburg, who was nice enough to perform the most thorough search. The rock is missing. Owing to Sandberger's gracious communication, further information is given by Schnurrer in his _History of Epidemics_, volume two: "In the year 1103 (or 1104) a meteoritic rock fell in Würzburg, so big that four men were hardly able to carry the fourth part of it."
 

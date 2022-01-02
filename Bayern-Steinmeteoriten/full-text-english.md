@@ -20,7 +20,7 @@ These five stone meteorites are:
 
 1) The stone from Mauerkirchen, now in the Austrian Innviertel, from the fall on November 20, 1768, at four hours past midday.
 
-2) The stone from Eichstädt, which fell five kilometers from the town in the so-called Wittmes [forest] on the 19th of February 1785, at twelve o'clock midday.
+2) The stone from Eichstädt, which fell five kilometers from the town in the so-called Wittmes [a nearby forest] on the 19th of February 1785, at twelve o'clock midday.
 
 3) The stone from Massing near Altötting in southern Bavaria from the fall on December 13, 1803, between the hours of ten and eleven in the morning.
 

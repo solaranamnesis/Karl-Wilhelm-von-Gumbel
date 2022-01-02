@@ -283,7 +283,7 @@ According to my observations, the stone has a brownish-black crust, shiny like g
 
 2\. of a white mineral, often transparent like glass or merely translucent like a dusty cloud, heavily cracked, seldomly with parallel stripes, furnished at times with clear cleavage surfaces that in polarized light come across as vivid single- or multi-colored patches, and that is also disintegrated by acids, in accordance with a feldspar.
 
-3\. of a wine yellow to greyish-green, or faintly reddish-brown, glass-like matte polished mineral, 1.5 to 2 mm. large, colored vividly in polarized light, through not dichroic, some longitudinal fibers (but unclear, striated) and suffused with abundant small bubbles. These component parts are not decomposed by acids and belong to the augite group.
+3\. of a wine yellow to greyish-green, or faintly reddish-brown, glass-like matte polished mineral, 1.5 to 2 mm. large, colored vividly in polarized light, though not dichroic, some longitudinal fibers (but unclear, striated) and suffused with abundant small bubbles. These component parts are not decomposed by acids and belong to the augite group.
 
 4\. of black, intensely shiny chromite, not decomposable in acids, that yielded a magnificent green glass in the phosphate test.
 

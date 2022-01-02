@@ -1,4 +1,4 @@
-# Proceedings of the Mathematics and Physics Class of the Royal Bavarian Academy of Sciences in Munich.
+# Proceedings of the Mathematics and Physical Class of the Royal Bavarian Academy of Sciences in Munich.
 
 ## Volume 8. Year 1878.
 

@@ -142,7 +142,7 @@ The specific weight* is given:
 from Schreibers as 3.700  
 from Rumler as 3.599  
 
-*) Vergl. Moll's Annal, d. Berg- u. Hüttenk. Vol. 3. p. 251.
+*) Compare with Moll's _Annal, d. Berg- u. Hüttenk_. Vol. 3. p. 251.
 
 Klaproth has analyzed this stone and gives (Gilberts Ann. 13. 338) as its component parts:
 

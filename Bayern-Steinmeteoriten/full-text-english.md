@@ -625,7 +625,7 @@ Provided that in so doing the mineralogical aspect, so to speak, of the formatio
 
 We learn from a more recent publication of Daubrée's* that he conceived of the origination of the chondrules as analogous to the deposition of olivine globules during one of his trials, in which he had melted olivine blended with coal. The comparison would be more comprehensive if the reduction process took place due to hydrogen. Only the other day did a very distinguished scholar on meteorite knowledge, upon chance during the discussion on the subject of the peculiar breccia-like structure of the meteoritic iron from Santa Catharina, say moreover, that the fragmentation of the materials cohering the stone meteorites must be considered as an explosive effect from very compressed gases, perhaps such as it occurs from the application of dynamite. But concerning the formation of the chondrules, he refers to the trial cited above, whereby a kind of granulation gets carried out at the moment in which the substance solidified. Though most often the chondrules seem to him to be simple fragments, which are rounded down due to abrasion, such as arrived at in the investigation of these globules by G. Rose (paper in the Academy of Sciences in Berlin for 1862 p. 97 and 98) and clearly set forth by St. Meunier regarding a number of meteorites (_Comptes Rendus_. 1871. 346 and _Research on the Composition and the Structure of the Meteorites_. 1869).
 
-*) _Bulletin of the Geological Soceity of France_. 1. 26a. 1868-1869. p. 98 and further on.
+*) _Bulletin of the Geological Society of France_. 1. 26a. 1868-1869. p. 98 and further on.
 
 *) _Comptes Rendus_. 1877. No. 27.
 

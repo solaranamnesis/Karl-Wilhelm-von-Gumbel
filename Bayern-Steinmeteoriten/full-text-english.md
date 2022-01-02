@@ -168,7 +168,7 @@ C components not decomposable in HCl:
 
 | A. | B. | C.  
 Silicon dioxide | 33.31 | 34.45 | 55.53  
-Aluminium oxide | 2.31 | 0.86 | 5.13  
+Aluminum oxide | 2.31 | 0.86 | 5.13  
 Iron(II) oxide | 15.34 | 24.52 | 16.66  
 Iron (with phosphorus) | 24.64 | - | -  
 Nickel | 0.94 | - | -  
@@ -198,7 +198,7 @@ Silicon dioxide 55.53 with 29.62 O = 22.6 + 7
 Iron(II) oxide 16.66 with 3.70 O = 3.58 + 0.12  
 Magnesium oxide 19.34 with 7.73 O  
 Chromium oxide 0.73 with 0.23 O  
-Aluminium oxide 5.13 with 2.39 O = 2.33 + 0.06  
+Aluminum oxide 5.13 with 2.39 O = 2.33 + 0.06  
 Calcium oxide 1.13 with 0.32 O  
 Potash 0.56 with 0.10 O  
 Natron 1.62 with 0.42 O  
@@ -229,7 +229,7 @@ The composition of the silicates of 1 and 2 was also found
 Silicon dioxide | 26.26 with 14.22 O | 53.21 with 28.38 O  
 Iron(II) oxide | 30.09 with 6.67 O | 14.86 with 3.30 O  
 Magnesium oxide | 31.53 with 12.60 O | 26.42 with 10.56 O  
-Aluminium oxide | 2.70 with 1.26 O | - -  
+Aluminum oxide | 2.70 with 1.26 O | - -  
 Calcium oxide | 1.00 with 0.29 O | 3.67 with 1.05 O  
 Alkalis | 8.00 with 1.70 O | - -  
 | 99.98 | 98.16  
@@ -295,7 +295,7 @@ The analysis of A. Schwager's yielded:
 
 Substance: | Bulk Analysis | 21.33% decomposable in hydrochloric acid | 78.67% not decomposable in hydrochloric acid  
 Silicon dioxide | 52.115 | 39.59 | 56.71  
-Aluminium oxide | 8.204 | 29.51 | 2.54  
+Aluminum oxide | 8.204 | 29.51 | 2.54  
 Iron(II) oxide | 19.138 | 2.83 | 23.46  
 Iron | 0.523 | 2.49 | -  
 Nickel | Traces | Traces | -  
@@ -307,7 +307,7 @@ Natron | 1.928 | 4.78 | 1.17
 Sulfur | 0.374 | 1.78 | -  
 | 99.720 | 100.06 | 99.86
 
-The 21.33% fraction that can be decomposed by hydrochloric acid can be calculated, according to the observed content of sulfur, magnesium oxide, and aluminium oxide, as approximately consisting of:
+The 21.33% fraction that can be decomposed by hydrochloric acid can be calculated, according to the observed content of sulfur, magnesium oxide, and aluminum oxide, as approximately consisting of:
 
 10% Olivine (hyalosiderite)  
 86% Anorthite with high alkali content  
@@ -317,7 +317,7 @@ In rounded numbers, feldspar A and olivine B would be comprised of:
 
 | A | B  
 Silicon dioxide | 42 | 37.25  
-Aluminium oxide | 34 | -  
+Aluminum oxide | 34 | -  
 Iron(II) oxide | - | 29.75  
 Calcium oxide | 18 | -  
 Magnesium oxide | - | 33.00  
@@ -333,7 +333,7 @@ Both of the latter (A and B) have come up with a composition as follows:
 
 | A | B  
 Silicon dioxide | 66 | 86  
-Aluminium oxide | 19 | -  
+Aluminum oxide | 19 | -  
 Iron(II) oxide | - | 36  
 Calcium oxide | - | 4  
 Magnesium oxide | - | 14  
@@ -361,7 +361,7 @@ The considerable content of chromite in these stones gives reason to investigate
 
 Chromium oxide 52.13  
 Iron(II) oxide 37.68  
-Aluminium oxide 10.25  
+Aluminum oxide 10.25  
 | 100.06  
 
 therefore nearly the composition of the chromite of Baltimore [Emmitsburg or Nanjemoy?] (Maryland), some more evidence for the homogeneity of the formation of the cosmic and telluric minerals.
@@ -386,7 +386,7 @@ The fusion crust is, according to my perception, dully shimmering, black, and in
 
 Substance: | Bulk analysis | 55.18% decomposed by hydrochloric acid | 44.82% not decomposed by hydrochloric acid  
 Silicon dioxide | 40.13 | 24.47 | 57.85  
-Aluminium oxide | 5.57 | 9.45 | 6.75  
+Aluminum oxide | 5.57 | 9.45 | 6.75  
 Iron | 13.77 | 30.56 | -  
 Nickel | 1.47 | 1.48 | 1.44  
 Sulfur | 1.93 | 3.52 | -  
@@ -504,7 +504,7 @@ Nickel (c) | 1.36 | 1.36 | 14.31 | - | -
 Phosphorus (c) | 0.46 | 0.46 | 14.31 | - | -  
 Chromium(II) oxide (d) | 0.89 | - | - | 0.89 | -  
 Iron(II) oxide (d) | 0.32 | - | - | 0.32 | -  
-Aluminium oxide (e) | 3.22 | 0.76 | 1.31 | 2.46 | 5.99  
+Aluminum oxide (e) | 3.22 | 0.76 | 1.31 | 2.46 | 5.99  
 Calcium oxide (e) | 2.06 | 0.42 | 0.73 | 1.64 | 4.00  
 Potash (e) | 1.22 | 0.21 | 0.36 | 1.01 | 2.46  
 Natron (e) | 0.17 | 0.17 | 0.30 | - | -  
@@ -526,7 +526,7 @@ We now compare the results of the latter (B) analysis with those formerly disclo
 
 | A | B.  
 Silicon dioxide | 46.37 | 48.78  
-Aluminium oxide | 0.67 | 3.82  
+Aluminum oxide | 0.67 | 3.82  
 Iron(II) oxide | 22.56 | 20.29  
 Manganese(II) oxide | Traces | 0.93  
 Magnesium oxide | 27.13 | 22.09  
@@ -542,7 +542,7 @@ The silicate constituent parts decomposable in hydrochloric acid are calculated 
 (+) Iron(II) oxide 24.73  
 (+) Magnesium oxide 33.40  
 (+) Manganese(II) oxide 1.80  
-(^) Aluminium oxide 1.76  
+(^) Aluminum oxide 1.76  
 (^) Calcium oxide 0.97  
 (^) Potash 0.48  
 (^) Natron 0.40  
@@ -557,7 +557,7 @@ Accounting for the chromite, the rest not decomposed by hydrochloric acid is com
 Silica | 61.7 or | 30.0 + | 31.7  
 Magnesium oxide | 10.2 | 10.2 | -  
 Iron(II) oxide | 15.6 | 15.6 | -  
-Aluminium oxide | 6.0 | - | 6.0  
+Aluminum oxide | 6.0 | - | 6.0  
 Calcium oxide | 4.0 | 2.0 + | 2.0  
 Potash | 2.5 | - | 2.5  
 | 100.00 | 57.8 | 42.2
@@ -577,7 +577,7 @@ Now, concerning the harder, denser, and darker sections engrained in larger chun
 
 Substance: | Bulk Analysis | 64% decomposable in hydrochloric acid | 39% indecomposable in hydrochloric acid  
 Silica | 39.08 | 28.44 | 57.96  
-Aluminium oxide | 2.08 | 1.46 | 5.79  
+Aluminum oxide | 2.08 | 1.46 | 5.79  
 Iron(II) oxide | 28.53 | 36.20 | 13.75  
 Iron (containing nickel) | 4.43 | 6.92 | -  
 Sulfur | 1.31 | 2.04 | -  

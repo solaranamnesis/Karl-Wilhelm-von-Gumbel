@@ -244,7 +244,7 @@ The remaining part, undecomposed in hydrochloric acid, fits much better with the
 
 ([Figure 3](https://cdn.solaranamnesis.com/Gumbel/Bayern/Fig-3.png) in the accompanying table)
 
-About the nearby circumstances of the fall of these meteorites, Prof. Imhof (_Bavarian Electoral Palatinate Weekly Paper_. 1804. p. 3 and following)* shares:
+About the nearby circumstances of the fall of these meteorites, Professor Imhof (_Bavarian Electoral Palatinate Weekly Paper_. 1804. p. 3 and following)* shares:
 
 *) Gilberts Ann. of Phys. 18. 330.
 
@@ -273,9 +273,9 @@ Magnesia 23.25
 Silicas 31.00  
 Losses in sulfur and nickel 10.06  
 
-Ammler gives (O. Büchner _ibid_. p. 17) the specific weight as 3.3636.
+Ammler gives (Otto Büchner _ibid_. p. 17) the specific weight as 3.3636.
 
-Prof. von Schafhäutl describes (_ibid_. p. 558) this stone, "with the appearance of pumice porphyry, in which the constituent silicates occur in such large aggregates, that one is able to easily discern them with the naked eye. The stone is comprised of milky white grains with sheet-like radial structures, of granular olivine-like pea-sized masses, and partly of dull, basalt-like fragments, which, however, from time to time show up with augite-like cleavage planes, even shiny like glass. Scattered, cracked, iridescent ferrous sulfide and granules of chromite are found sparingly. The stone does not have an effect on the magnetic needle. With the Lötrohr it quite easily melts and is covered with a glassy, shiny glaze, like the aerolite from Stannern."
+Professor von Schafhäutl describes (_ibid_. p. 558) this stone, "with the appearance of pumice porphyry, in which the constituent silicates occur in such large aggregates, that one is able to easily discern them with the naked eye. The stone is comprised of milky white grains with sheet-like radial structures, of granular olivine-like pea-sized masses, and partly of dull, basalt-like fragments, which, however, from time to time show up with augite-like cleavage planes, even shiny like glass. Scattered, cracked, iridescent ferrous sulfide and granules of chromite are found sparingly. The stone does not have an effect on the magnetic needle. With the Lötrohr it quite easily melts and is covered with a glassy, shiny glaze, like the aerolite from Stannern."
 
 According to my observations, the stone has a brownish-black crust, shiny like glass, and its grayish-white, easily friable mass is comprised of:
 

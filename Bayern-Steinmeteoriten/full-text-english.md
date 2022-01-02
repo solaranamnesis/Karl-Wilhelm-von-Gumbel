@@ -349,7 +349,7 @@ Anorthite 18.00
 Second feldspathic substance 11.00  
 Augite mineral 66.00  
 
-Up till now the stone of Massing has been placed on the side of Luotolax and Rammelsberg (_The Chemical Nature of the Meteorites_ p. 136) counts it with the Howardites (olivine-augite-anorthite meteoritic stones).
+Up till now the stone of Massing has been placed on the side of Luotolax and Rammelsberg (_The Chemical Nature of the Meteorites_. p. 136) counts it with the Howardites (olivine-augite-anorthite meteoritic stones).
 
 I think that it has more correspondence with the augite group of the eucrites because the olivine is very sparse in extant.
 

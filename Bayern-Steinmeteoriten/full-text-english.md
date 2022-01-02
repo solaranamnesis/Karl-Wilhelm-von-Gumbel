@@ -534,7 +534,7 @@ Calcium oxide | 2.15 | 2.45
 Potash | - | 1.44  
 Natron | 1.12 | 0.20
 
-Here, too, we observe very limited agreement in individual substances, namely in reference to alumina and magnesia, which again suggests a very uneven blend and distribution of the constituent parts. In fact, upon performing a closer examination of the stone, which is stored in the district collection at Speyer, entire sections of it, as Weiss has already stressed, conspicuously stand out as patches of darker color, greater harndess, and a compact quality when compared to the remaining light gray, friable mass. They are clean shaped inclusions, angular, irregularly defined, broken pieces on a large scale as it were, like the small fragments of the main mass, though also with special qualities. I was placed into the pleasant position of being able to dispose of a little bit of the Speyer stone for my further investigation. Having said this, before I make much note of these special inclusions, I still have to enter into a closer consideration of the various mineral mixtures decomposable and not decomposable in hydrochloric acid.
+Here, too, we observe very limited agreement in individual substances, namely in reference to alumina and magnesia, which again suggests a very uneven blend and distribution of the constituent parts. In fact, upon performing a closer examination of the stone, which is stored in the district collection at Speyer, entire sections of it, as Weiss has already stressed, conspicuously stand out as patches of darker color, greater hardness, and a compact quality when compared to the remaining light gray, friable mass. They are clean shaped inclusions, angular, irregularly defined, broken pieces on a large scale as it were, like the small fragments of the main mass, though also with special qualities. I was placed into the pleasant position of being able to dispose of a little bit of the Speyer stone for my further investigation. Having said this, before I make much note of these special inclusions, I still have to enter into a closer consideration of the various mineral mixtures decomposable and not decomposable in hydrochloric acid.
 
 The silicate constituent parts decomposable in hydrochloric acid are calculated in terms of their composition:
 
@@ -562,7 +562,7 @@ Calcium oxide | 4.0 | 2.0 + | 2.0
 Potash | 2.5 | - | 2.5  
 | 100.00 | 57.8 | 42.2
 
-We are able to break down (1) into A and B and thereby obtain as a result a mineral of the augite group and a mineral of the feldspar group, the first bronzite-like (oxygen ratio of 16:8.1), the second with an oxygen ratio of approximately 6:3:1 (more precisely 16.9:3:1) or labradorite-like, with this the alumina and alkai containing part decomposed by hydrochloric acid is estimated.
+We are able to break down (1) into A and B and thereby obtain as a result a mineral of the augite group and a mineral of the feldspar group, the first bronzite-like (oxygen ratio of 16:8.1), the second with an oxygen ratio of approximately 6:3:1 (more precisely 16.9:3:1) or labradorite-like, with this the alumina and alkali containing part decomposed by hydrochloric acid is estimated.
 
 One is therefore able to assume, that on average the main mass of the meteoritic stone from Krähenberg is comprised out of:
 

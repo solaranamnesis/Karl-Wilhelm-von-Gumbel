@@ -1,4 +1,4 @@
-# Meeting Reports of the Mathematical-Physical Class of the Royal Bavarian Academy of Sciences in Munich.
+# Proceedings of the Mathematical and Physical Science Class of the Royal Bavarian Academy of Sciences in Munich.
 
 ## Volume 5. Year 1875.
 

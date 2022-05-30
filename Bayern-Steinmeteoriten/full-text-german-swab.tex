@@ -11,8 +11,31 @@
 \graphicspath{ {./} }
 \usepackage{microtype}
 \usepackage[figurename=]{caption}
+\usepackage[titles]{tocloft}
+\usepackage{sectsty}
+
+\sectionfont{\Huge}
+\subsectionfont{\LARGE}
+\subsubsectionfont{\LARGE}
 \begin{document}
 \swabfamily
+\renewcommand{\contentsname}{
+\swabfamily{Inhaltsverzeichnis}
+}
+% fix toc page numbers
+\let\origcftsecfont\cft
+\let\origcftsecpagefont\cftsecpagefont
+\let\origcftsecafterpnum\cftsecafterpnum
+\renewcommand{\cftsecpagefont}{\swabfamily{\origcftsecpagefont}}
+\renewcommand{\cftsecafterpnum}{\swabfamily{\origcftsecafterpnum}}
+\let\origcftsubsecpagefont\cftsubsecpagefont
+\let\origcftsubsecafterpnum\cftsubsecafterpnum
+\renewcommand{\cftsubsecpagefont}{\swabfamily{\origcftsubsecpagefont}}
+\renewcommand{\cftsubsecafterpnum}{\swabfamily{\origcftsubsecafterpnum}}
+\let\origcftsubsubsecpagefont\cftsubsubsecpagefont
+\let\origcftsubsubsecafterpnum\cftsubsubsecafterpnum
+\renewcommand{\cftsubsubsecpagefont}{\swabfamily{\origcftsubsubsecpagefont}}
+\renewcommand{\cftsubsubsecafterpnum}{\swabfamily{\origcftsubsubsecafterpnum}}
 \begin{titlepage} % Suppresses headers and footers on the title page
 	\centering % Centre everything on the title page
 	%\scshape % Use small caps for all text on the title page
@@ -26,7 +49,7 @@
 	
 	\vspace{1\baselineskip} % Whitespace above the title
 	
-	{\scshape\LARGE Sitzungsberichte der\\[1.25pt] Mathematisch-Physikalischen Klasse der\\[1.25pt] K"oniglich Bayerischen Akademie der\\[1.25pt] Wissenschaften zu M"unchen\\[1.25pt]}
+	{\Huge Sitzungsberichte der\\[1.25pt] Mathematisch-Physikalischen Klasse der\\[1.25pt] K"oniglich Bayerischen Akademie der\\[1.25pt] Wissenschaften zu M"unchen\\[1.25pt]}
 	
 	\vspace{1\baselineskip} % Whitespace above the title
 
@@ -39,11 +62,11 @@
 	%	Subtitle
 	%------------------------------------------------
 	
-	{\scshape Jahrgang 1878 --- Band 8} % Subtitle or further description
+	{\Large Jahrgang 1878 --- Band 8} % Subtitle or further description
 	
 	\vspace*{1\baselineskip} % Whitespace under the subtitle
 	
-    {\scshape\small In Kommission bei G. Franx} % Subtitle or further description
+    {\Large In Kommission bei G. Franx} % Subtitle or further description
     
 	%------------------------------------------------
 	%	Editor(s)
@@ -66,6 +89,10 @@
 \clearpage
 \tableofcontents
 \clearpage
+\LARGE
+\pagestyle{fancy}
+\fancyhf{}
+\cfoot{\swabfamily{\thepage}}
 \section{\swabfamily{Sitzung vom 9. Februar 1878 --- Herr G"umbel spricht: "Uber die in Bayern gefundenen Steinmeteoriten}}
 \subsection*{\swabfamily{Einleitung}}
 \paragraph{}

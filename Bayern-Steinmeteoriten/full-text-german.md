@@ -50,7 +50,7 @@ Professor Imhof vervollständigte diesen Bericht (Kurpfalzbaier. Wochenblatt. 18
 
 3) kleine plattgedrückte, eckige Körner, welche sich durch schwarzgraue Farbe, muschlichten Bruch, glänzendes Ansehen und größerer Härte von den ändern unterscheiden,
 
-4) noch andere kleine Körner von weißer und gelblicher Farbe, die durchscheinend und schimmernd sind. Nach seiner Analyse besteht der Meteorstein aus:*
+4) noch andere kleine Körner von weißer und gelblicher Farbe, die durchscheinend und schimmernd sind. Nach seiner Analyse besteht der Meteorstein aus:
 
 Kieselsäure 25,40  
 Eisenoxyd 40,24  

@@ -166,10 +166,12 @@ Bringing together the findings of this survey of the stone meteorite of Iowa, th
 [^3]: _Meeting Reports of the Academy of Sciences_. 1875. p. 1175.
 [^4]: _Meeting Reports of the Academy of Sciences_. 1875. p. 1175.
 [^5]: _Cours de géologie comparée_. Compare with: Tschermak, _The Formation of the Meteorites, Meeting Reports of the Academy of Sciences in Vienna_. Volume 71, Section 2. 1875.
-[^6]: _The Paleolithic. Eruptive Stones of the Fichtel Mountains_. 1874. p. 39.
-[^7]: _Journal des Savants_. 1870. p. 38.
-[^8]: _Meeting Reports of the Royal Academy of Sciences in Vienna_. Volume 71, Section 2. 1875. April Issue. pp. 9-10.
-[^9]: _The American Journal of Science and Arts_. James Dana and Silliman. May 1875. Vol. 9. Nr. 54. p. 459; also _Ann. d. Phys. u. Chem. Ergänz._ Volume 7, Part 2.
-[^10]: These analyses were performed by assistant Mr. Ad. Schwager. (1875. 3. Math.-Phys. Class)
-[^11]: _Meeting Reports of the Academy of Sciences in Paris_. Vol. 80. No. 23. 1875. p. 1452.
-[^12]: Rammelsberg. _The Chemical Nature of the Meteorites_. p. 157.
+[^6]: _Ibid._, p. 1453.
+[^7]: _The Paleolithic. Eruptive Stones of the Fichtel Mountains_. 1874. p. 39.
+[^8]: _Journal des Savants_. 1870. p. 38.
+[^9]: _Meeting Reports of the Royal Academy of Sciences in Vienna_. Volume 71, Section 2. 1875. April Issue. pp. 9-10.
+[^10]: _The American Journal of Science and Arts_. James Dana and Silliman. May 1875. Vol. 9. Nr. 54. p. 459; also _Ann. d. Phys. u. Chem. Ergänz._ Volume 7, Part 2.
+[^11]: These analyses were performed by assistant Mr. Ad. Schwager. (1875. 3. Math.-Phys. Class)
+[^12]: _Ibid._
+[^13]: _Meeting Reports of the Academy of Sciences in Paris_. Vol. 80. No. 23. 1875. p. 1452.
+[^14]: Rammelsberg. _The Chemical Nature of the Meteorites_. p. 157.

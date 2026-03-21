@@ -48,7 +48,7 @@ Professor Imhof supplemented this account (_Bavarian Electoral Palatinate Weekly
 
 3) small, flattened, angular grains, which are distinguished by their dark gray color, shell-like breaks, glistening appearance, and greater hardness,
 
-4) still other tiny kernels of a white and yellow color that are translucent and shimmering. According to his analysis, the meteoritic stone is comprised of:
+4) still other tiny kernels of a white and yellow color that are translucent and shimmering. According to his analysis, the meteoritic stone is comprised of:*
 
 Silicon dioxide 25.40  
 Iron oxide 40.24  
@@ -58,6 +58,8 @@ Magnesium oxide 28.75
 Sulfur and losses 2.08  
 
 (Compare with Otto Büchner's _Meteorites in Collections_ 1863 p. 9.)
+
+*) Numbers in tables are in percentages, unless otherwise specified.
 
 Closer examination of the stone further revealed to me that the matt black, slightly glossy in spots, 0.7 — 0.3 millimeter thick crust, like with other meteoritic stones, is merely fusion crust, which merges against the inner main mass without a sharp boundary because this is strengthened by the tiny iron pieces that border it, where sure enough faint amber granules are located and appear more glossy in the latter spots. Frequently the same small mineral pieces are melted and embedded in the crust or protrude into it. The main mass of the stone is colored light gray, dotted black due to the interspersed meteoritic iron, and, at many of these black spots, stained a rust color due to the effects of iron oxidation. The stone may easily be crushed between the fingers and has the impression of a trachytic tuff.
 
